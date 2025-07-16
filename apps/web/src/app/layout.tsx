@@ -13,14 +13,14 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "門田匡陽 年表 | Monden MASAAKI Timeline",
+  title: "Records and remembrance: Timeline",
   description:
     "ミュージシャン門田匡陽の活動年表。日本語縦書きデザインで25年間の音楽活動を時系列で表示。",
   keywords:
     "門田匡陽, Monden MASAAKI, BURGER NUDS, Good Dog Happy Men, Poet-type.M, 年表, タイムライン",
   authors: [{ name: "Monden MASAAKI Timeline Project" }],
   openGraph: {
-    title: "門田匡陽 年表 | Monden MASAAKI Timeline",
+    title: "Records and remembrance: Timeline",
     description: "ミュージシャン門田匡陽の活動年表",
     type: "website",
     locale: "ja_JP",
