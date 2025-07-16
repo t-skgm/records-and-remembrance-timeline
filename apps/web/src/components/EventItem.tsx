@@ -181,6 +181,7 @@ export default function EventItem({ event }: EventItemProps) {
         {event.title}
       </h3>
 
+      {/*
       <div
         className="event-description"
         style={{
@@ -192,6 +193,7 @@ export default function EventItem({ event }: EventItemProps) {
       >
         {event.description}
       </div>
+      */}
 
       {renderMedia()}
     </div>
