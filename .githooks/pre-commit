@@ -2,7 +2,7 @@
 
 if git diff --quiet --exit-code  -- ./apps/web; then
   echo "Running checks ..."
-  pnpm web:lint
+  pnpm web:lint --ui stream
 else
   echo "No changes detected in web"
 fi

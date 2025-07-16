@@ -120,3 +120,4 @@ Thumbs.db
 
 tmp/
 .pnpm-store
+.turbo
