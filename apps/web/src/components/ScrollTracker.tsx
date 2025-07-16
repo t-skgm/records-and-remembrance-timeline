@@ -10,7 +10,6 @@ interface ScrollTrackerProps {
 export default function ScrollTracker({ children }: ScrollTrackerProps) {
   const [currentYear, setCurrentYear] = useState<string>("");
   const [currentMonth, setCurrentMonth] = useState<string>("");
-  const [currentAnchor, setCurrentAnchor] = useState<string>("");
   const containerRef = useRef<HTMLDivElement>(null);
 
   // URL更新用のデバウンス機能
@@ -115,7 +114,6 @@ export default function ScrollTracker({ children }: ScrollTrackerProps) {
           }
 
           if (newHash) {
-            setCurrentAnchor(newHash);
             window.history.replaceState({}, "", newHash);
           }
         }, 500); // 500ms後にURL更新
@@ -184,7 +182,6 @@ export default function ScrollTracker({ children }: ScrollTrackerProps) {
         containerRef={containerRef}
         currentYear={currentYear}
         currentMonth={currentMonth}
-        currentAnchor={currentAnchor}
         onNavigate={scrollToSection}
       />
     </div>

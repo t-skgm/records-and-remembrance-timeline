@@ -11,7 +11,6 @@ interface TableOfContentsProps {
   containerRef: React.RefObject<HTMLDivElement | null>;
   currentYear: string;
   currentMonth: string;
-  currentAnchor: string;
   onNavigate: (year: string, month?: string, date?: string) => void;
 }
 
@@ -19,7 +18,6 @@ export default function TableOfContents({
   containerRef,
   currentYear,
   currentMonth,
-  currentAnchor,
   onNavigate,
 }: TableOfContentsProps) {
   const [tocItems, setTocItems] = useState<TOCItem[]>([]);
@@ -52,33 +50,6 @@ export default function TableOfContents({
 
     setTocItems(items);
   }, [containerRef]);
-
-  const copyShareURL = () => {
-    const shareUrl = `${window.location.origin}${window.location.pathname}${currentAnchor || window.location.hash}`;
-
-    navigator.clipboard
-      .writeText(shareUrl)
-      .then(() => {
-        // 簡単なフィードバック表示
-        const button = document.getElementById("share-button");
-        if (button) {
-          const originalText = button.textContent;
-          button.textContent = "✓ コピー済み";
-          setTimeout(() => {
-            button.textContent = originalText;
-          }, 2000);
-        }
-      })
-      .catch(() => {
-        // フォールバック: テキストエリアを使用
-        const textArea = document.createElement("textarea");
-        textArea.value = shareUrl;
-        document.body.appendChild(textArea);
-        textArea.select();
-        document.execCommand("copy");
-        document.body.removeChild(textArea);
-      });
-  };
 
   if (tocItems.length === 0) return null;
 
@@ -132,34 +103,6 @@ export default function TableOfContents({
             >
               目次
             </h4>
-            {(currentYear || currentMonth || currentAnchor) && (
-              <button
-                id="share-button"
-                onClick={(e) => {
-                  e.stopPropagation();
-                  copyShareURL();
-                }}
-                style={{
-                  background: "none",
-                  border: "1px solid #e0e0e0",
-                  borderRadius: "4px",
-                  fontSize: "0.7rem",
-                  cursor: "pointer",
-                  padding: "0.2rem 0.4rem",
-                  color: "#666",
-                  transition: "all 0.2s ease",
-                }}
-                title="現在位置のURLをコピー"
-                onMouseEnter={(e) => {
-                  e.currentTarget.style.backgroundColor = "#f5f5f5";
-                }}
-                onMouseLeave={(e) => {
-                  e.currentTarget.style.backgroundColor = "transparent";
-                }}
-              >
-                🔗 シェア
-              </button>
-            )}
           </div>
         )}
         <button
