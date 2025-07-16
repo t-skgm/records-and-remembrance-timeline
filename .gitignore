@@ -119,3 +119,4 @@ ehthumbs.db
 Thumbs.db
 
 tmp/
+.pnpm-store

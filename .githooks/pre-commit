@@ -1,8 +1,8 @@
 #!/bin/bash
 
-if git diff --quiet --exit-code  -- ./web; then
+if git diff --quiet --exit-code  -- ./apps/web; then
   echo "Running checks ..."
-  npm run format:web && npm run lint:web:fix
+  pnpm web:lint
 else
-  echo "No changes detected in ./web"
+  echo "No changes detected in web"
 fi

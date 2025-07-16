@@ -39,25 +39,44 @@ Each timeline entry contains:
 
 ## Essential Commands
 
+### Monorepo Management
+
+```bash
+# Install all dependencies
+pnpm install
+
+# Build all packages
+pnpm run build
+
+# Start development servers
+pnpm run dev
+
+# Timeline website specific
+pnpm run timeline:dev
+
+# Data processing
+pnpm run timeline:build
+```
+
 ### Data Processing
 
 ```bash
 # Convert all Markdown articles to timeline JSON
-node scripts/convert-articles-to-timeline.js
+cd apps/data-processor
+pnpm run build
 
 # With Claude API for better summaries (requires ANTHROPIC_API_KEY)
 export ANTHROPIC_API_KEY="your-key"
-node scripts/convert-articles-to-timeline.js
-
-# Install dependencies
-npm install
+cd apps/data-processor
+pnpm run build
 ```
 
 ### Development Environment
 
-- **Package Manager**: npm
+- **Package Manager**: pnpm
+- **Build System**: Turborepo
 - **Module System**: ESM (package.json has "type": "module")
-- **Dependencies**: `@anthropic-ai/sdk`, `gray-matter`
+- **Workspaces**: apps/timeline-website, apps/data-processor, packages/shared
 
 ## Data Processing Behavior
 
@@ -139,4 +158,6 @@ Based on `docs/design-spec.md`:
 
 ## Build and Testing Considerations
 
-- ビルドによるエラーの確認は、npm run typecheck で行う
+- ビルドによるエラーの確認は、pnpm run typecheck で行う
+- モノレポ全体のビルドは、pnpm run build で行う
+- 個別アプリケーションのテストは、各ディレクトリで実行

@@ -1,16 +1,28 @@
 {
-  "name": "workspace",
+  "name": "timeline-monorepo",
   "version": "1.0.0",
-  "main": "index.js",
+  "private": true,
+  "packageManager": "pnpm@9.0.0",
   "type": "module",
   "scripts": {
-    "format:web": "cd web && npm run format",
-    "lint:web": "cd web && npm run lint",
-    "lint:web:fix": "cd web && npm run lint:fix"
+    "build": "turbo build",
+    "dev": "turbo dev",
+    "lint": "turbo lint",
+    "format": "turbo format",
+    "typecheck": "turbo typecheck",
+    "test": "turbo test",
+    "clean": "turbo clean",
+    "web:build": "turbo build --filter=web",
+    "web:dev": "turbo dev --filter=web",
+    "web:lint": "turbo lint --filter=web"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "devDependencies": {
+    "turbo": "^2.5.4"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
   "dependencies": {
     "@anthropic-ai/sdk": "^0.56.0",
     "gray-matter": "^4.0.3"

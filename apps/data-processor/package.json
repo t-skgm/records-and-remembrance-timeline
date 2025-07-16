@@ -1,0 +1,16 @@
+{
+  "name": "data-processor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/convert-articles-to-timeline.js",
+    "dev": "node scripts/convert-articles-to-timeline.js --watch",
+    "lint": "echo 'No linting configured'",
+    "typecheck": "echo 'No TypeScript configured'"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.56.0",
+    "gray-matter": "^4.0.3"
+  }
+}
