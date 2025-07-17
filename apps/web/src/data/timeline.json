@@ -1105,14 +1105,6 @@
       "eventType": "live"
     },
     {
-      "id": "2004-12-12-000001",
-      "date": "2004-12-11",
-      "title": "Good Dog Happy Men - 前夜祭",
-      "description": "サハラの夜に繰り広げられる男たちの祭り",
-      "projectCategory": "Good Dog Happy Men",
-      "eventType": "other"
-    },
-    {
       "id": "2004-12-23-000000",
       "date": "2004-12-22",
       "title": "amiga y arco - コンチェルトプロジェクト チャリティークリスマスライブ2004 at 下北沢GARAGE",
@@ -1151,14 +1143,6 @@
       "description": "Monden MASAAKI活動記録:2005年、GDHMデビュー。多様な音楽性を持つ作品を発表。",
       "projectCategory": "Good Dog Happy Men",
       "eventType": "release"
-    },
-    {
-      "id": "2005-06-01-000001",
-      "date": "2005-05-31",
-      "title": "Good Dog Happy Men - 4人のゴブリン大いに躍る (詩)",
-      "description": "ゴブリンたちが夜遅くまで奇妙な踊りを繰り広げ、その音楽が自然に響き渡る詩的描写。",
-      "projectCategory": "Good Dog Happy Men",
-      "eventType": "other"
     },
     {
       "id": "2005-07-01-000000",
@@ -1604,14 +1588,6 @@
       "description": "Monden MASAAKI's debut album \"Good Dog Happy Men - the GOLDENBELLCITY ep1\" released in 2007.",
       "projectCategory": "Good Dog Happy Men",
       "eventType": "release"
-    },
-    {
-      "id": "2007-06-27-000000_1",
-      "date": "2007-06-26",
-      "title": "Good Dog Happy Men - ハイ・ストレンジネス",
-      "description": "日常の中にある本当の価値を発見し、シンプルな世界観を表現したアルバム。",
-      "projectCategory": "Good Dog Happy Men",
-      "eventType": "other"
     },
     {
       "id": "2007-06-27-000001",
@@ -2141,7 +2117,7 @@
     {
       "id": "2009-04-30-000000",
       "date": "2009-04-29",
-      "title": "韮沢雄希・伊藤大地 Good Dog Happy Men脱退時のコメント",
+      "title": "韮沢雄希・伊藤大地 Good Dog Happy Men 脱退",
       "description": "GDHM脱退、野生生物活動に専念",
       "projectCategory": "Good Dog Happy Men",
       "eventType": "other"
@@ -2219,14 +2195,6 @@
         "url": "https://www.youtube.com/watch?v=n1ezJNc60r4",
         "caption": ""
       }
-    },
-    {
-      "id": "2009-08-05-000001",
-      "date": "2009-08-04",
-      "title": "Good Dog Happy Men - Music From Twilight",
-      "description": "Monden MASAAKIによる「Good Dog Happy Men」のムーディーな音楽活動の概要",
-      "projectCategory": "Good Dog Happy Men",
-      "eventType": "other"
     },
     {
       "id": "2009-08-19-000000",
@@ -2314,33 +2282,9 @@
       "eventType": "release"
     },
     {
-      "id": "2010-01-27-000001_01",
-      "date": "2010-01-26",
-      "title": "Good Dog Happy Men - サラダバー",
-      "description": "ステーキハウスが倒産し、サラダバーも消滅する中、楽観的に対応する様子を描く",
-      "projectCategory": "Good Dog Happy Men",
-      "eventType": "other"
-    },
-    {
-      "id": "2010-01-27-000001_02",
-      "date": "2010-01-26",
-      "title": "Good Dog Happy Men - パスタ",
-      "description": "故人の遺したレシピを思い出しながら、適当にパスタを作る様子を描いた楽曲。",
-      "projectCategory": "Good Dog Happy Men",
-      "eventType": "other"
-    },
-    {
-      "id": "2010-01-27-000001_03",
-      "date": "2010-01-26",
-      "title": "Good Dog Happy Men - ホラー映画",
-      "description": "ホラー映画「Good Dog Happy Men」参加。リック・ベイカーによる特殊メイクを活用。",
-      "projectCategory": "Good Dog Happy Men",
-      "eventType": "other"
-    },
-    {
       "id": "2010-01-27-000002",
       "date": "2010-01-26",
-      "title": "bayfm MOZAIKU NIGHT (The Lightリリース)",
+      "title": "bayfm MOZAIKU NIGHT (The Lightリリース) ゲスト出演",
       "description": "Good Dog Happy Menのボーカルが「MOZAIKU NIGHT」ゲスト出演、セカンドアルバム「The Light」リリース。",
       "projectCategory": "Good Dog Happy Men",
       "eventType": "other"
@@ -2396,7 +2340,7 @@
     {
       "id": "2010-06-01-000000",
       "date": "2010-05-31",
-      "title": "内田武瑠 Good Dog Happy Men脱退時のコメント",
+      "title": "内田武瑠 Good Dog Happy Men脱退",
       "description": "Good Dog Happy Men脱退、門田匡陽ソロ活動開始、新体制で再開予定",
       "projectCategory": "Good Dog Happy Men",
       "eventType": "other"
@@ -2865,14 +2809,6 @@
       "eventType": "release"
     },
     {
-      "id": "2013-10-02-000002",
-      "date": "2013-10-01",
-      "title": "Poet-type.M - 何もかも越えて、吐き気がする (Down To Heaven)",
-      "description": "Poeta-type.Mは教会内の出来事を描いた作品。暗く美しい雰囲気に満ちた歌詞が特徴。",
-      "projectCategory": "Poet-type.M",
-      "eventType": "other"
-    },
-    {
       "id": "2013-10-09-000000",
       "date": "2013-10-08",
       "title": "Poet-type.M - インストアライブ at diskunion 下北沢店",
@@ -2927,14 +2863,6 @@
       "description": "2013年にMonden MASAAKIが発表したライブアルバム。ジャンルを超えた楽曲で構成された。",
       "projectCategory": "Poet-type.M",
       "eventType": "release"
-    },
-    {
-      "id": "2013-11-29-000001",
-      "date": "2013-11-28",
-      "title": "Poet-type.M - Hymne à l’amour (Poet-type.M ver.)",
-      "description": "詩と音楽が融合したMASAAKIの楽曲。愛と別れのテーマを描く。",
-      "projectCategory": "Poet-type.M",
-      "eventType": "other"
     },
     {
       "id": "2013-11-29-000002",

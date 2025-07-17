@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useRef } from "react";
 import TableOfContents from "./TableOfContents";
+import { clsx } from "clsx";
 
 interface ScrollTrackerProps {
   children: React.ReactNode;
@@ -161,7 +162,13 @@ export default function ScrollTracker({ children }: ScrollTrackerProps) {
     <div className="relative h-screen">
       {/* Fixed header showing current year/month */}
       {(currentYear || currentMonth) && (
-        <div className="fixed top-0 left-0 right-0 bg-timeline-header backdrop-blur-timeline border-b border-timeline-border px-8 py-4 z-[100] flex items-center gap-4 text-xl font-medium text-timeline-text-primary tracking-wider">
+        <div
+          className={clsx(
+            "fixed top-0 left-0 right-0 bg-timeline-header backdrop-blur-timeline",
+            "border-b border-timeline-border px-8 py-4 z-[100]",
+            "flex items-center gap-4 text-xl font-medium text-timeline-text-primary tracking-wider"
+          )}
+        >
           <span>{currentYear}</span>
           {currentMonth && <span>{currentMonth}月</span>}
         </div>
@@ -169,7 +176,10 @@ export default function ScrollTracker({ children }: ScrollTrackerProps) {
 
       <div
         ref={containerRef}
-        className="timeline-container h-screen flex flex-col items-start bg-timeline-bg pt-24 pb-12 px-4 md:px-8 overflow-y-auto"
+        className={clsx(
+          "timeline-container h-screen flex flex-col items-start bg-timeline-bg",
+          "pt-24 pb-12 px-4 md:px-8 overflow-y-auto"
+        )}
       >
         {children}
       </div>

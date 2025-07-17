@@ -1,5 +1,6 @@
 import { TimelineEntry } from "@/types/timeline";
-import { getYouTubeEmbedUrl } from "@/utils/timelineData";
+import { clsx } from "clsx";
+import MediaEmbed from "./MediaEmbed";
 
 interface EventItemProps {
   event: TimelineEntry;
@@ -21,65 +22,36 @@ export default function EventItem({ event }: EventItemProps) {
     return typeMap[eventType] || eventType;
   };
 
-  const renderMedia = () => {
-    if (!event.media) return null;
-
-    if (event.media.type === "youtube") {
-      const embedUrl = getYouTubeEmbedUrl(event.media.url);
-      return (
-        <div className="media-embed max-w-[480px] mt-4 mb-2">
-          <div className="relative pb-[56.25%] h-0 overflow-hidden rounded-lg bg-gray-100">
-            <iframe
-              src={embedUrl}
-              title={event.title}
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowFullScreen
-              className="absolute top-0 left-0 w-full h-full border-none"
-            />
-          </div>
-          {event.media.caption && (
-            <p className="text-xs text-timeline-text-muted mt-2 leading-relaxed">
-              {event.media.caption}
-            </p>
-          )}
-        </div>
-      );
-    }
-
-    if (event.media.type === "image") {
-      return (
-        <div className="media-embed max-w-[400px] mt-4 mb-2">
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
-            src={event.media.url}
-            alt={event.title}
-            loading="lazy"
-            className="w-full h-auto rounded-lg bg-gray-100 block"
-          />
-          {event.media.caption && (
-            <p className="text-xs text-timeline-text-muted mt-2 leading-relaxed">
-              {event.media.caption}
-            </p>
-          )}
-        </div>
-      );
-    }
-
-    return null;
-  };
-
   return (
     <div
       id={`date-${event.date}`}
-      className={`event-item ${event.eventType} block mb-6 py-2 relative font-sans leading-relaxed tracking-wide`}
+      className={clsx(
+        "event-item block mb-6 py-2 relative font-sans leading-relaxed tracking-wide",
+        event.eventType
+      )}
     >
       <div className="event-meta-wrapper flex flex-row gap-2.5 mb-2">
         <time className="event-date text-sm text-timeline-text-secondary font-semibold min-w-12 text-left pr-2 border-r border-gray-200">
           {formatDate(event.date)}
         </time>
 
-        <div className="event-meta text-xs text-gray-400 pl-2">
-          {event.projectCategory} [{formatEventType(event.eventType)}]
+        <div className="event-meta flex flex-wrap gap-2 pl-2">
+          <span
+            className={clsx(
+              "px-2 py-0.5 text-xs font-medium rounded-full border",
+              "bg-timeline-accent-light text-timeline-accent border-timeline-accent/30"
+            )}
+          >
+            {event.projectCategory}
+          </span>
+          <span
+            className={clsx(
+              "px-2 py-0.5 text-xs font-medium rounded-full border",
+              "bg-gray-100 text-gray-700 border-gray-300"
+            )}
+          >
+            {formatEventType(event.eventType)}
+          </span>
         </div>
       </div>
 
@@ -88,20 +60,12 @@ export default function EventItem({ event }: EventItemProps) {
       </h3>
 
       {/*
-      <div
-        className="event-description"
-        style={{
-          fontSize: "0.85rem",
-          color: "#666",
-          lineHeight: 1.5,
-          marginBottom: "0.5rem",
-        }}
-      >
+      <div className="event-description text-sm text-timeline-text-secondary mb-2">
         {event.description}
       </div>
       */}
 
-      {renderMedia()}
+      {event.media && <MediaEmbed media={event.media} title={event.title} />}
     </div>
   );
 }

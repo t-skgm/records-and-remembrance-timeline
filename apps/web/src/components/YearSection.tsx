@@ -9,7 +9,7 @@ interface YearSectionProps {
 export default function YearSection({ year, monthsData }: YearSectionProps) {
   // Sort months in chronological order
   const sortedMonths = Object.keys(monthsData).sort(
-    (a, b) => parseInt(a) - parseInt(b),
+    (a, b) => parseInt(a) - parseInt(b)
   );
 
   return (
