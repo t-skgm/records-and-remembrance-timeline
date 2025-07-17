@@ -1,9 +1,14 @@
 @import "tailwindcss";
+@plugin "@tailwindcss/typography";
 
 @theme {
   /* 日本語フォント設定 */
-  --font-sans: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans", Ubuntu, Cantarell, "Helvetica Neue", Arial, sans-serif, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "BIZ UDPGothic", Meiryo, "Yu Gothic UI", "Yu Gothic", "MS PGothic";
-  
+  --font-sans:
+    system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Noto Sans", Ubuntu, Cantarell, "Helvetica Neue", Arial, sans-serif,
+    "Hiragino Kaku Gothic ProN", "Hiragino Sans", "BIZ UDPGothic", Meiryo,
+    "Yu Gothic UI", "Yu Gothic", "MS PGothic";
+
   /* タイムライン用カラーパレット */
   --color-timeline-bg: #fdfdfd;
   --color-timeline-header: rgba(253, 253, 253, 0.95);
@@ -14,16 +19,16 @@
   --color-timeline-accent: #0066cc;
   --color-timeline-accent-light: rgba(0, 102, 204, 0.1);
   --color-timeline-hover: rgba(0, 0, 0, 0.05);
-  
+
   /* レスポンシブブレイクポイント */
   --breakpoint-xs: 475px;
-  
+
   /* 幅の追加設定 */
   --width-70: 17.5rem; /* 280px for TOC */
-  
+
   /* タイムライン用スペーシング */
   --spacing-header: 100px; /* HEADER_OFFSET定数 */
-  
+
   /* アニメーション設定 */
   --backdrop-blur-timeline: 8px;
   --shadow-timeline: 0 4px 20px rgba(0, 0, 0, 0.1);

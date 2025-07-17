@@ -1,6 +1,7 @@
 import { TimelineEntry } from "@/types/timeline";
 import { clsx } from "clsx";
 import { MediaEmbed } from "./MediaEmbed";
+import Link from "next/link";
 
 interface EventItemProps {
   event: TimelineEntry;
@@ -20,6 +21,32 @@ export function EventItem({ event }: EventItemProps) {
       other: "その他",
     };
     return typeMap[eventType] || eventType;
+  };
+
+  // タイトル部分を条件付きでリンク化
+  const renderTitle = () => {
+    const titleElement = (
+      <h3
+        className={clsx(
+          "event-title text-base font-medium mb-1 leading-snug",
+          event.articlePath
+            ? "text-timeline-accent hover:underline cursor-pointer transition-colors"
+            : "text-timeline-text-primary"
+        )}
+      >
+        {event.title}
+      </h3>
+    );
+
+    if (event.articlePath) {
+      return (
+        <Link href={event.articlePath} className="block">
+          {titleElement}
+        </Link>
+      );
+    }
+
+    return titleElement;
   };
 
   return (
@@ -55,9 +82,7 @@ export function EventItem({ event }: EventItemProps) {
         </div>
       </div>
 
-      <h3 className="event-title text-base font-medium text-timeline-text-primary mb-1 leading-snug">
-        {event.title}
-      </h3>
+      {renderTitle()}
 
       {/*
       <div className="event-description text-sm text-timeline-text-secondary mb-2">

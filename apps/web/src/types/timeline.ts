@@ -5,6 +5,7 @@ export interface TimelineEntry {
   description: string;
   projectCategory: string;
   eventType: "release" | "live" | "collaboration" | "other";
+  articlePath?: string; // 追加: 記事へのパス（オプション）
   media?: {
     type: "image" | "youtube" | "none";
     url: string;
