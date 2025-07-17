@@ -17,6 +17,9 @@ export default function ScrollTracker({ children }: ScrollTrackerProps) {
   // 初期ロードフラグ（スクロールによるURL変化を区別するため）
   const isInitialLoad = useRef(true);
 
+  // 固定ヘッダーのオフセット定数
+  const HEADER_OFFSET = 100;
+
   // URLアンカーから初期位置を設定（初期ロード時のみ）
   useEffect(() => {
     if (!isInitialLoad.current) return; // 初期ロード以外は無視
@@ -33,7 +36,7 @@ export default function ScrollTracker({ children }: ScrollTrackerProps) {
             containerRef.current.scrollTop +
             elementRect.top -
             containerRect.top -
-            100; // オフセット for fixed header
+            HEADER_OFFSET; // オフセット for fixed header
 
           containerRef.current.scrollTo({
             top: scrollTop,
@@ -66,7 +69,7 @@ export default function ScrollTracker({ children }: ScrollTrackerProps) {
         containerRef.current.scrollTop +
         elementRect.top -
         containerRect.top -
-        100; // オフセット for fixed header
+        HEADER_OFFSET; // オフセット for fixed header
 
       containerRef.current.scrollTo({
         top: scrollTop,
@@ -93,7 +96,7 @@ export default function ScrollTracker({ children }: ScrollTrackerProps) {
 
         // Check if year section is currently visible
         if (
-          yearRect.top <= containerRect.top + 100 &&
+          yearRect.top <= containerRect.top + HEADER_OFFSET &&
           yearRect.bottom > containerRect.top
         ) {
           foundYear =
@@ -104,7 +107,7 @@ export default function ScrollTracker({ children }: ScrollTrackerProps) {
           monthSections.forEach((monthSection) => {
             const monthRect = monthSection.getBoundingClientRect();
             if (
-              monthRect.top <= containerRect.top + 150 &&
+              monthRect.top <= containerRect.top + HEADER_OFFSET &&
               monthRect.bottom > containerRect.top
             ) {
               const monthText =
