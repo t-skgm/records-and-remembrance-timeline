@@ -14,7 +14,7 @@ export default function Timeline({ timelineData }: TimelineProps) {
 
   return (
     <ScrollTracker>
-      <div style={{ paddingTop: "2rem" }} />
+      <div className="pt-8" />
 
       {sortedYears.map((year) => (
         <YearSection key={year} year={year} monthsData={timelineData[year]} />

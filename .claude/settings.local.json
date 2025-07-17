@@ -10,10 +10,12 @@
       "mcp__playwright__browser_wait_for",
       "Bash(npm run build:*)",
       "Bash(git add:*)",
-      "Bash(grep:*)",
       "Bash(cat:*)",
       "Bash(npm run typecheck:*)",
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "Bash(rg:*)",
+      "Bash(fdfind:*)",
+      "Bash(ls:*)"
     ],
     "deny": [
       "Bash(curl:*)",

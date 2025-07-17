@@ -13,36 +13,15 @@ export default function MonthSection({
   events,
 }: MonthSectionProps) {
   return (
-    <div
-      className="month-section"
-      style={{
-        display: "block",
-        width: "100%",
-        marginBottom: "2rem",
-        paddingLeft: "2rem",
-        position: "relative",
-      }}
-    >
+    <div className="month-section block w-full mb-8 pl-4 md:pl-8 relative">
       <h3
         id={`month-${year}-${month}`}
-        className="month-title"
-        style={{
-          fontSize: "1.2rem",
-          fontWeight: 500,
-          color: "#555",
-          marginBottom: "1rem",
-          letterSpacing: "0.05em",
-        }}
+        className="month-title text-xl font-medium text-timeline-text-secondary mb-4 tracking-wider"
       >
         {month}月
       </h3>
 
-      <div
-        className="events-container"
-        style={{
-          paddingLeft: "1rem",
-        }}
-      >
+      <div className="events-container pl-4">
         {events.map((event) => (
           <EventItem key={event.id} event={event} />
         ))}

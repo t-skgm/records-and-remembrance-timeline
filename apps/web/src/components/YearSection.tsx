@@ -13,25 +13,10 @@ export default function YearSection({ year, monthsData }: YearSectionProps) {
   );
 
   return (
-    <div
-      className="year-section"
-      style={{
-        display: "block",
-        width: "100%",
-        marginBottom: "3rem",
-        position: "relative",
-      }}
-    >
+    <div className="year-section block w-full mb-12 relative">
       <h2
         id={`year-${year}`}
-        className="year-title"
-        style={{
-          fontSize: "2rem",
-          fontWeight: 400,
-          color: "#333",
-          marginBottom: "2rem",
-          letterSpacing: "0.1em",
-        }}
+        className="year-title text-3xl font-normal text-timeline-text-primary mb-8 tracking-widest"
       >
         {year}
       </h2>

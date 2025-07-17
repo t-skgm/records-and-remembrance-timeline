@@ -158,29 +158,10 @@ export default function ScrollTracker({ children }: ScrollTrackerProps) {
   }, [currentYear, currentMonth]);
 
   return (
-    <div style={{ position: "relative", height: "100vh" }}>
+    <div className="relative h-screen">
       {/* Fixed header showing current year/month */}
       {(currentYear || currentMonth) && (
-        <div
-          style={{
-            position: "fixed",
-            top: 0,
-            left: 0,
-            right: 0,
-            background: "rgba(253, 253, 253, 0.95)",
-            backdropFilter: "blur(8px)",
-            borderBottom: "1px solid #e0e0e0",
-            padding: "1rem 2rem",
-            zIndex: 100,
-            display: "flex",
-            alignItems: "center",
-            gap: "1rem",
-            fontSize: "1.2rem",
-            fontWeight: 500,
-            color: "#333",
-            letterSpacing: "0.05em",
-          }}
-        >
+        <div className="fixed top-0 left-0 right-0 bg-timeline-header backdrop-blur-timeline border-b border-timeline-border px-8 py-4 z-[100] flex items-center gap-4 text-xl font-medium text-timeline-text-primary tracking-wider">
           <span>{currentYear}</span>
           {currentMonth && <span>{currentMonth}月</span>}
         </div>
@@ -188,16 +169,7 @@ export default function ScrollTracker({ children }: ScrollTrackerProps) {
 
       <div
         ref={containerRef}
-        className="timeline-container"
-        style={{
-          height: "100vh",
-          display: "flex",
-          flexDirection: "column",
-          alignItems: "flex-start",
-          background: "#fdfdfd",
-          padding: "6rem 2rem 3rem 2rem", // Top padding increased for fixed header
-          overflowY: "auto",
-        }}
+        className="timeline-container h-screen flex flex-col items-start bg-timeline-bg pt-24 pb-12 px-4 md:px-8 overflow-y-auto"
       >
         {children}
       </div>
