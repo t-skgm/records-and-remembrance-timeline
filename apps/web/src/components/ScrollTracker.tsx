@@ -26,8 +26,19 @@ export default function ScrollTracker({ children }: ScrollTrackerProps) {
       // アンカーがある場合、該当セクションにスクロール
       setTimeout(() => {
         const targetElement = document.querySelector(hash);
-        if (targetElement) {
-          targetElement.scrollIntoView({ behavior: "smooth" });
+        if (targetElement && containerRef.current) {
+          const elementRect = targetElement.getBoundingClientRect();
+          const containerRect = containerRef.current.getBoundingClientRect();
+          const scrollTop =
+            containerRef.current.scrollTop +
+            elementRect.top -
+            containerRect.top -
+            100; // オフセット for fixed header
+
+          containerRef.current.scrollTo({
+            top: scrollTop,
+            behavior: "smooth",
+          });
         }
         isInitialLoad.current = false; // 初期ロード完了をマーク
       }, 100);
@@ -48,8 +59,19 @@ export default function ScrollTracker({ children }: ScrollTrackerProps) {
     }
 
     const targetElement = document.querySelector(targetId);
-    if (targetElement) {
-      targetElement.scrollIntoView({ behavior: "smooth" });
+    if (targetElement && containerRef.current) {
+      const elementRect = targetElement.getBoundingClientRect();
+      const containerRect = containerRef.current.getBoundingClientRect();
+      const scrollTop =
+        containerRef.current.scrollTop +
+        elementRect.top -
+        containerRect.top -
+        100; // オフセット for fixed header
+
+      containerRef.current.scrollTo({
+        top: scrollTop,
+        behavior: "smooth",
+      });
       // URLハッシュを更新
       window.history.replaceState({}, "", targetId);
     }
@@ -170,7 +192,7 @@ export default function ScrollTracker({ children }: ScrollTrackerProps) {
           flexDirection: "column",
           alignItems: "flex-start",
           background: "#fdfdfd",
-          padding: "5rem 2rem 3rem 2rem", // Top padding increased for fixed header
+          padding: "6rem 2rem 3rem 2rem", // Top padding increased for fixed header
           overflowY: "auto",
         }}
       >

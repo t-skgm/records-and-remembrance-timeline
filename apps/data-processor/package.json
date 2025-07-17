@@ -5,7 +5,6 @@
   "type": "module",
   "scripts": {
     "build": "node scripts/convert-articles-to-timeline.js",
-    "dev": "node scripts/convert-articles-to-timeline.js --watch",
     "lint": "echo 'No linting configured'",
     "typecheck": "echo 'No TypeScript configured'"
   },
