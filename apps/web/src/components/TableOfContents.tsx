@@ -21,7 +21,7 @@ export default function TableOfContents({
   onNavigate,
 }: TableOfContentsProps) {
   const [tocItems, setTocItems] = useState<TOCItem[]>([]);
-  const [isCollapsed, setIsCollapsed] = useState(false);
+  const [isCollapsed, setIsCollapsed] = useState(true);
 
   useEffect(() => {
     if (!containerRef.current) return;
@@ -116,7 +116,7 @@ export default function TableOfContents({
           }}
           title={isCollapsed ? "目次を展開" : "目次を折りたたみ"}
         >
-          {isCollapsed ? "📖" : "−"}
+          {isCollapsed ? "🗓️" : "−"}
         </button>
       </div>
 
