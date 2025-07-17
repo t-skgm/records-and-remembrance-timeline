@@ -1,12 +1,12 @@
 import { TimelineEntry } from "@/types/timeline";
-import MonthSection from "./MonthSection";
+import { MonthSection } from "./MonthSection";
 
 interface YearSectionProps {
   year: string;
   monthsData: { [month: string]: TimelineEntry[] };
 }
 
-export default function YearSection({ year, monthsData }: YearSectionProps) {
+export function YearSection({ year, monthsData }: YearSectionProps) {
   // Sort months in chronological order
   const sortedMonths = Object.keys(monthsData).sort(
     (a, b) => parseInt(a) - parseInt(b)

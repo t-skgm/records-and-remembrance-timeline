@@ -1,12 +1,12 @@
 import { TimelineEntry } from "@/types/timeline";
 import { clsx } from "clsx";
-import MediaEmbed from "./MediaEmbed";
+import { MediaEmbed } from "./MediaEmbed";
 
 interface EventItemProps {
   event: TimelineEntry;
 }
 
-export default function EventItem({ event }: EventItemProps) {
+export function EventItem({ event }: EventItemProps) {
   const formatDate = (dateString: string) => {
     const date = new Date(dateString);
     return `${date.getDate()}日`;

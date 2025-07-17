@@ -15,7 +15,7 @@ interface TableOfContentsProps {
   onNavigate: (year: string, month?: string, date?: string) => void;
 }
 
-export default function TableOfContents({
+export function TableOfContents({
   containerRef,
   currentYear,
   currentMonth,

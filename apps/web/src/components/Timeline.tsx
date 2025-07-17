@@ -1,12 +1,12 @@
 import { GroupedTimeline } from "@/types/timeline";
-import YearSection from "./YearSection";
-import ScrollTracker from "./ScrollTracker";
+import { YearSection } from "./YearSection";
+import { ScrollTracker } from "./ScrollTracker";
 
 interface TimelineProps {
   timelineData: GroupedTimeline;
 }
 
-export default function Timeline({ timelineData }: TimelineProps) {
+export function Timeline({ timelineData }: TimelineProps) {
   // Sort years in chronological order
   const sortedYears = Object.keys(timelineData).sort(
     (a, b) => parseInt(a) - parseInt(b)

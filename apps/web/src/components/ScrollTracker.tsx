@@ -1,14 +1,14 @@
 "use client";
 
 import { useState, useEffect, useRef } from "react";
-import TableOfContents from "./TableOfContents";
+import { TableOfContents } from "./TableOfContents";
 import { clsx } from "clsx";
 
 interface ScrollTrackerProps {
   children: React.ReactNode;
 }
 
-export default function ScrollTracker({ children }: ScrollTrackerProps) {
+export function ScrollTracker({ children }: ScrollTrackerProps) {
   const [currentYear, setCurrentYear] = useState<string>("");
   const [currentMonth, setCurrentMonth] = useState<string>("");
   const containerRef = useRef<HTMLDivElement>(null);

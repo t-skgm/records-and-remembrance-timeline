@@ -2,11 +2,11 @@ import { TimelineEntry } from "@/types/timeline";
 import { getYouTubeEmbedUrl } from "@/utils/timelineData";
 
 interface MediaEmbedProps {
-  media: NonNullable<TimelineEntry['media']>;
+  media: NonNullable<TimelineEntry["media"]>;
   title: string;
 }
 
-export default function MediaEmbed({ media, title }: MediaEmbedProps) {
+export function MediaEmbed({ media, title }: MediaEmbedProps) {
   if (media.type === "youtube") {
     const embedUrl = getYouTubeEmbedUrl(media.url);
     return (
