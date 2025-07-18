@@ -12,7 +12,7 @@
       "id": "1980-01-30-birth",
       "date": "1980-01-30",
       "title": "門田匡陽 誕生",
-      "description": "BURGER NUDS、Good Dog Happy Men、Poet-type.M等で活動する門田匡陽誕生",
+      "description": "芸術一家に生まれる門田匡陽誕生、父親は映像ディレクター、親戚に写真家・小説家・建築デザイナーがいる特殊な環境",
       "projectCategory": "Biography",
       "eventType": "other"
     },
@@ -41,11 +41,65 @@
       "eventType": "other"
     },
     {
+      "id": "1985-elementary-music",
+      "date": "1986-01-01",
+      "title": "小学生時代、交流のあったピーター・バラカンの影響でプリンスとデヴィッド・ボウイを聴き始める",
+      "projectCategory": "Biography",
+      "eventType": "other"
+    },
+    {
+      "id": "1988-boy-scout",
+      "date": "1988-01-01",
+      "title": "小学生から中学校卒業までボーイスカウト活動を行う",
+      "description": "小学生から中学校卒業まで参加、慰霊堂清掃奉仕を経験",
+      "projectCategory": "Biography",
+      "eventType": "other"
+    },
+    {
+      "id": "1990-skiing",
+      "date": "1990-01-01",
+      "title": "小学4年生から中学1年生まではスキー選手を目指す",
+      "projectCategory": "Biography",
+      "eventType": "other"
+    },
+    {
+      "id": "1992-bass-start",
+      "date": "1992-04-01",
+      "title": "門田・内田・城所・韮沢が同じ中学に入学。門田はベースを始める。髪を赤く染める。",
+      "description": "カシオペアの鳴瀬喜博に憧れる。メタルが好きだった。部活はバスケットボール部に所属",
+      "projectCategory": "Biography",
+      "eventType": "other"
+    },
+    {
+      "id": "1992-12-j-pop",
+      "date": "1992-12-01",
+      "title": "「J-Popのヒット曲をコピー」するバンド結成",
+      "description": "中学1年生の時に結成。",
+      "projectCategory": "etc.",
+      "eventType": "other"
+    },
+    {
+      "id": "1993-friendship",
+      "date": "1993-01-01",
+      "title": "中学2年生まで仲が悪かった内田武瑠と友情が生まれる",
+      "description": "中学2年生まで仲が悪かったが、スキー旅行を境に意気投合",
+      "projectCategory": "Biography",
+      "eventType": "other"
+    },
+    {
       "id": "1994-01-01-sweetgirls",
       "date": "1994-01-01",
       "title": "sweet girls 結成",
       "description": "中学3年生の時にsweet girls結成。門田匡陽の最初のバンド活動",
       "projectCategory": "sweet girls",
+      "eventType": "other"
+    },
+    {
+      "id": "1995-classmates",
+      "date": "1995-04-01",
+      "title": "門田・内田・丸山・伊藤・韮沢・城所が同じ高校へ内部進学",
+      "description": "門田・内田・丸山・伊藤・韮沢・城所が高校同級生、門田と内田は7組のクラスメート。SAKEROCK野村卓史は門田・内田と同じクラス",
+      "projectCategory": "Biography",
       "eventType": "other"
     },
     {
@@ -57,19 +111,47 @@
       "eventType": "live"
     },
     {
+      "id": "1997-04-01-sweetgirls-end",
+      "date": "1997-04-01",
+      "title": "門田(Ba.), 韮沢(Vo.), 内田(Gt.), 伊藤(Dr.) で1度ライブをするためだけにバンド結成",
+      "description": "門田(Ba.), 韮沢(Vo.), 内田(Gt.), 伊藤(Dr.) + 高校の友人。韮沢の初バンド。1度ライブをするためだけに組まれた",
+      "projectCategory": "etc.",
+      "eventType": "other"
+    },
+    {
       "id": "1998-03-01-sweetgirls-end",
       "date": "1998-03-01",
-      "title": "sweet girls 解散",
-      "description": "高校卒業とともにsweet girls解散",
+      "title": "高校卒業とともにsweet girls解散",
       "projectCategory": "sweet girls",
       "eventType": "other"
     },
     {
-      "id": "1998-04-01-sunchester",
-      "date": "1998-04-01",
+      "id": "1998-uk-trip",
+      "date": "1998-03-01",
+      "title": "高校卒業頃、伊藤大地と共にイギリスに短期留学、バンド活動を1ヶ月ほど経験",
+      "projectCategory": "Biography",
+      "eventType": "other"
+    },
+    {
+      "id": "1998-tai-tai-meeting",
+      "date": "1998-03-01",
+      "title": "イギリス留学中に前田（tai_tai）と出会う",
+      "projectCategory": "Biography",
+      "eventType": "collaboration"
+    },
+    {
+      "id": "1998-03-01-sunchester",
+      "date": "1998-03-01",
       "title": "サンチェスター・ユナイテッドFC 結成",
       "description": "高校卒業後、サンチェスター・ユナイテッドFCを結成",
       "projectCategory": "サンチェスター・ユナイテッドFC",
+      "eventType": "other"
+    },
+    {
+      "id": "1998-04-01-university",
+      "date": "1998-04-01",
+      "title": "門田(Ba.), 内田(Gt.) が同じ大学へ進学。内田も大学進学。",
+      "projectCategory": "etc.",
       "eventType": "other"
     },
     {
@@ -2428,6 +2510,14 @@
       "eventType": "live"
     },
     {
+      "id": "2010-10-utopia-serial",
+      "date": "2010-10-01",
+      "title": "「楽園の追放者」連載開始",
+      "description": "音楽ニュースサイト「the LIVE Music Magazine」で連載開始、2012年5月まで",
+      "projectCategory": "門田匡陽 (文筆活動)",
+      "eventType": "other"
+    },
+    {
       "id": "2010-10-11-000000",
       "date": "2010-10-10",
       "title": "門田匡陽 -His Band- - the LIVE Music Magazine presents the LIVE Vol.1 at 下北沢GARAGE",
@@ -2710,6 +2800,14 @@
       "eventType": "live"
     },
     {
+      "id": "2012-05-utopia-end",
+      "date": "2012-05-01",
+      "title": "「楽園の追放者」連載終了",
+      "description": "当該サイト閉鎖により連載中止となる",
+      "projectCategory": "門田匡陽 (文筆活動)",
+      "eventType": "other"
+    },
+    {
       "id": "2012-05-18-000000",
       "date": "2012-05-17",
       "title": "2012年セルフカバープロジェクト開始 (のちに断念)",
@@ -2764,6 +2862,14 @@
       "description": "門田匡陽のソロライブ。新感覚の価値創造空間を実現。",
       "projectCategory": "門田匡陽 (ソロ名義/2010)",
       "eventType": "live"
+    },
+    {
+      "id": "2013-04-01-gingahaisen",
+      "date": "2013-04-01",
+      "title": "舞台『銀河廃線〜あの夜、僕は汽車から降りた。』テーマ曲にベースで参加",
+      "description": "舞台『銀河廃線〜あの夜、僕は汽車から降りた。』](http://gingahaisen.tetrachromat.net/) (2013年) 作曲: タマル/宮脇孝之(オフィストランプ) テーマ曲にBassで参加。",
+      "projectCategory": "門田匡陽 (ソロ名義/2010)",
+      "eventType": "etc."
     },
     {
       "id": "2013-05-07-000000",
@@ -3045,6 +3151,14 @@
       }
     },
     {
+      "id": "2015-02-report-d-d",
+      "date": "2015-02-01",
+      "title": "「Report From D & D」連載開始",
+      "description": "「Luckast」にて連載開始",
+      "projectCategory": "門田匡陽 (文筆活動)",
+      "eventType": "other"
+    },
+    {
       "id": "2015-04-01-000000",
       "date": "2015-03-31",
       "title": "Poet-type.M - A Place, Dark & Dark -観た事のないものを好きなだけ-",
@@ -3242,6 +3356,14 @@
       "description": "門田匡陽、下北沢GARAGEでソロライブ。ギター弾き語り中心、新曲披露も。",
       "projectCategory": "門田匡陽 (ソロ名義/2010)",
       "eventType": "live"
+    },
+    {
+      "id": "2016-04-report-d-d-end",
+      "date": "2016-04-01",
+      "title": "「Report From D & D」連載完結",
+      "description": "「Luckast」での連載が完結",
+      "projectCategory": "門田匡陽 (文筆活動)",
+      "eventType": "other"
     },
     {
       "id": "2016-04-11-000000",
@@ -3616,6 +3738,30 @@
       "eventType": "live"
     },
     {
+      "id": "2021-01-01-direction",
+      "date": "2021-01-01",
+      "title": "2021年に「agehasprings Party」所属で音楽ディレクション活動を行う（愛美、堀江由衣、ラピスリライツ・スターズなど）",
+      "description": "",
+      "projectCategory": "門田匡陽 (ソロ名義/2020-)",
+      "eventType": "etc."
+    },
+    {
+      "id": "2021-01-01-ost",
+      "date": "2021-01-01",
+      "title": "2022年公開の「オクトノーツと地上のミッション」に音楽監督として参加",
+      "description": "",
+      "projectCategory": "門田匡陽 (ソロ名義/2020-)",
+      "eventType": "etc."
+    },
+    {
+      "id": "2021-07-17-000000",
+      "date": "2021-07-17",
+      "title": "スギメ (３万年前の航海 徹底再現プロジェクト) 劇伴担当",
+      "description": "[スギメ (３万年前の航海 徹底再現プロジェクト)](https://www.kahaku.go.jp/sugime/) | 作曲 | 監督：門田 修。Amazon Prime Videoなど各配信サービスで配信",
+      "projectCategory": "門田匡陽 (ソロ名義/2020-)",
+      "eventType": "etc."
+    },
+    {
       "id": "2021-12-15-000000",
       "date": "2021-12-14",
       "title": "Monden Masaaki - ethics 2021 at 羽田空港TIAT SKY HALL",
@@ -3627,6 +3773,14 @@
         "url": "https://www.youtube.com/watch?v=tCn8v52DBkg",
         "caption": ""
       }
+    },
+    {
+      "id": "2022-12-18-radio-family",
+      "date": "2022-12-18",
+      "title": "ラジオ「いいね！情報局」に実母と出演",
+      "description": "実家の家業が老舗の鳶向け作業服店で母親が代表、門田が広報とEコマースを担当していることを明かす",
+      "projectCategory": "Biography",
+      "eventType": "other"
     },
     {
       "id": "2023-02-10-220000",
