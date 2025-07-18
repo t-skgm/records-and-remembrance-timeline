@@ -1,12 +1,43 @@
 import { getAllArticles, getArticleByFilename } from "@/utils/articleLoader";
 import { ArticlePage } from "@/components/ArticlePage";
 import Link from "next/link";
+import { Metadata } from "next";
 
 export async function generateStaticParams() {
   const articles = await getAllArticles();
-  return articles.map((filename) => ({
-    id: filename.replace(".md", ""),
-  }));
+  return articles.map((filename) => ({ id: filename.replace(".md", "") }));
+}
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ id: string }>;
+}): Promise<Metadata> {
+  const { id } = await params;
+  try {
+    const article = await getArticleByFilename(`${id}.md`);
+    return {
+      title: `${article.frontmatter.title || "タイトルなし"} - Records and remembrance: Timeline`,
+      description:
+        article.frontmatter.description ||
+        `${article.frontmatter.title || "タイトルなし"}の記事`,
+      openGraph: {
+        title: article.frontmatter.title || "タイトルなし",
+        description:
+          article.frontmatter.description ||
+          `${article.frontmatter.title || "タイトルなし"}の記事`,
+        type: "article",
+        publishedTime: article.frontmatter.date,
+        tags: article.frontmatter.tags || [],
+      },
+    };
+  } catch (error) {
+    console.error("Error generating metadata for article:", error);
+    return {
+      title: "記事が見つかりません - Records and remembrance: Timeline",
+      description: "お探しの記事は存在しないか、削除された可能性があります。",
+    };
+  }
 }
 
 export default async function Article({

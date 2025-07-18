@@ -16,6 +16,16 @@ export function Timeline({ timelineData }: TimelineProps) {
     <ScrollTracker>
       <div className="pt-8" />
 
+      <div className="bg-timeline-bg text-timeline-text-primary mb-26">
+        <h1 className="text-5xl font-bold text-timeline-text-secondary">
+          Records and remembrance: Timeline
+        </h1>
+        <p className="text-lg text-timeline-text-secondary mt-4 italic">
+          Explore the timeline of significant events and milestones of MONDEN
+          Masaaki
+        </p>
+      </div>
+
       {sortedYears.map((year) => (
         <YearSection key={year} year={year} monthsData={timelineData[year]} />
       ))}
