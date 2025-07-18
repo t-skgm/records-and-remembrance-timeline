@@ -1,37 +1,22 @@
 import { TimelineEntry } from "@/types/timeline";
-import MonthSection from "./MonthSection";
+import { MonthSection } from "./MonthSection";
 
 interface YearSectionProps {
   year: string;
   monthsData: { [month: string]: TimelineEntry[] };
 }
 
-export default function YearSection({ year, monthsData }: YearSectionProps) {
+export function YearSection({ year, monthsData }: YearSectionProps) {
   // Sort months in chronological order
   const sortedMonths = Object.keys(monthsData).sort(
-    (a, b) => parseInt(a) - parseInt(b),
+    (a, b) => parseInt(a) - parseInt(b)
   );
 
   return (
-    <div
-      className="year-section"
-      style={{
-        display: "block",
-        width: "100%",
-        marginBottom: "3rem",
-        position: "relative",
-      }}
-    >
+    <div className="year-section block w-full mb-12 relative">
       <h2
         id={`year-${year}`}
-        className="year-title"
-        style={{
-          fontSize: "2rem",
-          fontWeight: 400,
-          color: "#333",
-          marginBottom: "2rem",
-          letterSpacing: "0.1em",
-        }}
+        className="year-title text-3xl font-normal text-timeline-text-primary mb-8 tracking-widest"
       >
         {year}
       </h2>

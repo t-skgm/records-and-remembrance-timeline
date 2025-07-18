@@ -144,6 +144,28 @@ Based on `docs/design-spec.md`:
 
 - WebUI において、日本語では Italic を使うと読みづらいので使わない
 
+## CSS Framework Strategy
+
+### Tailwind CSS v4 を採用
+
+**採用理由：**
+- 既存環境に含まれており追加設定が最小限
+- ユーティリティファーストで開発効率が高い
+- Next.js 15 + TypeScriptとの親和性が高い
+- レスポンシブ対応が簡潔（sm:, md:, lg: prefix）
+- 日本語フォント対応とカスタマイズ性に優れる
+
+**実装方針：**
+- インラインスタイルからTailwindクラスへ段階的移行
+- レスポンシブデザインパターンの統一
+- 日本語表示に最適化されたタイポグラフィ設定
+- カスタムカラーパレットでブランド一貫性確保
+
+**デザインシステム：**
+- モノクロ基調の minimalist デザイン
+- 日本語縦書き対応（将来的）
+- PC-first design with mobile optimization
+
 ## Task Completion Reminder
 
 - タスク完了後は必ず git commit を実行すること
@@ -161,3 +183,7 @@ Based on `docs/design-spec.md`:
 - ビルドによるエラーの確認は、pnpm run typecheck で行う
 - モノレポ全体のビルドは、pnpm run build で行う
 - 個別アプリケーションのテストは、各ディレクトリで実行
+
+## Command Line Tools
+
+- より高速なコマンドとして、findコマンドのかわりにfdfind、grepの代わりにrgコマンドが利用できるため、優先してください

@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import { clsx } from "clsx";
 
 interface TOCItem {
   year: string;
@@ -14,14 +15,14 @@ interface TableOfContentsProps {
   onNavigate: (year: string, month?: string, date?: string) => void;
 }
 
-export default function TableOfContents({
+export function TableOfContents({
   containerRef,
   currentYear,
   currentMonth,
   onNavigate,
 }: TableOfContentsProps) {
   const [tocItems, setTocItems] = useState<TOCItem[]>([]);
-  const [isCollapsed, setIsCollapsed] = useState(false);
+  const [isCollapsed, setIsCollapsed] = useState(true);
 
   useEffect(() => {
     if (!containerRef.current) return;
@@ -55,132 +56,63 @@ export default function TableOfContents({
 
   return (
     <div
-      style={{
-        position: "fixed",
-        top: "80px", // Below the year/month header
-        right: "20px",
-        width: isCollapsed
-          ? "auto"
-          : window.innerWidth < 768
-            ? "240px"
-            : "280px",
-        maxHeight: "calc(100vh - 120px)",
-        background: "rgba(255, 255, 255, 0.95)",
-        backdropFilter: "blur(8px)",
-        border: "1px solid #e0e0e0",
-        borderRadius: "12px",
-        padding: isCollapsed ? "0.5rem" : "1rem",
-        zIndex: 90,
-        fontSize: "0.85rem",
-        overflowY: "auto",
-        boxShadow: "0 4px 20px rgba(0, 0, 0, 0.1)",
-        // Mobile adjustments
-        ...(window.innerWidth < 768 && {
-          right: "10px",
-          fontSize: "0.8rem",
-        }),
-      }}
+      className={clsx(
+        "fixed top-20 right-5 md:right-5 max-h-[calc(100vh-120px)]",
+        "bg-white/95 backdrop-blur-timeline border border-timeline-border",
+        "rounded-xl z-[90] text-sm overflow-y-auto shadow-timeline",
+        "md:text-sm text-xs",
+        isCollapsed ? "p-2 w-auto" : "p-4 w-60 md:w-70"
+      )}
     >
       <div
-        style={{
-          display: "flex",
-          justifyContent: "space-between",
-          alignItems: "center",
-          marginBottom: isCollapsed ? 0 : "0.75rem",
-          cursor: "pointer",
-        }}
+        className={clsx(
+          "flex justify-between items-center cursor-pointer",
+          isCollapsed ? "mb-0" : "mb-3"
+        )}
         onClick={() => setIsCollapsed(!isCollapsed)}
       >
         {!isCollapsed && (
-          <div style={{ display: "flex", alignItems: "center", gap: "0.5rem" }}>
-            <h4
-              style={{
-                margin: 0,
-                fontSize: "0.9rem",
-                fontWeight: 600,
-                color: "#333",
-              }}
-            >
+          <div className="flex items-center gap-2">
+            <h4 className="m-0 text-sm font-semibold text-timeline-text-primary">
               目次
             </h4>
           </div>
         )}
         <button
-          style={{
-            background: "none",
-            border: "none",
-            fontSize: "1rem",
-            cursor: "pointer",
-            padding: "0.25rem",
-            color: "#666",
-          }}
+          className="bg-none border-none text-base cursor-pointer p-1 text-timeline-text-muted"
           title={isCollapsed ? "目次を展開" : "目次を折りたたみ"}
         >
-          {isCollapsed ? "📖" : "−"}
+          {isCollapsed ? "🗓️" : "−"}
         </button>
       </div>
 
       {!isCollapsed && (
-        <div style={{ maxHeight: "calc(100vh - 200px)", overflowY: "auto" }}>
+        <div className="max-h-[calc(100vh-200px)] overflow-y-auto">
           {tocItems.map((item) => (
-            <div key={item.year} style={{ marginBottom: "0.75rem" }}>
+            <div key={item.year} className="mb-3">
               <div
-                style={{
-                  cursor: "pointer",
-                  padding: "0.25rem 0.5rem",
-                  fontWeight: 600,
-                  color: currentYear === item.year ? "#0066cc" : "#333",
-                  backgroundColor:
-                    currentYear === item.year
-                      ? "rgba(0, 102, 204, 0.1)"
-                      : "transparent",
-                  borderRadius: "4px",
-                  transition: "all 0.2s ease",
-                }}
+                className={clsx(
+                  "cursor-pointer py-1 px-2 font-semibold rounded transition-all duration-200",
+                  currentYear === item.year
+                    ? "text-timeline-accent bg-timeline-accent-light"
+                    : "text-timeline-text-primary bg-transparent hover:bg-timeline-hover"
+                )}
                 onClick={() => onNavigate(item.year)}
-                onMouseEnter={(e) => {
-                  if (currentYear !== item.year) {
-                    e.currentTarget.style.backgroundColor =
-                      "rgba(0, 0, 0, 0.05)";
-                  }
-                }}
-                onMouseLeave={(e) => {
-                  if (currentYear !== item.year) {
-                    e.currentTarget.style.backgroundColor = "transparent";
-                  }
-                }}
               >
                 {item.year}
               </div>
               {currentYear === item.year && (
-                <div style={{ paddingLeft: "1rem", marginTop: "0.25rem" }}>
+                <div className="pl-4 mt-1">
                   {item.months.map((month) => (
                     <div
                       key={`${item.year}-${month}`}
-                      style={{
-                        cursor: "pointer",
-                        padding: "0.2rem 0.5rem",
-                        fontSize: "0.8rem",
-                        color: currentMonth === month ? "#0066cc" : "#666",
-                        backgroundColor:
-                          currentMonth === month
-                            ? "rgba(0, 102, 204, 0.1)"
-                            : "transparent",
-                        borderRadius: "3px",
-                        transition: "all 0.2s ease",
-                      }}
+                      className={clsx(
+                        "cursor-pointer py-0.5 px-2 text-xs rounded-sm transition-all duration-200",
+                        currentMonth === month
+                          ? "text-timeline-accent bg-timeline-accent-light"
+                          : "text-timeline-text-muted bg-transparent hover:bg-timeline-hover"
+                      )}
                       onClick={() => onNavigate(item.year, month)}
-                      onMouseEnter={(e) => {
-                        if (currentMonth !== month) {
-                          e.currentTarget.style.backgroundColor =
-                            "rgba(0, 0, 0, 0.05)";
-                        }
-                      }}
-                      onMouseLeave={(e) => {
-                        if (currentMonth !== month) {
-                          e.currentTarget.style.backgroundColor = "transparent";
-                        }
-                      }}
                     >
                       {month}月
                     </div>

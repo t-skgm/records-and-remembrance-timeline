@@ -22,6 +22,7 @@ RUN apt update && apt install -y less \
   jq \
   ripgrep \
   fd-find \
+  vim \
   # playwright dependencies
   libasound2 \
   libatk-bridge2.0-0 \

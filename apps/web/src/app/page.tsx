@@ -1,5 +1,5 @@
 import { Suspense } from "react";
-import Timeline from "@/components/Timeline";
+import { Timeline } from "@/components/Timeline";
 import {
   loadTimelineData,
   groupTimelineByYearMonth,

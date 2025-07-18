@@ -1,13 +1,14 @@
 "use client";
 
 import { useState, useEffect, useRef } from "react";
-import TableOfContents from "./TableOfContents";
+import { TableOfContents } from "./TableOfContents";
+import { clsx } from "clsx";
 
 interface ScrollTrackerProps {
   children: React.ReactNode;
 }
 
-export default function ScrollTracker({ children }: ScrollTrackerProps) {
+export function ScrollTracker({ children }: ScrollTrackerProps) {
   const [currentYear, setCurrentYear] = useState<string>("");
   const [currentMonth, setCurrentMonth] = useState<string>("");
   const containerRef = useRef<HTMLDivElement>(null);
@@ -16,6 +17,9 @@ export default function ScrollTracker({ children }: ScrollTrackerProps) {
   const updateURLDebounced = useRef<NodeJS.Timeout | null>(null);
   // 初期ロードフラグ（スクロールによるURL変化を区別するため）
   const isInitialLoad = useRef(true);
+
+  // 固定ヘッダーのオフセット定数
+  const HEADER_OFFSET = 100;
 
   // URLアンカーから初期位置を設定（初期ロード時のみ）
   useEffect(() => {
@@ -26,8 +30,19 @@ export default function ScrollTracker({ children }: ScrollTrackerProps) {
       // アンカーがある場合、該当セクションにスクロール
       setTimeout(() => {
         const targetElement = document.querySelector(hash);
-        if (targetElement) {
-          targetElement.scrollIntoView({ behavior: "smooth" });
+        if (targetElement && containerRef.current) {
+          const elementRect = targetElement.getBoundingClientRect();
+          const containerRect = containerRef.current.getBoundingClientRect();
+          const scrollTop =
+            containerRef.current.scrollTop +
+            elementRect.top -
+            containerRect.top -
+            HEADER_OFFSET; // オフセット for fixed header
+
+          containerRef.current.scrollTo({
+            top: scrollTop,
+            behavior: "smooth",
+          });
         }
         isInitialLoad.current = false; // 初期ロード完了をマーク
       }, 100);
@@ -48,8 +63,19 @@ export default function ScrollTracker({ children }: ScrollTrackerProps) {
     }
 
     const targetElement = document.querySelector(targetId);
-    if (targetElement) {
-      targetElement.scrollIntoView({ behavior: "smooth" });
+    if (targetElement && containerRef.current) {
+      const elementRect = targetElement.getBoundingClientRect();
+      const containerRect = containerRef.current.getBoundingClientRect();
+      const scrollTop =
+        containerRef.current.scrollTop +
+        elementRect.top -
+        containerRect.top -
+        HEADER_OFFSET; // オフセット for fixed header
+
+      containerRef.current.scrollTo({
+        top: scrollTop,
+        behavior: "smooth",
+      });
       // URLハッシュを更新
       window.history.replaceState({}, "", targetId);
     }
@@ -71,7 +97,7 @@ export default function ScrollTracker({ children }: ScrollTrackerProps) {
 
         // Check if year section is currently visible
         if (
-          yearRect.top <= containerRect.top + 100 &&
+          yearRect.top <= containerRect.top + HEADER_OFFSET &&
           yearRect.bottom > containerRect.top
         ) {
           foundYear =
@@ -82,7 +108,7 @@ export default function ScrollTracker({ children }: ScrollTrackerProps) {
           monthSections.forEach((monthSection) => {
             const monthRect = monthSection.getBoundingClientRect();
             if (
-              monthRect.top <= containerRect.top + 150 &&
+              monthRect.top <= containerRect.top + HEADER_OFFSET &&
               monthRect.bottom > containerRect.top
             ) {
               const monthText =
@@ -133,28 +159,15 @@ export default function ScrollTracker({ children }: ScrollTrackerProps) {
   }, [currentYear, currentMonth]);
 
   return (
-    <div style={{ position: "relative", height: "100vh" }}>
+    <div className="relative h-screen">
       {/* Fixed header showing current year/month */}
       {(currentYear || currentMonth) && (
         <div
-          style={{
-            position: "fixed",
-            top: 0,
-            left: 0,
-            right: 0,
-            background: "rgba(253, 253, 253, 0.95)",
-            backdropFilter: "blur(8px)",
-            borderBottom: "1px solid #e0e0e0",
-            padding: "1rem 2rem",
-            zIndex: 100,
-            display: "flex",
-            alignItems: "center",
-            gap: "1rem",
-            fontSize: "1.2rem",
-            fontWeight: 500,
-            color: "#333",
-            letterSpacing: "0.05em",
-          }}
+          className={clsx(
+            "fixed top-0 left-0 right-0 bg-timeline-header backdrop-blur-timeline",
+            "border-b border-timeline-border px-8 py-4 z-[100]",
+            "flex items-center gap-4 text-xl font-medium text-timeline-text-primary tracking-wider"
+          )}
         >
           <span>{currentYear}</span>
           {currentMonth && <span>{currentMonth}月</span>}
@@ -163,16 +176,10 @@ export default function ScrollTracker({ children }: ScrollTrackerProps) {
 
       <div
         ref={containerRef}
-        className="timeline-container"
-        style={{
-          height: "100vh",
-          display: "flex",
-          flexDirection: "column",
-          alignItems: "flex-start",
-          background: "#fdfdfd",
-          padding: "5rem 2rem 3rem 2rem", // Top padding increased for fixed header
-          overflowY: "auto",
-        }}
+        className={clsx(
+          "timeline-container h-screen flex flex-col items-start bg-timeline-bg",
+          "pt-24 pb-12 px-4 md:px-8 overflow-y-auto"
+        )}
       >
         {children}
       </div>
