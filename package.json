@@ -1,30 +1,53 @@
 {
-  "name": "timeline-monorepo",
-  "version": "1.0.0",
+  "name": "monden-timeline",
+  "version": "0.1.0",
   "private": true,
-  "packageManager": "pnpm@9.15.9+sha512.68046141893c66fad01c079231128e9afb89ef87e2691d69e4d40eee228988295fd4682181bae55b58418c3a253bde65a505ec7c5f9403ece5cc3cd37dcf2531",
   "type": "module",
+  "engines": {
+    "node": ">=22.16.0"
+  },
+  "packageManager": "pnpm@9.15.9+sha512.68046141893c66fad01c079231128e9afb89ef87e2691d69e4d40eee228988295fd4682181bae55b58418c3a253bde65a505ec7c5f9403ece5cc3cd37dcf2531",
   "scripts": {
-    "build": "turbo build",
-    "dev": "turbo dev",
-    "lint": "turbo lint",
-    "format": "turbo format",
-    "typecheck": "turbo typecheck",
-    "test": "turbo test",
-    "clean": "turbo clean",
-    "web:build": "turbo build --filter=web",
-    "web:dev": "turbo dev --filter=web",
-    "web:lint": "turbo lint --filter=web"
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "lint:fix": "next lint --fix",
+    "typecheck": "tsc --noEmit",
+    "format": "prettier --write .",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build",
+    "convert:run": "node scripts/convert-articles-to-timeline.js"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "gray-matter": "^4.0.3",
+    "next": "15.4.1",
+    "postcss": "^8.5.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "remark": "^15.0.1",
+    "remark-gfm": "^4.0.1",
+    "remark-html": "^16.0.1",
+    "@anthropic-ai/sdk": "^0.56.0"
   },
   "devDependencies": {
-    "turbo": "^2.5.4"
-  },
-  "workspaces": [
-    "apps/*",
-    "packages/*"
-  ],
-  "dependencies": {
-    "@anthropic-ai/sdk": "^0.56.0",
-    "gray-matter": "^4.0.3"
+    "@eslint/eslintrc": "^3",
+    "@storybook/addon-docs": "^9.0.16",
+    "@storybook/addon-onboarding": "^9.0.16",
+    "@storybook/nextjs": "^9.0.16",
+    "@tailwindcss/postcss": "^4.1.11",
+    "@tailwindcss/typography": "^0.5.16",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.5",
+    "eslint-plugin-storybook": "^9.0.16",
+    "prettier": "^3.6.2",
+    "storybook": "^9.0.16",
+    "tailwindcss": "^4.1.11",
+    "typescript": "^5",
+    "wrangler": "^4.24.4"
   }
 }

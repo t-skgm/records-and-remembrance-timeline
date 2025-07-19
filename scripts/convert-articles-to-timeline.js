@@ -10,7 +10,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const ARTICLES_DIR = path.join(__dirname, "../data/articles");
-const TIMELINE_FILE = path.join(__dirname, "../data/timeline.json");
+const TIMELINE_FILE = path.join(__dirname, "../src/data/timeline.json");
 
 // Claude APIクライアントの初期化
 const anthropic = new Anthropic({

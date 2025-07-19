@@ -1,8 +1,8 @@
 #!/bin/bash
 
-if git diff --quiet --exit-code  -- ./apps/web; then
+if git diff --quiet --exit-code  -- ./src; then
   echo "Running checks ..."
-  pnpm web:lint --ui stream
+  pnpm lint
 else
-  echo "No changes detected in web"
+  echo "No changes detected in src"
 fi

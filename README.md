@@ -1,73 +1,37 @@
-# Timeline Monorepo
+# Timeline Website
 
-門田匡陽 (Monden MASAAKI) Timeline Website - A turborepo monorepo project that converts musician activity records from Markdown files into a timeline visualization.
+門田匡陽 (Monden MASAAKI) Timeline Website - A timeline visualization of musician activity records.
 
-## Quick Start
+## Getting Started
+
+From the monorepo root:
 
 ```bash
-# Install dependencies
 pnpm install
-
-# Build all packages
-pnpm run build
-
-# Start development
 pnpm run dev
 ```
 
-## Project Structure
+Or run this app specifically:
 
-```
-├── apps/
-│   ├── timeline-website/    # Next.js timeline website
-│   └── data-processor/      # Data processing scripts
-├── packages/
-│   └── shared/              # Shared types and utilities
-├── data/                    # 500+ Markdown files
-└── scripts/                 # Legacy scripts
-```
-
-## Development
-
-### Monorepo Commands
 ```bash
-pnpm run dev            # Start all apps in dev mode
-pnpm run build          # Build all packages
-pnpm run typecheck      # Type check all packages
-pnpm run lint           # Lint all packages
-pnpm run format         # Format all packages
-pnpm run clean          # Clean all build artifacts
+pnpm run timeline:dev
 ```
 
-### App-specific Commands
-```bash
-pnpm run timeline:dev   # Start timeline website only
-pnpm run timeline:build # Build data processor only
-```
-
-### Individual Package Development
-```bash
-cd apps/timeline-website
-pnpm run dev            # Development server
-pnpm run storybook      # Component development
-
-cd apps/data-processor
-pnpm run build          # Process markdown files
-```
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Features
 
-- **Timeline Website**: Interactive timeline with year/month navigation
-- **Data Processing**: LLM-powered content summarization
-- **Responsive Design**: Mobile-first approach
-- **Media Support**: YouTube and image embeds
-- **URL Sharing**: Anchor-based navigation
-- **Monorepo**: Turborepo with pnpm workspaces
+- Interactive timeline with year/month navigation
+- Responsive design with mobile support
+- Anchor-based URL sharing
+- Table of Contents with scroll tracking
+- Media embed support (YouTube, images)
 
-## Tech Stack
+## Development
 
-- **Build System**: Turborepo + pnpm
-- **Frontend**: Next.js 15, React 19, TypeScript
-- **Data Processing**: Node.js, Claude API
-- **Styling**: Tailwind CSS (v4)
-- **Development**: Storybook, ESLint, Prettier
+- `pnpm run dev` - Start development server
+- `pnpm run build` - Build for production
+- `pnpm run typecheck` - Run TypeScript checks
+- `pnpm run lint` - Run linting
+- `pnpm run format` - Format code
+- `pnpm run storybook` - Start Storybook
