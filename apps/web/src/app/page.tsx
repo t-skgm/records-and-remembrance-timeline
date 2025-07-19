@@ -1,4 +1,3 @@
-import { Suspense } from "react";
 import { Timeline } from "@/components/Timeline";
 import {
   loadTimelineData,
@@ -11,9 +10,7 @@ export default function Home() {
 
   return (
     <main>
-      <Suspense fallback={<div>Loading...</div>}>
-        <Timeline timelineData={groupedTimeline} />
-      </Suspense>
+      <Timeline timelineData={groupedTimeline} />
     </main>
   );
 }
