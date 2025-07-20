@@ -4,7 +4,7 @@ import { Timeline } from "@/components/Timeline";
 import { TimelineFilter } from "@/components/TimelineFilter";
 import { getDeployDate } from "@/utils/helpers";
 import { loadTimelineData } from "@/utils/timelineData";
-import { useTimelineFilter } from "@/hooks/useTimelineFilter";
+import { useTimelineFilter } from "@/components/useTimelineFilter";
 
 export default function Home() {
   const timelineData = loadTimelineData();

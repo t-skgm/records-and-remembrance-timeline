@@ -2,20 +2,15 @@
 
 import { useState } from "react";
 import { clsx } from "clsx";
-
-const eventTypeDisplayNames: { [key: string]: string } = {
-  live: "ライブ",
-  release: "リリース",
-  collaboration: "コラボ",
-  other: "その他",
-};
+import { EventType } from "@/types/timeline";
+import { eventTypeDisplayNames } from "@/utils/timelineData";
 
 interface TimelineFilterProps {
-  eventTypes: string[];
+  eventTypes: EventType[];
+  selectedEventTypes: EventType[];
+  onEventTypesChange: (eventTypes: EventType[]) => void;
   projectCategories: string[];
-  selectedEventTypes: string[];
   selectedProjectCategories: string[];
-  onEventTypesChange: (eventTypes: string[]) => void;
   onProjectCategoriesChange: (categories: string[]) => void;
   onReset: () => void;
 }
@@ -31,7 +26,7 @@ export function TimelineFilter({
 }: TimelineFilterProps) {
   const [isExpanded, setIsExpanded] = useState(false);
 
-  const handleEventTypeToggle = (eventType: string) => {
+  const handleEventTypeToggle = (eventType: EventType) => {
     const newSelection = selectedEventTypes.includes(eventType)
       ? selectedEventTypes.filter((type) => type !== eventType)
       : [...selectedEventTypes, eventType];

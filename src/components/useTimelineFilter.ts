@@ -1,21 +1,29 @@
 "use client";
 
 import { useState, useMemo } from "react";
-import { TimelineEntry } from "@/types/timeline";
-import { 
-  getUniqueEventTypes, 
-  getUniqueProjectCategories, 
+import { EventType, TimelineEntry } from "@/types/timeline";
+import {
+  getUniqueEventTypes,
+  getUniqueProjectCategories,
   filterTimelineEntries,
-  groupTimelineByYearMonth 
+  groupTimelineByYearMonth,
 } from "@/utils/timelineData";
 
 export function useTimelineFilter(allEntries: TimelineEntry[]) {
-  const [selectedEventTypes, setSelectedEventTypes] = useState<string[]>([]);
-  const [selectedProjectCategories, setSelectedProjectCategories] = useState<string[]>([]);
+  const [selectedEventTypes, setSelectedEventTypes] = useState<EventType[]>([]);
+  const [selectedProjectCategories, setSelectedProjectCategories] = useState<
+    string[]
+  >([]);
 
   // ユニークな値を取得
-  const eventTypes = useMemo(() => getUniqueEventTypes(allEntries), [allEntries]);
-  const projectCategories = useMemo(() => getUniqueProjectCategories(allEntries), [allEntries]);
+  const eventTypes = useMemo(
+    () => getUniqueEventTypes(allEntries),
+    [allEntries]
+  );
+  const projectCategories = useMemo(
+    () => getUniqueProjectCategories(allEntries),
+    [allEntries]
+  );
 
   // フィルター適用されたエントリ
   const filteredEntries = useMemo(() => {
@@ -37,7 +45,8 @@ export function useTimelineFilter(allEntries: TimelineEntry[]) {
   };
 
   // フィルターが適用されているかチェック
-  const hasActiveFilters = selectedEventTypes.length > 0 || selectedProjectCategories.length > 0;
+  const hasActiveFilters =
+    selectedEventTypes.length > 0 || selectedProjectCategories.length > 0;
 
   return {
     // データ
@@ -45,12 +54,12 @@ export function useTimelineFilter(allEntries: TimelineEntry[]) {
     projectCategories,
     filteredEntries,
     groupedTimeline,
-    
+
     // 状態
     selectedEventTypes,
     selectedProjectCategories,
     hasActiveFilters,
-    
+
     // アクション
     setSelectedEventTypes,
     setSelectedProjectCategories,

@@ -2,28 +2,18 @@ import { TimelineEntry } from "@/types/timeline";
 import { clsx } from "clsx";
 import { MediaEmbed } from "./MediaEmbed";
 import Link from "next/link";
+import { eventTypeDisplayNames } from "@/utils/timelineData";
 
 interface EventItemProps {
   event: TimelineEntry;
 }
 
+const formatDate = (dateString: string) => {
+  const date = new Date(dateString);
+  return `${date.getDate()}日`;
+};
+
 export function EventItem({ event }: EventItemProps) {
-  const formatDate = (dateString: string) => {
-    const date = new Date(dateString);
-    return `${date.getDate()}日`;
-  };
-
-
-  const formatEventType = (eventType: string) => {
-    const typeMap: { [key: string]: string } = {
-      release: "リリース",
-      live: "ライブ",
-      collaboration: "コラボ",
-      other: "その他",
-    };
-    return typeMap[eventType] || eventType;
-  };
-
   // タイトル部分を条件付きでリンク化
   const renderTitle = () => {
     const titleElement = (
@@ -59,7 +49,7 @@ export function EventItem({ event }: EventItemProps) {
       )}
     >
       <div className="event-meta-wrapper flex flex-row gap-2.5 mb-2">
-        <time 
+        <time
           className="event-date text-sm text-timeline-text-secondary font-semibold min-w-12 text-left pr-2 border-r border-gray-200"
           data-day-only={formatDate(event.date)}
         >
@@ -67,21 +57,23 @@ export function EventItem({ event }: EventItemProps) {
         </time>
 
         <div className="event-meta flex flex-wrap gap-2 pl-2">
-          <span
-            className={clsx(
-              "px-2 py-0.5 text-xs font-medium rounded-full border",
-              "bg-timeline-accent-light text-timeline-accent border-timeline-accent/30"
-            )}
-          >
-            {event.projectCategory}
-          </span>
+          {event.projectCategory ? (
+            <span
+              className={clsx(
+                "px-2 py-0.5 text-xs font-medium rounded-full border",
+                "bg-timeline-accent-light text-timeline-accent border-timeline-accent/30"
+              )}
+            >
+              {event.projectCategory}
+            </span>
+          ) : null}
           <span
             className={clsx(
               "px-2 py-0.5 text-xs font-medium rounded-full border",
               "bg-gray-100 text-gray-700 border-gray-300"
             )}
           >
-            {formatEventType(event.eventType)}
+            {eventTypeDisplayNames[event.eventType] || event.eventType}
           </span>
         </div>
       </div>
