@@ -11,7 +11,7 @@ interface EventItemProps {
 const formatDate = (dateString: string) => {
   // タイムゾーンの影響を避けるため、直接パースする
   const [, , day] = dateString.split("-");
-  return `${day}日`;
+  return `${Number.parseInt(day, 10)}日`;
 };
 
 export function EventItem({ event }: EventItemProps) {
