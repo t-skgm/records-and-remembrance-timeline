@@ -7,13 +7,3 @@ export function getYouTubeEmbedUrl(url: string): string {
   }
   return url;
 }
-
-export function getDeployDate(): string {
-  // ビルド時の日付を取得
-  const deployDate = new Date();
-  return deployDate.toLocaleDateString("ja-JP", {
-    year: "numeric",
-    month: "long",
-    day: "numeric",
-  });
-}

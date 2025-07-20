@@ -9,8 +9,9 @@ interface EventItemProps {
 }
 
 const formatDate = (dateString: string) => {
-  const date = new Date(dateString);
-  return `${date.getDate()}日`;
+  // タイムゾーンの影響を避けるため、直接パースする
+  const [, , day] = dateString.split("-");
+  return `${day}日`;
 };
 
 export function EventItem({ event }: EventItemProps) {

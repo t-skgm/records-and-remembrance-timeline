@@ -2,13 +2,11 @@
 
 import { Timeline } from "@/components/Timeline";
 import { TimelineFilter } from "@/components/TimelineFilter";
-import { getDeployDate } from "@/utils/helpers";
 import { loadTimelineData } from "@/utils/timelineData";
 import { useTimelineFilter } from "@/components/useTimelineFilter";
 
 export default function Home() {
   const timelineData = loadTimelineData();
-  const deployDate = getDeployDate();
 
   const {
     eventTypes,
@@ -34,7 +32,7 @@ export default function Home() {
         onReset={resetFilters}
       />
 
-      <Timeline timelineData={groupedTimeline} deployDate={deployDate} />
+      <Timeline timelineData={groupedTimeline} />
     </main>
   );
 }

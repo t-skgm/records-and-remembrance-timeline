@@ -57,9 +57,8 @@ export function groupTimelineByYearMonth(
   entries: TimelineEntry[]
 ): GroupedTimeline {
   const grouped = entries.reduce<GroupedTimeline>((acc, entry) => {
-    const date = new Date(entry.date);
-    const year = date.getFullYear().toString();
-    const month = (date.getMonth() + 1).toString();
+    // タイムゾーンの影響を避けるため、直接パースする
+    const [year, month] = entry.date.split('-');
 
     if (!acc[year]) {
       acc[year] = {};
