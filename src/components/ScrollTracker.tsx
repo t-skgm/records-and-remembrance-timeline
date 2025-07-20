@@ -11,6 +11,7 @@ interface ScrollTrackerProps {
 export function ScrollTracker({ children }: ScrollTrackerProps) {
   const [currentYear, setCurrentYear] = useState<string>("");
   const [currentMonth, setCurrentMonth] = useState<string>("");
+  const [currentDate, setCurrentDate] = useState<string>("");
   const containerRef = useRef<HTMLDivElement>(null);
 
   // URL更新用のデバウンス機能
@@ -90,6 +91,7 @@ export function ScrollTracker({ children }: ScrollTrackerProps) {
 
       let foundYear = "";
       let foundMonth = "";
+      let foundDate = "";
 
       yearSections.forEach((yearSection) => {
         const yearRect = yearSection.getBoundingClientRect();
@@ -114,6 +116,26 @@ export function ScrollTracker({ children }: ScrollTrackerProps) {
               const monthText =
                 monthSection.querySelector(".month-title")?.textContent || "";
               foundMonth = monthText.replace("月", "");
+
+              // Find current event/date within this month
+              const eventItems = monthSection.querySelectorAll(".event-item");
+              eventItems.forEach((eventItem) => {
+                const eventRect = eventItem.getBoundingClientRect();
+                if (
+                  eventRect.top <= containerRect.top + HEADER_OFFSET &&
+                  eventRect.bottom > containerRect.top
+                ) {
+                  // Extract date from event item's data attribute or content
+                  const eventDateElement =
+                    eventItem.querySelector(".event-date");
+                  if (eventDateElement) {
+                    foundDate =
+                      eventDateElement.getAttribute("data-day-only") ||
+                      eventDateElement.textContent ||
+                      "";
+                  }
+                }
+              });
             }
           });
         }
@@ -121,11 +143,14 @@ export function ScrollTracker({ children }: ScrollTrackerProps) {
 
       if (foundYear !== currentYear) setCurrentYear(foundYear);
       if (foundMonth !== currentMonth) setCurrentMonth(foundMonth);
+      if (foundDate !== currentDate) setCurrentDate(foundDate);
 
       // URL更新（デバウンス）
       if (
         foundYear &&
-        (foundYear !== currentYear || foundMonth !== currentMonth)
+        (foundYear !== currentYear ||
+          foundMonth !== currentMonth ||
+          foundDate !== currentDate)
       ) {
         if (updateURLDebounced.current) {
           clearTimeout(updateURLDebounced.current);
@@ -133,7 +158,11 @@ export function ScrollTracker({ children }: ScrollTrackerProps) {
 
         updateURLDebounced.current = setTimeout(() => {
           let newHash = "";
-          if (foundMonth) {
+          if (foundDate && foundMonth && foundYear) {
+            // Extract just the day number from foundDate (e.g., "20日" -> "20")
+            const dayNumber = foundDate.replace("日", "");
+            newHash = `#date-${foundYear}-${foundMonth.padStart(2, '0')}-${dayNumber.padStart(2, '0')}`;
+          } else if (foundMonth) {
             newHash = `#month-${foundYear}-${foundMonth}`;
           } else if (foundYear) {
             newHash = `#year-${foundYear}`;
@@ -156,11 +185,11 @@ export function ScrollTracker({ children }: ScrollTrackerProps) {
         container.removeEventListener("scroll", handleScroll);
       };
     }
-  }, [currentYear, currentMonth]);
+  }, [currentYear, currentMonth, currentDate]);
 
   return (
     <div className="relative h-screen">
-      {/* Fixed header showing current year/month */}
+      {/* Fixed header showing current year/month/date */}
       {(currentYear || currentMonth) && (
         <div
           className={clsx(
@@ -171,6 +200,7 @@ export function ScrollTracker({ children }: ScrollTrackerProps) {
         >
           <span>{currentYear}</span>
           {currentMonth && <span>{currentMonth}月</span>}
+          {currentDate && <span>{currentDate}</span>}
         </div>
       )}
 

@@ -116,7 +116,7 @@
       "title": "門田(Ba.), 韮沢(Vo.), 内田(Gt.), 伊藤(Dr.) で1度ライブをするためだけにバンド結成",
       "description": "門田(Ba.), 韮沢(Vo.), 内田(Gt.), 伊藤(Dr.) + 高校の友人。韮沢の初バンド。1度ライブをするためだけに組まれた",
       "projectCategory": "etc.",
-      "eventType": "other"
+      "eventType": "live"
     },
     {
       "id": "1998-03-01-sweetgirls-end",
@@ -202,7 +202,7 @@
       "title": "Live at 西荻窪ターニング",
       "description": "BURGER NUDS e、西荻窪ターニングにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "1999-09-01-000000",
@@ -218,7 +218,7 @@
       "title": "Live at 下北沢GARAGE",
       "description": "BURGER NUDS、下北沢GARAGEにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "1999-12-24-burger-nuds",
@@ -226,7 +226,7 @@
       "title": "garage 5th at 下北沢GARAGE",
       "description": "BURGER NUDSのライブ「garage 5th」、下北沢GARAGEにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2000-01-17-burger-nuds",
@@ -234,7 +234,7 @@
       "title": "no genre! at 下北沢GARAGE",
       "description": "BURGER NUDSのライブ「no genre!」、下北沢GARAGEにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2000-02-16-burger-nuds",
@@ -242,7 +242,7 @@
       "title": "Live at 下北沢GARAGE",
       "description": "BURGER NUDS、下北沢GARAGEにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2000-03-09-burger-nuds",
@@ -250,7 +250,7 @@
       "title": "HASHIRIYA at 下北沢GARAGE",
       "description": "BURGER NUDSのライブ「HASHIRIYA」、下北沢GARAGEにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2000-03-12-000000",
@@ -274,7 +274,7 @@
       "title": "HASHIRIYA at 下北沢GARAGE",
       "description": "BURGER NUDSのライブ「HASHIRIYA」、下北沢GARAGEにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2000-05-19-burger-nuds",
@@ -282,7 +282,7 @@
       "title": "DRUNKEN MASTER at 下北沢GARAGE",
       "description": "BURGER NUDSのライブ「DRUNKEN MASTER」、下北沢GARAGEにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2000-05-23-burger-nuds",
@@ -290,7 +290,7 @@
       "title": "Live at 下北沢GARAGE",
       "description": "BURGER NUDS、下北沢GARAGEにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2000-06-14-burger-nuds",
@@ -298,7 +298,7 @@
       "title": "Live at 下北沢GARAGE",
       "description": "BURGER NUDS、下北沢GARAGEにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2000-07-06-burger-nuds",
@@ -306,7 +306,7 @@
       "title": "Live at 下北沢GARAGE",
       "description": "BURGER NUDS、下北沢GARAGEにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2000-07-14-000000",
@@ -378,7 +378,7 @@
       "title": "PHONIC STYLE at 下北沢GARAGE",
       "description": "BURGER NUDSのライブ「PHONIC STYLE」、下北沢GARAGEにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2000-10-24-000000",
@@ -578,7 +578,7 @@
       "title": "東京ジェネラルズ vol.3 at 下北沢CLUB Que",
       "description": "BURGER NUDSのライブ「東京ジェネラルズ vol.3」、下北沢CLUB Queにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2001-03-24-burger-nuds",
@@ -586,7 +586,7 @@
       "title": "Live at 大阪パンセホール",
       "description": "BURGER NUDS、大阪パンセホールにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2001-03-25-burger-nuds",
@@ -594,7 +594,7 @@
       "title": "Live at 大阪DICE",
       "description": "BURGER NUDS、大阪DICEにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2001-03-26-burger-nuds",
@@ -602,7 +602,7 @@
       "title": "Live at 名古屋CLUB ROCK'N'ROLL",
       "description": "BURGER NUDS、名古屋CLUB ROCK'N'ROLLにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2001-04-03-000000",
@@ -746,7 +746,7 @@
       "title": "七割七分party! vol.3 at 高円寺サロンｂｙマーブルトロン",
       "description": "BURGER NUDSのライブ「七割七分party! vol.3」、高円寺サロンｂｙマーブルトロンにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2001-06-24-000000",
@@ -786,7 +786,7 @@
       "title": "無印良音#10+第11回北沢音楽祭 GO 5 LIVE PACK at 下北沢GARAGE",
       "description": "BURGER NUDSのライブ「無印良音#10+第11回北沢音楽祭 GO 5 LIVE PACK」、下北沢GARAGEにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2001-07-14-000000",
@@ -866,7 +866,7 @@
       "title": "Live at 仙台MACANA",
       "description": "BURGER NUDS、仙台MACANAにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2001-08-22-burger-nuds",
@@ -874,7 +874,7 @@
       "title": "Live at 千葉LOOK",
       "description": "BURGER NUDS、千葉LOOKにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2001-08-24-000000",
@@ -890,7 +890,7 @@
       "title": "Live at 横浜CLUB24",
       "description": "BURGER NUDS、横浜CLUB24にて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2001-08-31-burger-nuds",
@@ -898,7 +898,7 @@
       "title": "Live at 宇都宮VOGUE",
       "description": "BURGER NUDS、宇都宮VOGUEにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2001-09-02-000000",
@@ -914,14 +914,6 @@
       "title": "無印良音#11～LOW NAME レコ発ツアーファイナル～ at 下北沢GARAGE",
       "description": "BURGER NUDSのライブ「無印良音#11～LOW NAME レコ発ツアーファイナル～」、下北沢GARAGEにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "release"
-    },
-    {
-      "id": "2001-10-07-000000",
-      "date": "2001-10-07",
-      "title": "80枚 - ロボスコッププレゼンツ vol.11「ハッピーアコターン」 at 新宿JAM",
-      "description": "Monden MASAAKI参加のアコースティックイベント「ハッピーアコターン」新宿JAMにて開催",
-      "projectCategory": "その他",
       "eventType": "live"
     },
     {
@@ -930,7 +922,7 @@
       "title": "ロボスコッププレゼンツ vol.11 「ハッピーアコターン」 at 新宿JAM",
       "description": "80枚のライブ「ロボスコッププレゼンツ vol.11 「ハッピーアコターン」」、新宿JAMにて開催",
       "projectCategory": "80枚",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2001-10-16-000000",
@@ -970,7 +962,7 @@
       "title": "Live at 名古屋CLUB ROCK'N'ROLL",
       "description": "BURGER NUDS、名古屋CLUB ROCK'N'ROLLにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2001-11-03-000000",
@@ -985,14 +977,6 @@
       "date": "2001-11-03",
       "title": "線ツアーファイナル at 下北沢GARAGE",
       "description": "BURGER NUDSのライブ「線ツアーファイナル」、下北沢GARAGEにて開催",
-      "projectCategory": "BURGER NUDS",
-      "eventType": "live"
-    },
-    {
-      "id": "2001-11-19-000000",
-      "date": "2001-11-19",
-      "title": "BURGER NUDS - au presents LIVE RECOMMEND LOFT POWER PUSH \"ROOTS\" at 新宿LOFT",
-      "description": "BURGER NUDS出演、新宿LOFTでライブ開催",
       "projectCategory": "BURGER NUDS",
       "eventType": "live"
     },
@@ -1050,7 +1034,7 @@
       "title": "LOCAL at 下北沢GARAGE",
       "description": "BURGER NUDSのライブ「LOCAL」、下北沢GARAGEにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2001-12-15-burger-nuds",
@@ -1058,7 +1042,7 @@
       "title": "KOKORAHEN at 渋谷ON AIR EAST・WEST",
       "description": "BURGER NUDSのライブ「KOKORAHEN」、渋谷ON AIR EAST・WESTにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2001-12-16-burger-nuds",
@@ -1066,7 +1050,7 @@
       "title": "au presents LIVE RECOMEND \"LOFT Presents\" at 新宿LOFT",
       "description": "BURGER NUDSのライブ「au presents LIVE RECOMEND \"LOFT Presents\"」、新宿LOFTにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2001-12-24-burger-nuds",
@@ -1074,7 +1058,7 @@
       "title": "Live at 宇都宮VOGUE",
       "description": "BURGER NUDS、宇都宮VOGUEにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2001-12-28-000000",
@@ -1090,7 +1074,7 @@
       "title": "Live at 横浜CLUB24",
       "description": "BURGER NUDS、横浜CLUB24にて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2001-12-31-000000",
@@ -1114,7 +1098,7 @@
       "title": "THE FINAL OF 2001 presented by SHINJUKU LOFT ～第1部～ at 新宿LOFT",
       "description": "BURGER NUDSのライブ「THE FINAL OF 2001 presented by SHINJUKU LOFT ～第1部～」、新宿LOFTにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2002-01-12-000000",
@@ -1146,7 +1130,7 @@
       "title": "Live at 渋谷CLUB QUATTRO",
       "description": "BURGER NUDS、渋谷CLUB QUATTROにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2002-02-26-000000",
@@ -1202,7 +1186,7 @@
       "title": "Live at 前橋クラブフリーズ",
       "description": "BURGER NUDS、前橋クラブフリーズにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2002-03-21-000000",
@@ -1217,14 +1201,6 @@
       "date": "2002-03-23",
       "title": "SATURDAY NIGHT R&R SHOW 2002 Vol.2 at 新宿LOFT",
       "description": "BURGER NUDSのライブ「SATURDAY NIGHT R&R SHOW 2002 Vol.2」、新宿LOFTにて開催",
-      "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
-    },
-    {
-      "id": "2002-04-10-000000",
-      "date": "2002-04-10",
-      "title": "BURGER NUDS - SHINJUKU LOFT 3rd Anniversary LOFT POWER PUSH! at 新宿LOFT",
-      "description": "BURGER NUDS、新宿LOFT 3周年イベントに出演。結成日1999年4月10日が発表された。",
       "projectCategory": "BURGER NUDS",
       "eventType": "live"
     },
@@ -1250,7 +1226,7 @@
       "title": "レコ発インストアライブ ～テレスコープパーティーVol.3～ at TOWER RECORDS 渋谷店",
       "description": "BURGER NUDSのライブ「レコ発インストアライブ ～テレスコープパーティーVol.3～」、TOWER RECORDS 渋谷店にて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2002-04-20-burger-nuds",
@@ -1258,7 +1234,7 @@
       "title": "Live at 熊谷VOGUE",
       "description": "BURGER NUDS、熊谷VOGUEにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2002-04-21-burger-nuds",
@@ -1266,7 +1242,7 @@
       "title": "Live at 宇都宮VOGUE",
       "description": "BURGER NUDS、宇都宮VOGUEにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2002-05-03-000000",
@@ -1330,7 +1306,7 @@
       "title": "BURGER NUDS - 充電期間開始",
       "description": "「充電期間」として、5月20日〜8月2日までライブ活動を休止。門田と丸山の音楽性の不一致が表面化",
       "projectCategory": "BURGER NUDS",
-      "eventType": "other"
+      "eventType": "live"
     },
     {
       "id": "2002-08-04-000000",
@@ -1386,7 +1362,7 @@
       "title": "Live at 神戸スタークラブ",
       "description": "BURGER NUDS、神戸スタークラブにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2002-08-19-burger-nuds",
@@ -1394,7 +1370,7 @@
       "title": "大阪と東京Vol.5 at 心斎橋SUNHALL",
       "description": "BURGER NUDSのライブ「大阪と東京Vol.5」、心斎橋SUNHALLにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2002-08-21-000000",
@@ -1474,7 +1450,7 @@
       "title": "レコ発LIVE at 十三ファンダンゴ",
       "description": "BURGER NUDSのライブ「レコ発LIVE」、十三ファンダンゴにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2002-09-07-000000",
@@ -1490,7 +1466,7 @@
       "title": "Live Linxs Vol.8 at 新宿LOFT",
       "description": "BURGER NUDSのライブ「Live Linxs Vol.8」、新宿LOFTにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2002-11-07-000000",
@@ -1530,7 +1506,7 @@
       "title": "HATE HONEY presents RED NIGHT Vol.2 at 新宿LOFT",
       "description": "BURGER NUDSのライブ「HATE HONEY presents RED NIGHT Vol.2」、新宿LOFTにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2002-12-05-000000",
@@ -1554,7 +1530,7 @@
       "title": "Live at 心斎橋SUNHALL",
       "description": "BURGER NUDS、心斎橋SUNHALLにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2002-12-07-burger-nuds",
@@ -1562,7 +1538,7 @@
       "title": "Live at 神戸スタークラブ",
       "description": "BURGER NUDS、神戸スタークラブにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2002-12-23-000000",
@@ -1701,14 +1677,6 @@
       "eventType": "live"
     },
     {
-      "id": "2003-06-19-000000",
-      "date": "2003-06-19",
-      "title": "BURGER NUDS - ARB 25th anniversary LIVE CIRCUIT IN KANTO at 横浜7th AVENUE",
-      "description": "ARB 25周年ライブにBURGER NUDSが出演。横浜7th AVENUEにて。",
-      "projectCategory": "BURGER NUDS",
-      "eventType": "live"
-    },
-    {
       "id": "2003-06-19-burger-nuds",
       "date": "2003-06-19",
       "title": "ARB 25th anniversary LIVE CIRCUIT IN KANTO at 横浜7th AVENUE",
@@ -1738,7 +1706,7 @@
       "title": "Live at 赤坂BLITZ",
       "description": "BURGER NUDS、赤坂BLITZにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2003-08-26-000000",
@@ -1826,7 +1794,7 @@
       "title": "レコ発LIVE at TOWER RECORDS 渋谷店 STAGE ONE",
       "description": "BURGER NUDSのライブ「レコ発LIVE」、TOWER RECORDS 渋谷店 STAGE ONEにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2003-09-17-000000",
@@ -1850,7 +1818,7 @@
       "title": "Live at 仙台JUNK BOX",
       "description": "BURGER NUDS、仙台JUNK BOXにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2003-09-21-burger-nuds",
@@ -1858,7 +1826,7 @@
       "title": "Live at 宇都宮VOGUE",
       "description": "BURGER NUDS、宇都宮VOGUEにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2003-09-27-000000",
@@ -1986,7 +1954,7 @@
       "title": "Live at 新宿LOFT",
       "description": "BURGER NUDS、新宿LOFTにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2004-01-11-000000",
@@ -2001,14 +1969,6 @@
       "date": "2004-01-11",
       "title": "ATF&VINTAGE ROCK presents \"RIDE ON TIME\" at 渋谷O-EAST",
       "description": "BURGER NUDSのライブ「ATF&VINTAGE ROCK presents \"RIDE ON TIME\"」、渋谷O-EASTにて開催",
-      "projectCategory": "BURGER NUDS",
-      "eventType": "live"
-    },
-    {
-      "id": "2004-02-21-000000",
-      "date": "2004-02-21",
-      "title": "BURGER NUDS - SATURDAY NIGHT R&R SHOW 2004 Vol.1 supported by Weeklyぴあ at 新宿LOFT",
-      "description": "2004年2月新宿LOFTでイベント出演。指輪、Candle for minorityなど演奏。",
       "projectCategory": "BURGER NUDS",
       "eventType": "live"
     },
@@ -2090,7 +2050,7 @@
       "title": "BURGER NUDS - BEST",
       "description": "BURGER NUDS初期デモやライブ楽曲を収録した初のベストアルバム",
       "projectCategory": "BURGER NUDS",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2004-08-08-000000",
@@ -2114,7 +2074,7 @@
       "title": "Good Dog Happy Men - GOOD DOG HAPPY MEN (Demo CD-R)",
       "description": "2004年セルフリリースデモCD-R。初期GDHM音源、ライブ会場限定販売。",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2004-09-09-000000_1",
@@ -2138,7 +2098,7 @@
       "title": "LOCAL at 下北沢GARAGE",
       "description": "Good Dog Happy Menのライブ「LOCAL」、下北沢GARAGEにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2004-10-15-good-dog-happy-men",
@@ -2146,7 +2106,7 @@
       "title": "LOCAL at 下北沢GARAGE",
       "description": "Good Dog Happy Menのライブ「LOCAL」、下北沢GARAGEにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2004-10-25-000000",
@@ -2170,7 +2130,7 @@
       "title": "初恋サンセット・イヴ at 下北沢CLUB251",
       "description": "Good Dog Happy Menのライブ「初恋サンセット・イヴ」、下北沢CLUB251にて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2004-11-05-good-dog-happy-men",
@@ -2178,7 +2138,7 @@
       "title": "トレインロックVol.1 at 渋谷CHELSEA HOTEL",
       "description": "Good Dog Happy Menのライブ「トレインロックVol.1」、渋谷CHELSEA HOTELにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2004-11-08-good-dog-happy-men",
@@ -2186,7 +2146,7 @@
       "title": "QUIP×HIGHLINE 00001 at 渋谷CLUB QUATTRO",
       "description": "Good Dog Happy Menのライブ「QUIP×HIGHLINE 00001」、渋谷CLUB QUATTROにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2004-11-12-good-dog-happy-men",
@@ -2194,7 +2154,7 @@
       "title": "葵 rock-izm 3 at 渋谷O-CREST",
       "description": "Good Dog Happy Menのライブ「葵 rock-izm 3」、渋谷O-CRESTにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2004-12-12-000000",
@@ -2242,7 +2202,7 @@
       "title": "UNDER THE COUNTER The One-Man Live at 下北沢SHELTER",
       "description": "Good Dog Happy Menのライブ「UNDER THE COUNTER The One-Man Live」、下北沢SHELTERにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2005-01-18-good-dog-happy-men",
@@ -2250,7 +2210,7 @@
       "title": "アリカ at 下北沢CLUB Que",
       "description": "Good Dog Happy Menのライブ「アリカ」、下北沢CLUB Queにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2005-01-29-good-dog-happy-men",
@@ -2258,7 +2218,7 @@
       "title": "LOCAL at 下北沢GARAGE",
       "description": "Good Dog Happy Menのライブ「LOCAL」、下北沢GARAGEにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2005-01-30-31sessions",
@@ -2266,7 +2226,7 @@
       "title": "COUNTING BEATS at 下北沢GARAGE",
       "description": "31SESSIONSのライブ「COUNTING BEATS」、下北沢GARAGEにて開催",
       "projectCategory": "31SESSIONS",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2005-03-15-good-dog-happy-men",
@@ -2274,7 +2234,7 @@
       "title": "loft presents \"UNDER THE INFLUENCE\" at 新宿LOFT",
       "description": "Good Dog Happy Menのライブ「loft presents \"UNDER THE INFLUENCE\"」、新宿LOFTにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2005-04-09-good-dog-happy-men",
@@ -2282,7 +2242,7 @@
       "title": "SHINJUKU LOFT 6TH ANNIVERSARY \"ATF&LOFT PRESENTS「四月の風」\" at 新宿LOFT",
       "description": "Good Dog Happy Menのライブ「SHINJUKU LOFT 6TH ANNIVERSARY \"ATF&LOFT PRESENTS「四月の風」\"」、新宿LOFTにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2005-05-07-000000",
@@ -2301,27 +2261,11 @@
       "eventType": "live"
     },
     {
-      "id": "2005-05-10-000000",
-      "date": "2005-05-10",
-      "title": "門田匡陽 - SHINJUKU LOFT 6TH ANNIVERSARY \"アナログ・フラワー・スター\" at 新宿LOFT",
-      "description": "門田匡陽、新宿LOFTでアナログフォークライブ。「門田修行ライブ」と呼ばれる。",
-      "projectCategory": "門田匡陽 (ソロ名義/2010)",
-      "eventType": "live"
-    },
-    {
       "id": "2005-05-10-門田匡陽",
       "date": "2005-05-10",
       "title": "SHINJUKU LOFT 6TH ANNIVERSARY \"アナログ・フラワー・スター\" at 新宿LOFT",
       "description": "門田匡陽のライブ「SHINJUKU LOFT 6TH ANNIVERSARY \"アナログ・フラワー・スター\"」、新宿LOFTにて開催",
       "projectCategory": "門田匡陽",
-      "eventType": "live"
-    },
-    {
-      "id": "2005-05-31-000000",
-      "date": "2005-05-31",
-      "title": "門田匡陽 - SHINJUKU LOFT 6TH ANNIVERSARY \"Tony & Manny present RHYTHM OF FEAR\" at 新宿LOFT",
-      "description": "ソロライブ「RHYTHM OF FEAR」で門田匡陽が新宿LOFT 6周年を祝う。",
-      "projectCategory": "門田匡陽 (ソロ名義/2010)",
       "eventType": "live"
     },
     {
@@ -2346,7 +2290,7 @@
       "title": "loft presents \"UNDER THE INFLUENCE\" at 新宿LOFT",
       "description": "Good Dog Happy Menのライブ「loft presents \"UNDER THE INFLUENCE\"」、新宿LOFTにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2005-07-01-000000",
@@ -2434,7 +2378,7 @@
       "title": "VJ-1PRESENTS at 熊谷HEAVEN'S ROCK kumagaya VJ-1",
       "description": "Good Dog Happy Menのライブ「VJ-1PRESENTS」、熊谷HEAVEN'S ROCK kumagaya VJ-1にて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2005-11-12-good-dog-happy-men",
@@ -2442,7 +2386,7 @@
       "title": "Quip Magazine Presents 『POP TUNE』 at 新宿LOFT",
       "description": "Good Dog Happy Menのライブ「Quip Magazine Presents 『POP TUNE』」、新宿LOFTにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2005-11-19-000000",
@@ -2466,7 +2410,7 @@
       "title": "JUST POP クリスマスイブ！ at 神戸VARIT",
       "description": "Good Dog Happy Menのライブ「JUST POP クリスマスイブ！」、神戸VARITにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2005-12-25-good-dog-happy-men",
@@ -2474,7 +2418,7 @@
       "title": "センチラインpresents 『TASOGARE Night vol.4』 at 大阪福島2nd LINE",
       "description": "Good Dog Happy Menのライブ「センチラインpresents 『TASOGARE Night vol.4』」、大阪福島2nd LINEにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2005-12-30-good-dog-happy-men",
@@ -2490,7 +2434,7 @@
       "title": "THE FINAL OF 2005 ～第1部～ presented by SHINJUKU LOFT at 新宿LOFT",
       "description": "Good Dog Happy Menのライブ「THE FINAL OF 2005 ～第1部～ presented by SHINJUKU LOFT」、新宿LOFTにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2006-01-14-good-dog-happy-men",
@@ -2498,7 +2442,7 @@
       "title": "LOFT presents SATURDAY NIGHT R&R SHOW 2006 Vol.1 supported by Weeklyぴあ at 新宿LOFT",
       "description": "Good Dog Happy Menのライブ「LOFT presents SATURDAY NIGHT R&R SHOW 2006 Vol.1 supported by Weeklyぴあ」、新宿LOFTにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2006-01-26-内田武瑠",
@@ -2506,7 +2450,7 @@
       "title": "神田川 at 下北沢GARAGE",
       "description": "内田武瑠のライブ「神田川」、下北沢GARAGEにて開催",
       "projectCategory": "内田武瑠",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2006-02-25-000000",
@@ -2546,7 +2490,7 @@
       "title": "BONTAGE! VIVA!! at 新宿LOFT",
       "description": "Good Dog Happy Menのライブ「BONTAGE! VIVA!!」、新宿LOFTにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2006-04-14-000000",
@@ -2589,14 +2533,6 @@
       "eventType": "release"
     },
     {
-      "id": "2006-05-04-000000",
-      "date": "2006-05-04",
-      "title": "門田匡陽 - MUSIC DAY in SHIMOKITAZAWA at 下北沢HIGHLINE RECORDS",
-      "description": "下北沢HIGHLINE RECORDSでのアコギ弾き語りライブ。カバー曲ほか自作曲を披露。",
-      "projectCategory": "Good Dog Happy Men",
-      "eventType": "live"
-    },
-    {
       "id": "2006-05-04-門田匡陽",
       "date": "2006-05-04",
       "title": "MUSIC DAY in SHIMOKITAZAWA at 下北沢HIGHLINE RECORDS",
@@ -2610,7 +2546,7 @@
       "title": "Live at 柏ZAX (Thumb Up)",
       "description": "門田匡陽、柏ZAX (Thumb Up)にて開催",
       "projectCategory": "門田匡陽",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2006-05-25-000000",
@@ -2634,7 +2570,7 @@
       "title": "トアロード交差点 -イレギュラーバウンド戦- at 神戸VARIT",
       "description": "Good Dog Happy Menのライブ「トアロード交差点 -イレギュラーバウンド戦-」、神戸VARITにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2006-05-27-門田匡陽",
@@ -2642,7 +2578,7 @@
       "title": "HIGH LINE ALL NIGHT vol.3 at 大阪福島2nd LINE",
       "description": "門田匡陽のライブ「HIGH LINE ALL NIGHT vol.3」、大阪福島2nd LINEにて開催",
       "projectCategory": "門田匡陽",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2006-05-28-000000",
@@ -2682,7 +2618,7 @@
       "title": "怪奇人姉弟 vol.13 at 仙台BIRD LAND",
       "description": "Good Dog Happy Menのライブ「怪奇人姉弟 vol.13」、仙台BIRD LANDにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2006-06-13-000000",
@@ -2738,7 +2674,7 @@
       "title": "TSUKASA・DE・GO !! (笑) ～スロウミュージック。ハッピィスマイル～ at 下北沢BASEMENT BAR",
       "description": "Good Dog Happy Menのライブ「TSUKASA・DE・GO !! (笑) ～スロウミュージック。ハッピィスマイル～」、下北沢BASEMENT BARにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2006-07-07-000000",
@@ -2778,7 +2714,7 @@
       "title": "Most beautiful in the world tour 2006 at 岡山PEPPER LAND",
       "description": "Good Dog Happy Menのライブ「Most beautiful in the world tour 2006」、岡山PEPPER LANDにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2006-07-12-good-dog-happy-men",
@@ -2794,21 +2730,13 @@
       "title": "Most beautiful in the world tour 2006 at 福岡DRUM SON",
       "description": "Good Dog Happy Menのライブ「Most beautiful in the world tour 2006」、福岡DRUM SONにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2006-07-14-good-dog-happy-men",
       "date": "2006-07-14",
       "title": "Most beautiful in the world tour 2006 at 熊本DRUM Be-9",
       "description": "Good Dog Happy Menのライブ「Most beautiful in the world tour 2006」、熊本DRUM Be-9にて開催",
-      "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
-    },
-    {
-      "id": "2006-07-25-000000",
-      "date": "2006-07-25",
-      "title": "Good Dog Happy Men - loft presents \"UNDER THE INFLUENCE\"「Good Dog Happe Men: Most beautiful in the world Tour 2006」 at 新宿LOFT",
-      "description": "「Good Dog Happy Men」のツアー公演を新宿LOFTで行い、代表曲を披露した。",
       "projectCategory": "Good Dog Happy Men",
       "eventType": "live"
     },
@@ -2946,7 +2874,7 @@
       "title": "インストアライブ at 下北沢HIGHLINE RECORDS",
       "description": "Good Dog Happy Menのライブ「インストアライブ」、下北沢HIGHLINE RECORDSにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2006-10-15-good-dog-happy-men",
@@ -2954,7 +2882,7 @@
       "title": "インストアライブ at TOWER RECORDS 横浜モアーズ店",
       "description": "Good Dog Happy Menのライブ「インストアライブ」、TOWER RECORDS 横浜モアーズ店にて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2006-10-29-good-dog-happy-men",
@@ -2962,7 +2890,7 @@
       "title": "LOTS LIVE on the AIR vol.2 at 新潟LOTS",
       "description": "Good Dog Happy Menのライブ「LOTS LIVE on the AIR vol.2」、新潟LOTSにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2006-10-30-000000",
@@ -2978,7 +2906,7 @@
       "title": "インストアライブ at TOWER RECORDS 吉祥寺店",
       "description": "Good Dog Happy Menのライブ「インストアライブ」、TOWER RECORDS 吉祥寺店にて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2006-11-04-000000",
@@ -2994,7 +2922,7 @@
       "title": "インストアライブ at TOWER RECORDS 京都店",
       "description": "Good Dog Happy Menのライブ「インストアライブ」、TOWER RECORDS 京都店にて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2006-11-11-good-dog-happy-men",
@@ -3095,7 +3023,7 @@
       "title": "インストアライブ at TOWER RECORDS 名古屋近鉄パッセ店",
       "description": "Good Dog Happy Menのライブ「インストアライブ」、TOWER RECORDS 名古屋近鉄パッセ店にて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2006-12-30-000000",
@@ -3351,7 +3279,7 @@
       "title": "インストアライブ at 下北沢HIGHLINE RECORDS",
       "description": "Good Dog Happy Menのライブ「インストアライブ」、下北沢HIGHLINE RECORDSにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2007-07-04-000000",
@@ -3367,7 +3295,7 @@
       "title": "OCEANLANEレコ発ツアー at 名古屋APOLLO THEATER",
       "description": "Good Dog Happy Menのライブ「OCEANLANEレコ発ツアー」、名古屋APOLLO THEATERにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2007-07-06-000000",
@@ -3407,7 +3335,7 @@
       "title": "インストアライブ at TOWER RECORDS 新宿店",
       "description": "Good Dog Happy Menのライブ「インストアライブ」、TOWER RECORDS 新宿店にて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2007-08-03-000000",
@@ -3471,7 +3399,7 @@
       "title": "インストアライブ at TOWER RECORDS 新宿店",
       "description": "Good Dog Happy Menのライブ「インストアライブ」、TOWER RECORDS 新宿店にて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2007-09-17-000000",
@@ -3583,7 +3511,7 @@
       "title": "Good Dog Happy Men - the GOLDENBELLCITY",
       "description": "Mondenの2007年アルバム「Good Dog Happy Men」の詳細。ジャンルは多様で、ライブでもよく演奏されていた。",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "release",
+      "eventType": "live",
       "media": {
         "type": "youtube",
         "url": "https://www.youtube.com/watch?v=E54rlx7L8xk",
@@ -3628,7 +3556,7 @@
       "title": "インストアライブ at TOWER RECORDS 福岡店",
       "description": "Good Dog Happy Menのライブ「インストアライブ」、TOWER RECORDS 福岡店にて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2007-12-15-000000",
@@ -3644,7 +3572,7 @@
       "title": "インストアライブ 「museの楽団と渋谷の音楽塔」 at TOWER RECORDS 渋谷店 STAGE ONE",
       "description": "Good Dog Happy Menのライブ「インストアライブ 「museの楽団と渋谷の音楽塔」」、TOWER RECORDS 渋谷店 STAGE ONEにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2007-12-21-000000",
@@ -3660,7 +3588,7 @@
       "title": "インストアライブ at 下北沢HIGHLINE RECORDS",
       "description": "Good Dog Happy Menのライブ「インストアライブ」、下北沢HIGHLINE RECORDSにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2007-12-23-000000",
@@ -3676,7 +3604,7 @@
       "title": "インストアライブ at TOWER RECORDS 近鉄パッセ店",
       "description": "Good Dog Happy Menのライブ「インストアライブ」、TOWER RECORDS 近鉄パッセ店にて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2007-12-29-000000",
@@ -3757,14 +3685,6 @@
       "description": "セルフプロデュースCD-R「Good Dog Happy Men - Memory of the GOLDENBELLCITY」発売。アコースティック曲を収録。",
       "projectCategory": "Good Dog Happy Men",
       "eventType": "release"
-    },
-    {
-      "id": "2008-03-08-000001",
-      "date": "2008-03-08",
-      "title": "Good Dog Happy Men - Memory of the GOLDENBELLCITY at 東京キネマ倶楽部",
-      "description": "2008年3月東京で単独ライブ開催。ライブDVDとCD-Rを発売した。",
-      "projectCategory": "Good Dog Happy Men",
-      "eventType": "live"
     },
     {
       "id": "2008-03-08-good-dog-happy-men",
@@ -3855,14 +3775,6 @@
       "eventType": "live"
     },
     {
-      "id": "2008-05-16-000000",
-      "date": "2008-05-16",
-      "title": "内田武瑠 - ふじたたくみ presents ワクパラ！ at 下北沢GARAGE",
-      "description": "内田武瑠出演のライブイベント「ワクパラ!」、共演に長岡亮介、ACIDMAN大木伸夫など。",
-      "projectCategory": "Good Dog Happy Men",
-      "eventType": "live"
-    },
-    {
       "id": "2008-05-16-内田武瑠",
       "date": "2008-05-16",
       "title": "ふじたたくみ presents ワクパラ！ at 下北沢GARAGE",
@@ -3892,7 +3804,7 @@
       "title": "Good Dog Happy Men - Memory of the GOLDENBELLCITY (Live DVD)",
       "description": "門田匡陽率いるGDHMのライブDVD。心動かされる楽曲と演奏で魅了する。",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2008-06-01-000000",
@@ -3999,14 +3911,6 @@
       "eventType": "live"
     },
     {
-      "id": "2008-09-06-000000",
-      "date": "2008-09-06",
-      "title": "門田匡陽 - 「てのひら」番外編 ～Fes.～ at 下北沢Cave Be",
-      "description": "2008年9月の下北沢Fesに参加。ソロ弾き語りで「てのひら」番外編を披露。",
-      "projectCategory": "門田匡陽 (ソロ名義/2010)",
-      "eventType": "live"
-    },
-    {
       "id": "2008-09-06-門田匡陽",
       "date": "2008-09-06",
       "title": "「てのひら」番外編 ～Fes.～ at 下北沢Cave Be",
@@ -4020,7 +3924,7 @@
       "title": "LIVE HOUSE J GRAND OPEN GIG \"World's End Vol.6\" at 長野LIVE HOUSE J",
       "description": "Good Dog Happy Menのライブ「LIVE HOUSE J GRAND OPEN GIG \"World's End Vol.6\"」、長野LIVE HOUSE Jにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2008-09-26-000000",
@@ -4043,14 +3947,6 @@
       "date": "2008-09-27",
       "title": "Good Dog Happy Men presents \"Good Time Rolls Vol.2\" -月明りのエレクトリック- at 新宿LOFT",
       "description": "Good Dog Happy Menのライブ「Good Dog Happy Men presents \"Good Time Rolls Vol.2\" -月明りのエレクトリック-」、新宿LOFTにて開催",
-      "projectCategory": "Good Dog Happy Men",
-      "eventType": "live"
-    },
-    {
-      "id": "2008-10-03-000000",
-      "date": "2008-10-03",
-      "title": "門田匡陽 - EdBUS + GARAGE presents EdBUS 最新作「The Night of Me & My Friends」発売記念ライブ ナイト オブ ユー アンド ミー at 下北沢GARAGE",
-      "description": "門田匡陽、最新作「The Night of Me & My Friends」発売記念ライブ。下北沢GARAGE。EdBUS、Good Dog Happy Menなど共演。",
       "projectCategory": "Good Dog Happy Men",
       "eventType": "live"
     },
@@ -4083,14 +3979,6 @@
       "date": "2008-10-18",
       "title": "堀江音楽祭2008 (フェス) at [12:00] 湊町リバープレイスライブ at リバープレイスPLAZA 2 [17:00] HORIE SOUND CRUISING at knave",
       "description": "Good Dog Happy Menのライブ「堀江音楽祭2008 (フェス)」、[12:00] 湊町リバープレイスライブ at リバープレイスPLAZA 2 [17:00] HORIE SOUND CRUISING at knaveにて開催",
-      "projectCategory": "Good Dog Happy Men",
-      "eventType": "live"
-    },
-    {
-      "id": "2008-10-23-000000",
-      "date": "2008-10-23",
-      "title": "門田匡陽&内田武瑠 - YOU REALLY GOT ME! VOL.22 ～I'M VERY SING A SONG～ at 下北沢BASEMENT BAR",
-      "description": "門田匡陽&内田武瑠によるライブ「YOU REALLY GOT ME! VOL.22」。下北沢BASEMENTで開催。",
       "projectCategory": "Good Dog Happy Men",
       "eventType": "live"
     },
@@ -4313,7 +4201,7 @@
       "title": "インストアライブ at TOWER RECORDS 名古屋近鉄パッセ店",
       "description": "Good Dog Happy Menのライブ「インストアライブ」、TOWER RECORDS 名古屋近鉄パッセ店にて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2009-06-19-000000",
@@ -4345,7 +4233,7 @@
       "title": "インストアライブ at TOWER RECORDS 梅田NU茶屋町店",
       "description": "Good Dog Happy Menのライブ「インストアライブ」、TOWER RECORDS 梅田NU茶屋町店にて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2009-07-19-good-dog-happy-men",
@@ -4417,14 +4305,6 @@
       "eventType": "live"
     },
     {
-      "id": "2009-09-06-000000",
-      "date": "2009-09-06",
-      "title": "Good Dog Happy Men - SHINJUKU LOFT PRESENTS vs SERIES ～GDHM vs ジェッジ～ supported by TOWER RECORDS at 新宿LOFT",
-      "description": "Good Dog Happy Mens出演、新宿LOFTでのライブイベント",
-      "projectCategory": "Good Dog Happy Men",
-      "eventType": "live"
-    },
-    {
       "id": "2009-09-06-good-dog-happy-men",
       "date": "2009-09-06",
       "title": "SHINJUKU LOFT PRESENTS vs SERIES ～GDHM vs ジェッジ～ supported by TOWER RECORDS at 新宿LOFT",
@@ -4438,7 +4318,7 @@
       "title": "サンキュー!サンジュー!ディスクガレージ ～MUSIC PARTY～「拍手大喝祭!!!」 at 渋谷C.C.Lemonホール",
       "description": "Good Dog Happy Menのライブ「サンキュー!サンジュー!ディスクガレージ ～MUSIC PARTY～「拍手大喝祭!!!」」、渋谷C.C.Lemonホールにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2009-10-03-good-dog-happy-men",
@@ -4446,7 +4326,7 @@
       "title": "THEモールスシンゴーズ presents 『ダイアグラム』 release party!! at 名古屋APOLLO THEATER",
       "description": "Good Dog Happy Menのライブ「THEモールスシンゴーズ presents 『ダイアグラム』 release party!!」、名古屋APOLLO THEATERにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2009-10-29-000000",
@@ -4486,7 +4366,7 @@
       "title": "Beat Happening! VOL.258 at 下北沢BASEMENT BAR",
       "description": "Good Dog Happy Menのライブ「Beat Happening! VOL.258」、下北沢BASEMENT BARにて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2009-12-29-000000",
@@ -4501,14 +4381,6 @@
       "date": "2009-12-29",
       "title": "ガレージ年末ショックイベント さよなら2009 at 下北沢GARAGE",
       "description": "Good Dog Happy Menのライブ「ガレージ年末ショックイベント さよなら2009」、下北沢GARAGEにて開催",
-      "projectCategory": "Good Dog Happy Men",
-      "eventType": "live"
-    },
-    {
-      "id": "2009-12-30-000000",
-      "date": "2009-12-30",
-      "title": "Good Dog Happy Men - LIVE DI:GA JUDGEMENT2009 MARUYAMA presented by DISK GARAGE 30th Anniversary at 渋谷O-WEST",
-      "description": "Good Dog Happy Men 出演、DISKGARAGEイベントに参加",
       "projectCategory": "Good Dog Happy Men",
       "eventType": "live"
     },
@@ -4579,7 +4451,7 @@
       "title": "インストアライブ at TOWER RECORDS 新宿店",
       "description": "Good Dog Happy Menのライブ「インストアライブ」、TOWER RECORDS 新宿店にて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2010-02-07-good-dog-happy-men",
@@ -4587,7 +4459,7 @@
       "title": "インストアライブ at TOWER RECORDS 名古屋近鉄パッセ店",
       "description": "Good Dog Happy Menのライブ「インストアライブ」、TOWER RECORDS 名古屋近鉄パッセ店にて開催",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2010-02-19-000000",
@@ -4739,7 +4611,7 @@
       "title": "Good Dog Happy Men 活動休止",
       "description": "この日のライブを最後にGDHMは活動休止。門田の活動はソロ名義に移行",
       "projectCategory": "Good Dog Happy Men",
-      "eventType": "other"
+      "eventType": "live"
     },
     {
       "id": "2010-06-29-good-dog-happy-men",
@@ -4755,7 +4627,7 @@
       "title": "門田匡陽 - Dear My Teacher (CD-R)",
       "description": "Monden MASAAKIが2010年にセルフリリースしたCD-Rアルバム。ライブ音源を収録。",
       "projectCategory": "門田匡陽 (ソロ名義/2010)",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2010-07-25-000000",
@@ -4795,14 +4667,6 @@
       "title": "LOVE LOVE LOVE presents バカンスdeござんす'10 at 下北沢BASEMENT BAR",
       "description": "門田匡陽 -His Band-のライブ「LOVE LOVE LOVE presents バカンスdeござんす'10」、下北沢BASEMENT BARにて開催",
       "projectCategory": "門田匡陽",
-      "eventType": "collaboration"
-    },
-    {
-      "id": "2010-09-11-000000",
-      "date": "2010-09-11",
-      "title": "門田匡陽 - the LIVE Music Magazine presents \"the LIVE Vol.0 ～アコースティックな夜～\" at 下北沢GARAGE",
-      "description": "アコースティックライブ「the LIVE Vol.0」に出演。門田匡陽が弾き語りを披露。",
-      "projectCategory": "門田匡陽 (ソロ名義/2010)",
       "eventType": "live"
     },
     {
@@ -4811,14 +4675,6 @@
       "title": "the LIVE Music Magazine presents \"the LIVE Vol.0 ～アコースティックな夜～\" at 下北沢GARAGE",
       "description": "門田匡陽のライブ「the LIVE Music Magazine presents \"the LIVE Vol.0 ～アコースティックな夜～\"」、下北沢GARAGEにて開催",
       "projectCategory": "門田匡陽",
-      "eventType": "live"
-    },
-    {
-      "id": "2010-09-20-000000",
-      "date": "2010-09-20",
-      "title": "門田匡陽 - rapt.に会う at 名古屋hair design rapt.",
-      "description": "門田匡陽、美容室ライブで弾き語り演奏。無マイク生音で観客を魅了。",
-      "projectCategory": "門田匡陽 (ソロ名義/2010)",
       "eventType": "live"
     },
     {
@@ -4835,7 +4691,7 @@
       "title": "「楽園の追放者」連載開始",
       "description": "音楽ニュースサイト「the LIVE Music Magazine」で連載開始、2012年5月まで",
       "projectCategory": "門田匡陽 (文筆活動)",
-      "eventType": "other"
+      "eventType": "live"
     },
     {
       "id": "2010-10-11-000000",
@@ -4867,7 +4723,7 @@
       "title": "門田匡陽 - 埋立地 / 優しい闇の中へ (CD-R)",
       "description": "2010年門田匡陽のCD-Rリリース。アコースティック2曲を収録。ライブ会場限定販売。",
       "projectCategory": "門田匡陽 (ソロ名義/2010)",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2010-10-23-門田匡陽--his-band-",
@@ -4875,14 +4731,6 @@
       "title": "Don't Trust Over 30 ～episode3～ at 下北沢GARAGE",
       "description": "門田匡陽 -His Band-のライブ「Don't Trust Over 30 ～episode3～」、下北沢GARAGEにて開催",
       "projectCategory": "門田匡陽",
-      "eventType": "live"
-    },
-    {
-      "id": "2010-11-03-000000",
-      "date": "2010-11-03",
-      "title": "門田匡陽 - shimokita round up3 at 下北沢GARAGE",
-      "description": "2010年、下北沢GARAGEでの弾き語りライブ。門田匡陽が7曲を演奏。",
-      "projectCategory": "門田匡陽 (ソロ名義/2010)",
       "eventType": "live"
     },
     {
@@ -4914,14 +4762,6 @@
       "date": "2010-12-09",
       "title": "門田匡陽 - Live at 渋谷スターラウンジ",
       "description": "2010年12月、渋谷で開催されたワンマンライブ。自作曲を弾き語り披露。",
-      "projectCategory": "門田匡陽 (ソロ名義/2010)",
-      "eventType": "live"
-    },
-    {
-      "id": "2010-12-21-000000",
-      "date": "2010-12-21",
-      "title": "門田匡陽 - Shinjuku Loft×SLOW NIGHT presents Candle Night 2010 at 新宿LOFT",
-      "description": "Shinjuku Loft×SLOW NIGHTによるキャンドルナイトイベントに出演",
       "projectCategory": "門田匡陽 (ソロ名義/2010)",
       "eventType": "live"
     },
@@ -4982,14 +4822,6 @@
       "eventType": "live"
     },
     {
-      "id": "2011-04-13-000000",
-      "date": "2011-04-13",
-      "title": "門田匡陽 - Beat Happening! ～7th編第四章～ at 渋谷7th Floor",
-      "description": "門田匡陽、7th Floorでアコースティックライブ。代表曲を熱演。",
-      "projectCategory": "門田匡陽 (ソロ名義/2010)",
-      "eventType": "live"
-    },
-    {
       "id": "2011-04-13-門田匡陽",
       "date": "2011-04-13",
       "title": "Beat Happening! ～7th編第四章～ at 渋谷7th Floor",
@@ -5027,14 +4859,6 @@
       "title": "Beat Happening! VOL.520 at 下北沢BASEMENT BAR",
       "description": "門田匡陽 -His Band-のライブ「Beat Happening! VOL.520」、下北沢BASEMENT BARにて開催",
       "projectCategory": "門田匡陽",
-      "eventType": "live"
-    },
-    {
-      "id": "2011-05-08-000000",
-      "date": "2011-05-08",
-      "title": "門田匡陽 - ソロアルバム発売イベント おまけライブ at 世田谷ものづくり学校",
-      "description": "ソロアルバム発売イベントでのおまけライブ(弾き語り)、世田谷ものづくり学校で開催",
-      "projectCategory": "門田匡陽 (ソロ名義/2010)",
       "eventType": "live"
     },
     {
@@ -5091,7 +4915,7 @@
       "title": "NEW TOWER GENERATION vol.2 (インストアライブ) at TOWER RECORDS 渋谷店 STAGE ONE",
       "description": "門田匡陽 -His Band-のライブ「NEW TOWER GENERATION vol.2 (インストアライブ)」、TOWER RECORDS 渋谷店 STAGE ONEにて開催",
       "projectCategory": "門田匡陽",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2011-06-01-000000",
@@ -5131,20 +4955,12 @@
       "eventType": "live"
     },
     {
-      "id": "2011-06-12-000000",
-      "date": "2011-06-12",
-      "title": "門田匡陽 - インストアライブ at TOWER RECORDS 新宿店",
-      "description": "2011年、TOWER新宿で無観客ライブ。アコースティック編成で人気曲を披露。",
-      "projectCategory": "門田匡陽 (ソロ名義/2010)",
-      "eventType": "live"
-    },
-    {
       "id": "2011-06-12-門田匡陽",
       "date": "2011-06-12",
       "title": "インストアライブ at TOWER RECORDS 新宿店",
       "description": "門田匡陽のライブ「インストアライブ」、TOWER RECORDS 新宿店にて開催",
       "projectCategory": "門田匡陽",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2011-06-17-000000",
@@ -5232,7 +5048,7 @@
       "title": "よしむらひらく 1st mini album『はじめなかおわり』レコ発ツアーファイナル at 渋谷O-NEST",
       "description": "門田匡陽 -His Band-のライブ「よしむらひらく 1st mini album『はじめなかおわり』レコ発ツアーファイナル」、渋谷O-NESTにて開催",
       "projectCategory": "門田匡陽",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2011-10-15-門田匡陽",
@@ -5248,7 +5064,7 @@
       "title": "UBC Autumn Fes ～ぼくのあきやすみ 2011～ at 所沢航空記念公園 野外ステージ",
       "description": "門田匡陽 -His Band-のライブ「UBC Autumn Fes ～ぼくのあきやすみ 2011～」、所沢航空記念公園 野外ステージにて開催",
       "projectCategory": "門田匡陽",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2011-10-23-門田匡陽",
@@ -5256,14 +5072,6 @@
       "title": "DaisyBar Autumn Fes 2011 \"yorocobino-tane vol.5\" ～where is my mind?「Lily」Release Tour～ at 下北沢DaisyBar",
       "description": "門田匡陽のライブ「DaisyBar Autumn Fes 2011 \"yorocobino-tane vol.5\" ～where is my mind?「Lily」Release Tour～」、下北沢DaisyBarにて開催",
       "projectCategory": "門田匡陽",
-      "eventType": "collaboration"
-    },
-    {
-      "id": "2011-11-03-000000",
-      "date": "2011-11-03",
-      "title": "門田匡陽 - shimokita round up 4 at 下北沢SHELTER",
-      "description": "2011年、下北沢SHELTERでサーキットフェスに出演。6曲を披露した。",
-      "projectCategory": "門田匡陽 (ソロ名義/2010)",
       "eventType": "live"
     },
     {
@@ -5288,7 +5096,7 @@
       "title": "yumeiroecho「定点観測」リリースパーティー ～Point vol.Vega～ at 新代田FEVER",
       "description": "門田匡陽 -His Band-のライブ「yumeiroecho「定点観測」リリースパーティー ～Point vol.Vega～」、新代田FEVERにて開催",
       "projectCategory": "門田匡陽",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2011-11-24-門田匡陽--his-band-",
@@ -5296,7 +5104,7 @@
       "title": "Beat Happening! VOL.656 at 下北沢BASEMENT BAR",
       "description": "門田匡陽 -His Band-のライブ「Beat Happening! VOL.656」、下北沢BASEMENT BARにて開催",
       "projectCategory": "門田匡陽",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2011-12-03-000000",
@@ -5323,14 +5131,6 @@
       "eventType": "live"
     },
     {
-      "id": "2012-01-29-000000",
-      "date": "2012-01-29",
-      "title": "門田匡陽 with miss shama - CalmCalm Vol.1 at IID 世田谷ものづくり学校",
-      "description": "門田匡陽ソロライブ、世田谷の学校で開催。キャンドルアーティスト miss shama がライトアップ担当。",
-      "projectCategory": "門田匡陽 (ソロ名義/2010)",
-      "eventType": "live"
-    },
-    {
       "id": "2012-01-29-門田匡陽",
       "date": "2012-01-29",
       "title": "門田匡陽 with miss shama 『CalmCalm Vol.1』 at IID 世田谷ものづくり学校",
@@ -5344,7 +5144,7 @@
       "title": "the audio pool \"into the pool\" TOUR at 千葉LOOK",
       "description": "門田匡陽 with CalmCalmのライブ「the audio pool \"into the pool\" TOUR」、千葉LOOKにて開催",
       "projectCategory": "門田匡陽",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2012-03-01-門田匡陽-with-calmcalm",
@@ -5352,7 +5152,7 @@
       "title": "POPTOP/binyl records presents \"ROCK BUM\" at 下北沢SHELTER",
       "description": "門田匡陽 with CalmCalmのライブ「POPTOP/binyl records presents \"ROCK BUM\"」、下北沢SHELTERにて開催",
       "projectCategory": "門田匡陽",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2012-03-24-門田匡陽",
@@ -5360,7 +5160,7 @@
       "title": "Live at 上越EARTH",
       "description": "門田匡陽、上越EARTHにて開催",
       "projectCategory": "門田匡陽",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2012-03-25-門田匡陽",
@@ -5368,14 +5168,6 @@
       "title": "限りなく透明な果実 live 2012 After Winter-Pre Spring at 長野LIVE HOUSE J",
       "description": "門田匡陽のライブ「限りなく透明な果実 live 2012 After Winter-Pre Spring」、長野LIVE HOUSE Jにて開催",
       "projectCategory": "門田匡陽",
-      "eventType": "collaboration"
-    },
-    {
-      "id": "2012-04-14-000000",
-      "date": "2012-04-14",
-      "title": "門田匡陽 - CalmCalm vol.2 at IID 世田谷ものづくり学校",
-      "description": "Monden MASAAKI 門田匡陽、ソロ&コラボ演奏を収録したイベント「CalmCalm vol.2」開催",
-      "projectCategory": "門田匡陽 (ソロ名義/2010)",
       "eventType": "live"
     },
     {
@@ -5421,7 +5213,7 @@
       "title": "SSZK&ENO presents 「HOW Fes!」 vol.1 at 新宿JAM",
       "description": "門田匡陽 with CalmCalmのライブ「SSZK&ENO presents 「HOW Fes!」 vol.1」、新宿JAMにて開催",
       "projectCategory": "門田匡陽",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2012-05-utopia-end",
@@ -5461,7 +5253,7 @@
       "title": "POPTOP/binyl records presents \"ROCK BUM\" in 名古屋 at 名古屋ell.SIZE",
       "description": "門田匡陽 with CalmCalmのライブ「POPTOP/binyl records presents \"ROCK BUM\" in 名古屋」、名古屋ell.SIZEにて開催",
       "projectCategory": "門田匡陽",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2012-05-27-000000",
@@ -5477,7 +5269,7 @@
       "title": "門田匡陽 - fructose (CD-R)",
       "description": "2012年CD-R『fructose』をライブ会場限定で発売した門田匡陽の活動記録。",
       "projectCategory": "門田匡陽 (ソロ名義/2010)",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2012-05-27-門田匡陽-with-calmcalm",
@@ -5536,14 +5328,6 @@
       "eventType": "live"
     },
     {
-      "id": "2013-03-22-000000",
-      "date": "2013-03-22",
-      "title": "門田匡陽 - Luckand presents event \"Value added\" Chapter 1 at 渋谷 duo MUSIC EXCHANGE",
-      "description": "門田匡陽のソロライブ。新感覚の価値創造空間を実現。",
-      "projectCategory": "門田匡陽 (ソロ名義/2010)",
-      "eventType": "live"
-    },
-    {
       "id": "2013-03-22-門田匡陽",
       "date": "2013-03-22",
       "title": "Luckand presents event \"Value added\" Chapter 1 at 渋谷 duo MUSIC EXCHANGE",
@@ -5557,7 +5341,7 @@
       "title": "BLUE ENCOUNT TOUR 2013 FINDING \"SIGNAL\" at 大阪福島2nd LINE",
       "description": "I Will Say Good Byeのライブ「BLUE ENCOUNT TOUR 2013 FINDING \"SIGNAL\"」、大阪福島2nd LINEにて開催",
       "projectCategory": "I Will Say Good Bye",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2013-03-27-i-will-say-good-bye",
@@ -5565,7 +5349,7 @@
       "title": "Baked plum cake Tour at 名古屋CLUB UPSET",
       "description": "I Will Say Good Byeのライブ「Baked plum cake Tour」、名古屋CLUB UPSETにて開催",
       "projectCategory": "I Will Say Good Bye",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2013-04-01-gingahaisen",
@@ -5598,14 +5382,6 @@
       "description": "Poet-type.Mのデジタルシングル。I WILL MUSICレーベルからリリース",
       "projectCategory": "Poet-type.M",
       "eventType": "release"
-    },
-    {
-      "id": "2013-09-28-000000",
-      "date": "2013-09-28",
-      "title": "Poet-type.M - Poet-type.M presents 『A Whole New World ～知らない星と、知らない夜と～』 at 北とぴあ",
-      "description": "Monden MASAAKIの2013年単独ライブ、プラネタリウムで開催",
-      "projectCategory": "Poet-type.M",
-      "eventType": "live"
     },
     {
       "id": "2013-09-28-poet-type.m",
@@ -5658,7 +5434,7 @@
       "title": "インストアライブ at diskunion 下北沢店",
       "description": "Poet-type.Mのライブ「インストアライブ」、diskunion 下北沢店にて開催",
       "projectCategory": "Poet-type.M",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2013-10-12-000000",
@@ -5674,7 +5450,7 @@
       "title": "インストアライブ at TOWER RECORDS 新宿店",
       "description": "Poet-type.Mのライブ「インストアライブ」、TOWER RECORDS 新宿店にて開催",
       "projectCategory": "Poet-type.M",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2013-10-13-000000",
@@ -5697,14 +5473,6 @@
       "date": "2013-10-14",
       "title": "インストアライブ at TOWER RECORDS 梅田NU茶屋町店",
       "description": "Poet-type.Mのライブ「インストアライブ」、TOWER RECORDS 梅田NU茶屋町店にて開催",
-      "projectCategory": "Poet-type.M",
-      "eventType": "release"
-    },
-    {
-      "id": "2013-10-16-000000",
-      "date": "2013-10-16",
-      "title": "Poet-type.M - J-WAVE TOKYO REAL-EYES \"LIVE SUPERNOVA\" vol.88 at 渋谷O-NEST",
-      "description": "J-WAVE LIVE SUPERNOVA vol.88でPOET-TYPE.Mが出演。光のある詩的ライブを披露。",
       "projectCategory": "Poet-type.M",
       "eventType": "live"
     },
@@ -5738,7 +5506,7 @@
       "title": "インストアライブ at TOWER RECORDS 仙台パルコ店",
       "description": "Poet-type.Mのライブ「インストアライブ」、TOWER RECORDS 仙台パルコ店にて開催",
       "projectCategory": "Poet-type.M",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2013-10-26-poet-type.m",
@@ -5746,7 +5514,7 @@
       "title": "インストアライブ at TOWER RECORDS 名古屋近鉄パッセ店",
       "description": "Poet-type.Mのライブ「インストアライブ」、TOWER RECORDS 名古屋近鉄パッセ店にて開催",
       "projectCategory": "Poet-type.M",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2013-11-04-poet-type.m",
@@ -5754,7 +5522,7 @@
       "title": "shimokita round up6 at 下北沢GARAGE",
       "description": "Poet-type.Mのライブ「shimokita round up6」、下北沢GARAGEにて開催",
       "projectCategory": "Poet-type.M",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2013-11-29-000000",
@@ -5762,7 +5530,7 @@
       "title": "Poet-type.M - A Whole New World -LIVE at hoku to pia _Sep 28, 2013-",
       "description": "2013年にMonden MASAAKIが発表したライブアルバム。ジャンルを超えた楽曲で構成された。",
       "projectCategory": "Poet-type.M",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2013-11-29-000002",
@@ -5941,14 +5709,6 @@
       "eventType": "live"
     },
     {
-      "id": "2014-07-04-000000",
-      "date": "2014-07-04",
-      "title": "門田匡陽 with 楢原英介 - Shibuya Milkyway 4th Anniversary × JUNGLE LIFE Presents 「Children of the Revolution」 at 渋谷Milkyway",
-      "description": "門田匡陽が楢原英介と共演し、渋谷Milkywayで開催された4周年記念イベントに出演。",
-      "projectCategory": "門田匡陽 (ソロ名義/2010)",
-      "eventType": "live"
-    },
-    {
       "id": "2014-07-04-門田匡陽-with-楢原英介",
       "date": "2014-07-04",
       "title": "Shibuya Milkyway 4th Anniversary × JUNGLE LIFE Presents 「Children of the Revolution」 at 渋谷Milkyway",
@@ -6087,14 +5847,6 @@
       "eventType": "release"
     },
     {
-      "id": "2015-04-01-000001",
-      "date": "2015-04-01",
-      "title": "Poet-type.M - D&D release&PtM 2nd Anniversary!! 『Gentry liar from D&D』 独演会Acoustic ver. at 原宿ストロボカフェ",
-      "description": "Poet-type.Mの2周年記念弾き語りライブ。オリジナル曲を演奏し、ファンとの対話も行った。",
-      "projectCategory": "Poet-type.M",
-      "eventType": "live"
-    },
-    {
       "id": "2015-04-01-poet-type.m",
       "date": "2015-04-01",
       "title": "D&D release&PtM 2nd Anniversary!! 『Gentry liar from D&D』 独演会Acoustic ver. at 原宿ストロボカフェ",
@@ -6116,14 +5868,6 @@
       "title": "インストアライブ at TOWER RECORDS 秋葉原店",
       "description": "Poet-type.Mのライブ「インストアライブ」、TOWER RECORDS 秋葉原店にて開催",
       "projectCategory": "Poet-type.M",
-      "eventType": "release"
-    },
-    {
-      "id": "2015-05-17-000000",
-      "date": "2015-05-17",
-      "title": "Poet-type.M - 新宿ロフト×sleepy.ab presents \"SHINJUKU LOFT LIVE collaboration 2015～2016\" at 新宿LOFT",
-      "description": "新宿ロフトで開催された2015年〜2016年のイベントに出演。ミュージシャンMondenとsleepy.abによるコラボライブ。",
-      "projectCategory": "Poet-type.M",
       "eventType": "live"
     },
     {
@@ -6140,7 +5884,7 @@
       "title": "PLAY A LIVE 3 at 心斎橋JANUS",
       "description": "Poet-type.Mのライブ「PLAY A LIVE 3」、心斎橋JANUSにて開催",
       "projectCategory": "Poet-type.M",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2015-07-01-000000",
@@ -6169,14 +5913,6 @@
       "title": "インストアライブ at TOWER RECORDS 新宿店",
       "description": "Poet-type.Mのライブ「インストアライブ」、TOWER RECORDS 新宿店にて開催",
       "projectCategory": "Poet-type.M",
-      "eventType": "release"
-    },
-    {
-      "id": "2015-07-05-000000",
-      "date": "2015-07-05",
-      "title": "Poet-type.M - D&D release Party 『Gentry liar from D&D』 Vol.2 独演会Acoustic ver. at 原宿ストロボカフェ",
-      "description": "Monden MASAAKI's solo acoustic live at Harajuku Strobo Cafe.",
-      "projectCategory": "Poet-type.M",
       "eventType": "live"
     },
     {
@@ -6196,14 +5932,6 @@
       "eventType": "other"
     },
     {
-      "id": "2015-08-01-000000",
-      "date": "2015-08-01",
-      "title": "Poet-type.M - THE JETZEJOHNSON TOUR2015 [TECKNICAL BREAKS DOWNER] at 下北沢CLUB Que",
-      "description": "Poet-type.M - THE JETZEJOHNSON TOUR2015 at 下北沢CLUB Que、10曲を熱演。",
-      "projectCategory": "Poet-type.M",
-      "eventType": "live"
-    },
-    {
       "id": "2015-08-01-poet-type.m",
       "date": "2015-08-01",
       "title": "THE JETZEJOHNSON TOUR2015 [TECKNICAL BREAKS DOWNER] at 下北沢CLUB Que",
@@ -6217,7 +5945,7 @@
       "title": "真夏のカーニバル!! ～ぽわん リリースツアー「目指せ!脱マイTOUR」～ at 名古屋CLUB UPSET",
       "description": "門田匡陽 with 楢原英介のライブ「真夏のカーニバル!! ～ぽわん リリースツアー「目指せ!脱マイTOUR」～」、名古屋CLUB UPSETにて開催",
       "projectCategory": "門田匡陽",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2015-08-20-poet-type.m",
@@ -6225,7 +5953,7 @@
       "title": "THE RiCECOOKERS Gotta Wear Shades Tour 2015 at 名古屋CLUB UPSET",
       "description": "Poet-type.Mのライブ「THE RiCECOOKERS Gotta Wear Shades Tour 2015」、名古屋CLUB UPSETにて開催",
       "projectCategory": "Poet-type.M",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2015-08-21-poet-type.m",
@@ -6233,7 +5961,7 @@
       "title": "共鳴レンサ 番外編 vol.2 「真夏の共鳴」 at 渋谷O-NEST",
       "description": "Poet-type.Mのライブ「共鳴レンサ 番外編 vol.2 「真夏の共鳴」」、渋谷O-NESTにて開催",
       "projectCategory": "Poet-type.M",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2015-09-07-000000",
@@ -6265,7 +5993,7 @@
       "title": "Poet-type.M - A Place, Dark & Dark -prologue- LIVE at Kenmin kyosai Mirai Hall_Jan 31, 2015",
       "description": "Poeta-type.M 2015年1月31日ライブ映像作品。アコースティックアレンジ曲を収録。",
       "projectCategory": "Poet-type.M",
-      "eventType": "release",
+      "eventType": "live",
       "media": {
         "type": "youtube",
         "url": "https://www.youtube.com/watch?v=STWMWLzXCOE",
@@ -6313,14 +6041,6 @@
       "eventType": "live"
     },
     {
-      "id": "2015-10-24-bn/gdhm/ptm",
-      "date": "2015-10-24",
-      "title": "festival M.O.N -美学の勝利- at 恵比寿LIQUIDROOM",
-      "description": "BN/GDHM/PtMのライブ「festival M.O.N -美学の勝利-」、恵比寿LIQUIDROOMにて開催",
-      "projectCategory": "BN/GDHM/PtM",
-      "eventType": "live"
-    },
-    {
       "id": "2015-11-02-000000",
       "date": "2015-11-02",
       "title": "Poet-type.M - インストアライブ at TOWER RECORDS 渋谷店",
@@ -6334,7 +6054,7 @@
       "title": "インストアライブ at TOWER RECORDS 渋谷店",
       "description": "Poet-type.Mのライブ「インストアライブ」、TOWER RECORDS 渋谷店にて開催",
       "projectCategory": "Poet-type.M",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2015-11-29-000000",
@@ -6358,7 +6078,7 @@
       "title": "Live at 名古屋sunset BLUE",
       "description": "門田匡陽、名古屋sunset BLUEにて開催",
       "projectCategory": "門田匡陽",
-      "eventType": "collaboration"
+      "eventType": "live"
     },
     {
       "id": "2016-02-14-233000",
@@ -6366,7 +6086,7 @@
       "title": "MUSIC ON! TV スペシャル番組 「festival M.O.N -美学の勝利-」放送",
       "description": "MUSIC ON! TV特別番組。Poet-type.Mとモンデンのライブ映像を収録。",
       "projectCategory": "その他",
-      "eventType": "other"
+      "eventType": "live"
     },
     {
       "id": "2016-02-17-000000",
@@ -6454,20 +6174,12 @@
       "eventType": "live"
     },
     {
-      "id": "2016-04-17-000000",
-      "date": "2016-04-17",
-      "title": "Poet-type.M - A Place, Dark & Dark Public Performance 「God Bless, Dark & Dark」 at Mt.RAINIER HALL SHIBUYA PLEASURE PLEASURE",
-      "description": "Monden MASAAKIによる単独ライブ「God Bless, Dark & Dark」をMt.RAINIER HALLで開催",
-      "projectCategory": "Poet-type.M",
-      "eventType": "live"
-    },
-    {
       "id": "2016-04-17-000001",
       "date": "2016-04-17",
       "title": "festival M.O.N. -勝利の美学- 2015.10.24 at LIQUIDROOM ebisu (Live DVD)",
       "description": "Monden MASAAKI ライブDVD「festival M.O.N. -勝利の美学-」発売、多彩なアーティストが参加",
       "projectCategory": "BURGER NUDS",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2016-04-17-poet-type.m",
@@ -6542,27 +6254,11 @@
       "eventType": "live"
     },
     {
-      "id": "2016-09-02-000000",
-      "date": "2016-09-02",
-      "title": "門田匡陽 - ウエダケイタ presents 「プールサイドガール」 at 心斎橋 Live&bar 酔夏男",
-      "description": "ウエダケイタプロデュースの弾き語りライブ、門田匡陽出演、心斎橋の酔夏男で開催。",
-      "projectCategory": "門田匡陽 (ソロ名義/2010)",
-      "eventType": "live"
-    },
-    {
       "id": "2016-09-02-門田匡陽",
       "date": "2016-09-02",
       "title": "ウエダケイタ presents 「プールサイドガール」 at 心斎橋 Live&bar 酔夏男",
       "description": "門田匡陽のライブ「ウエダケイタ presents 「プールサイドガール」」、心斎橋 Live&bar 酔夏男にて開催",
       "projectCategory": "門田匡陽",
-      "eventType": "live"
-    },
-    {
-      "id": "2016-09-03-000000",
-      "date": "2016-09-03",
-      "title": "門田匡陽 - Please don't finish the summer holidays at 名古屋sunset BLUE",
-      "description": "2016年9月3日、名古屋sunset BLUEにて弾き語りライブ。共演アーティストも出演。",
-      "projectCategory": "門田匡陽 (ソロ名義/2010)",
       "eventType": "live"
     },
     {
@@ -6574,20 +6270,12 @@
       "eventType": "live"
     },
     {
-      "id": "2017-02-02-000000",
-      "date": "2017-02-02",
-      "title": "門田匡陽 - CLOW『DEAR FRAME』リリースイベント「KBKK」 at 下北沢GARAGE",
-      "description": "門田匡陽がCLOW『DEAR FRAME』リリースイベントに出演した。",
-      "projectCategory": "門田匡陽 (ソロ名義/2010)",
-      "eventType": "live"
-    },
-    {
       "id": "2017-02-02-門田匡陽",
       "date": "2017-02-02",
       "title": "CLOW『DEAR FRAME』リリースイベント「KBKK」 at 下北沢GARAGE",
       "description": "門田匡陽のライブ「CLOW『DEAR FRAME』リリースイベント「KBKK」」、下北沢GARAGEにて開催",
       "projectCategory": "門田匡陽",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2017-06-07-000000",
@@ -6596,14 +6284,6 @@
       "description": "Mondenの新作\"BURGER NUDS - Act 2 or Act 3\"を2017年にリリース。ジャンルや曲名の解説を含む。",
       "projectCategory": "BURGER NUDS",
       "eventType": "release"
-    },
-    {
-      "id": "2017-06-17-000000",
-      "date": "2017-06-17",
-      "title": "門田匡陽 - \"BT Live #01\" at 原宿 LUCKAND -Gallery Cafe&Bar-",
-      "description": "Monden MASAAKI's free live performance at Harajuku gallery cafe.",
-      "projectCategory": "門田匡陽 (ソロ名義/2010)",
-      "eventType": "live"
     },
     {
       "id": "2017-06-17-門田匡陽",
@@ -6651,14 +6331,6 @@
       "title": "tour 2017 「Act 2 或いは Act 3」 at 新代田FEVER",
       "description": "BURGER NUDSのライブ「tour 2017 「Act 2 或いは Act 3」」、新代田FEVERにて開催",
       "projectCategory": "BURGER NUDS",
-      "eventType": "live"
-    },
-    {
-      "id": "2017-11-05-000000",
-      "date": "2017-11-05",
-      "title": "門田匡陽 - Across KNNN Street at 新代田FEVER",
-      "description": "2017年11月、弾き語りライブ「Across KNNN Street」を新代田FEVERで開催した。",
-      "projectCategory": "門田匡陽 (ソロ名義/2010)",
       "eventType": "live"
     },
     {
@@ -6764,14 +6436,6 @@
       "date": "2018-02-25",
       "title": "Pure vol.2 at 代官山UNIT",
       "description": "BURGER NUDSのライブ「Pure vol.2」、代官山UNITにて開催",
-      "projectCategory": "BURGER NUDS",
-      "eventType": "live"
-    },
-    {
-      "id": "2018-03-11-000000",
-      "date": "2018-03-11",
-      "title": "BURGER NUDS - CLUB ROCK'N'ROLL 25th ANNIVERSARY!!!  本当にやりたかった２マンはこちらです（仮） at 名古屋CLUB ROCK'N'ROLL",
-      "description": "BURGER NUDSが出演したCLUB ROCK'N'ROLL 25周年記念イベントの様子を簡潔にまとめた。",
       "projectCategory": "BURGER NUDS",
       "eventType": "live"
     },
@@ -6919,21 +6583,13 @@
       "title": "Poet-type.M×CLOW - Gift",
       "description": "Poet-type.M×CLOW、2019年5月ライブ会場で無料配布されたCD-R『Gift』リリース。",
       "projectCategory": "Poet-type.M",
-      "eventType": "release"
+      "eventType": "live"
     },
     {
       "id": "2019-05-06-poet-type.m",
       "date": "2019-05-06",
       "title": "GARAGE 25th Anniversary at 下北沢GARAGE",
       "description": "Poet-type.Mのライブ「GARAGE 25th Anniversary」、下北沢GARAGEにて開催",
-      "projectCategory": "Poet-type.M",
-      "eventType": "collaboration"
-    },
-    {
-      "id": "2019-06-05-000000",
-      "date": "2019-06-05",
-      "title": "Poet-type.M - FEVER 10th ANNIVERSARY \"Another KNNN Chill Beats\" at 新代田FEVER",
-      "description": "Poet-type.M、FEVER 10周年イベントに出演。新代田FEVERでのライブを開催。",
       "projectCategory": "Poet-type.M",
       "eventType": "live"
     },
@@ -6986,14 +6642,6 @@
       "eventType": "live"
     },
     {
-      "id": "2020-02-11-000000",
-      "date": "2020-02-11",
-      "title": "門田匡陽 - 新代田で会おうよ。 at 新代田Live bar crossing",
-      "description": "ワンマンライブ「新代田で会おうよ。」を開催したミュージシャン、門田匡陽の活動記録",
-      "projectCategory": "門田匡陽 (ソロ名義/2010)",
-      "eventType": "live"
-    },
-    {
       "id": "2020-02-11-門田匡陽",
       "date": "2020-02-11",
       "title": "新代田で会おうよ。 at 新代田Live bar crossing",
@@ -7031,14 +6679,6 @@
       "title": "ethic(s) at 下北沢GARAGE",
       "description": "MASAAKI_MONDEN\\_のライブ「ethic(s)」、下北沢GARAGEにて開催",
       "projectCategory": "門田匡陽",
-      "eventType": "live"
-    },
-    {
-      "id": "2020-12-26-000000",
-      "date": "2020-12-26",
-      "title": "門田匡陽 - Live kalminrot 写真展「NITTY-GRITTY」 at 原宿LUCKAND",
-      "description": "門田匡陽、kalminrot写真展「NITTY-GRITTY」でアコースティックライブ。10名限定のイベントだった。",
-      "projectCategory": "門田匡陽 (ソロ名義/2020-)",
       "eventType": "live"
     },
     {
@@ -7117,14 +6757,6 @@
       "description": "HIGHWAY STARとの業務委託契約の終了が発表される",
       "projectCategory": "門田匡陽 (ソロ名義/2020)",
       "eventType": "other"
-    },
-    {
-      "id": "2023-04-11-000000",
-      "date": "2023-04-11",
-      "title": "門田匡陽 - \"Spring Weather Report 2023\" at 新代田LIVE HOUSE FEVER",
-      "description": "門田匡陽、2023年4月東京で\"Spring Weather Report\"ライブ開催。共演アーティストも出演。",
-      "projectCategory": "門田匡陽 (ソロ名義/2020-)",
-      "eventType": "live"
     },
     {
       "id": "2023-04-11-門田匡陽",
@@ -7405,22 +7037,6 @@
       "date": "2024-11-01",
       "title": "BURGER NUDS - FEVER 15th ANNIVERSARY \"LIVE FOR THE FUTURE\" at 新代田FEVER",
       "description": "BURGER NUDS、FEVER 15周年「LIVE FOR THE FUTURE」で6年ぶり復活。サポートメンバーに菅野岳大 (paionia) を迎え、The Cheseraseraとのツーマンライブを開催",
-      "projectCategory": "BURGER NUDS",
-      "eventType": "live"
-    },
-    {
-      "id": "2024-11-01-burger-nuds",
-      "date": "2024-11-01",
-      "title": "FEVER 15th ANNIVERSARY \"LIVE FOR THE FUTURE\" at 新代田FEVER",
-      "description": "BURGER NUDSのライブ「FEVER 15th ANNIVERSARY \"LIVE FOR THE FUTURE\"」、新代田FEVERにて開催",
-      "projectCategory": "BURGER NUDS",
-      "eventType": "live"
-    },
-    {
-      "id": "2024-11-23-000000",
-      "date": "2024-11-23",
-      "title": "BURGER NUDS - tomoran presents せだい 2nd album release party \"四季 -momiji-\" at 下北沢近道",
-      "description": "Monden MASAAKI、新アルバム「四季-momiji-」発売記念ライブ。下北沢近道で多彩なアーティストと共演。",
       "projectCategory": "BURGER NUDS",
       "eventType": "live"
     },

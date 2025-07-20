@@ -13,6 +13,7 @@ export function EventItem({ event }: EventItemProps) {
     return `${date.getDate()}日`;
   };
 
+
   const formatEventType = (eventType: string) => {
     const typeMap: { [key: string]: string } = {
       release: "リリース",
@@ -58,7 +59,10 @@ export function EventItem({ event }: EventItemProps) {
       )}
     >
       <div className="event-meta-wrapper flex flex-row gap-2.5 mb-2">
-        <time className="event-date text-sm text-timeline-text-secondary font-semibold min-w-12 text-left pr-2 border-r border-gray-200">
+        <time 
+          className="event-date text-sm text-timeline-text-secondary font-semibold min-w-12 text-left pr-2 border-r border-gray-200"
+          data-day-only={formatDate(event.date)}
+        >
           {formatDate(event.date)}
         </time>
 
