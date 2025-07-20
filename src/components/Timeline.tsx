@@ -4,9 +4,10 @@ import { ScrollTracker } from "./ScrollTracker";
 
 interface TimelineProps {
   timelineData: GroupedTimeline;
+  deployDate?: string;
 }
 
-export function Timeline({ timelineData }: TimelineProps) {
+export function Timeline({ timelineData, deployDate }: TimelineProps) {
   // Sort years in chronological order
   const sortedYears = Object.keys(timelineData).sort(
     (a, b) => parseInt(a) - parseInt(b)
@@ -24,6 +25,11 @@ export function Timeline({ timelineData }: TimelineProps) {
           Explore the timeline of significant events and milestones of MONDEN
           Masaaki
         </p>
+        {deployDate && (
+          <p className="text-sm text-timeline-text-secondary mt-2 opacity-75">
+            最終更新日: {deployDate}
+          </p>
+        )}
       </div>
 
       {sortedYears.map((year) => (

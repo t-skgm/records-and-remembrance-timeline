@@ -1,4 +1,5 @@
 import { Timeline } from "@/components/Timeline";
+import { getDeployDate } from "@/utils/helpers";
 import {
   loadTimelineData,
   groupTimelineByYearMonth,
@@ -7,10 +8,11 @@ import {
 export default function Home() {
   const timelineData = loadTimelineData();
   const groupedTimeline = groupTimelineByYearMonth(timelineData.timeline);
+  const deployDate = getDeployDate();
 
   return (
     <main>
-      <Timeline timelineData={groupedTimeline} />
+      <Timeline timelineData={groupedTimeline} deployDate={deployDate} />
     </main>
   );
 }

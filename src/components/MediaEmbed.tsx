@@ -1,5 +1,5 @@
 import { TimelineEntry } from "@/types/timeline";
-import { getYouTubeEmbedUrl } from "@/utils/timelineData";
+import { getYouTubeEmbedUrl } from "@/utils/helpers";
 
 interface MediaEmbedProps {
   media: NonNullable<TimelineEntry["media"]>;
