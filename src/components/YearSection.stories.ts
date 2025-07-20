@@ -159,16 +159,6 @@ export const ManyMonths: Story = {
           eventType: "live",
         },
       ],
-      "9": [
-        {
-          id: "2001-09-01",
-          date: "2001-09-01",
-          title: "秋のコラボ",
-          description: "他アーティストとのコラボ",
-          projectCategory: "コラボ",
-          eventType: "collaboration",
-        },
-      ],
       "12": [
         {
           id: "2001-12-01",
