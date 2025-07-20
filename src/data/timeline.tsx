@@ -2509,30 +2509,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2007-03-28-good-dog-happy-men",
-    date: "2007-03-28",
-    title: "LIVE STORAGE Vol.2 at 仙台MACANA",
-    description:
-      "Good Dog Happy Menのライブ「LIVE STORAGE Vol.2」、仙台MACANAにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2007-04-05-000000",
     date: "2007-04-05",
     title:
       "Good Dog Happy Men - HIGH LINE RECORDS 10周年祭 ～HIGH LINE NIGHT GARAGE編～ at 下北沢GARAGE",
     description: "Good Dog Happy Mensが参加した10周年記念ライブ",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2007-04-05-good-dog-happy-men",
-    date: "2007-04-05",
-    title:
-      "HIGH LINE RECORDS 10周年祭 ～HIGH LINE NIGHT GARAGE編～ at 下北沢GARAGE",
-    description:
-      "Good Dog Happy Menのライブ「HIGH LINE RECORDS 10周年祭 ～HIGH LINE NIGHT GARAGE編～」、下北沢GARAGEにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -2546,30 +2527,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2007-04-16-good-dog-happy-men",
-    date: "2007-04-16",
-    title:
-      "SHINJUKU LOFT 8TH ANNIVERSARY ～astrcoast＆SHINJUKU LOFT presents ～宇宙大サーカス -歌舞伎町ビッグバン!!!～ at 新宿LOFT",
-    description:
-      "Good Dog Happy Menのライブ「SHINJUKU LOFT 8TH ANNIVERSARY ～astrcoast＆SHINJUKU LOFT presents ～宇宙大サーカス -歌舞伎町ビッグバン!!!～」、新宿LOFTにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2007-05-13-000000",
     date: "2007-05-13",
     title: "Good Dog Happy Men - Ball of Haunting Notes at 心斎橋CLUB QUATTRO",
     description:
       "Monden MASAAKIが参加したイベント「Ball of Haunting Notes」の活動記録。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2007-05-13-good-dog-happy-men",
-    date: "2007-05-13",
-    title: "Ball of Haunting Notes at 心斎橋CLUB QUATTRO",
-    description:
-      "Good Dog Happy Menのライブ「Ball of Haunting Notes」、心斎橋CLUB QUATTROにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -2583,30 +2545,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2007-05-24-good-dog-happy-men",
-    date: "2007-05-24",
-    title:
-      "SHINJUKU LOFT 8TH ANNIVERSARY ～ロフトノススメ スクイノウタ～ at 新宿LOFT",
-    description:
-      "Good Dog Happy Menのライブ「SHINJUKU LOFT 8TH ANNIVERSARY ～ロフトノススメ スクイノウタ～」、新宿LOFTにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2007-06-03-000000",
     date: "2007-06-03",
     title: "Good Dog Happy Men - JAPAN STREET CALLING at 心斎橋SUNHALL",
     description:
       "2007年、大阪のサーキットフェスに出演。バンド編成とシンガーソングライターで活躍。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2007-06-03-good-dog-happy-men",
-    date: "2007-06-03",
-    title: "JAPAN STREET CALLING at 心斎橋SUNHALL",
-    description:
-      "Good Dog Happy Menのライブ「JAPAN STREET CALLING」、心斎橋SUNHALLにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -2620,30 +2563,12 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2007-06-05-good-dog-happy-men",
-    date: "2007-06-05",
-    title: "the bracing air at 名古屋CLUB UPSET",
-    description:
-      "Good Dog Happy Menのライブ「the bracing air」、名古屋CLUB UPSETにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2007-06-23-000000",
     date: "2007-06-23",
     title:
       "Good Dog Happy Men - EST07 ～EARLY SUMMER TOUR 07 Tokyo～ at 代官山UNIT",
     description:
       "Good Dog Happy Men東京代官山UNITにて2007年EARLY SUMMER TOUR07開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2007-06-23-good-dog-happy-men",
-    date: "2007-06-23",
-    title: "EST07 ～EARLY SUMMER TOUR 07 Tokyo～ at 代官山UNIT",
-    description:
-      "Good Dog Happy Menのライブ「EST07 ～EARLY SUMMER TOUR 07 Tokyo～」、代官山UNITにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -2666,28 +2591,10 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2007-06-27-good-dog-happy-men",
-    date: "2007-06-27",
-    title: "インストアライブ at 下北沢HIGHLINE RECORDS",
-    description:
-      "Good Dog Happy Menのライブ「インストアライブ」、下北沢HIGHLINE RECORDSにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2007-07-04-000000",
     date: "2007-07-04",
     title: "Good Dog Happy Men - OCEANLANEレコ発ツアー at 名古屋APOLLO THEATER",
     description: "Monden MASAAKIが参加したOCEANLANEレコ発ツアーのライブ記録",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2007-07-04-good-dog-happy-men",
-    date: "2007-07-04",
-    title: "OCEANLANEレコ発ツアー at 名古屋APOLLO THEATER",
-    description:
-      "Good Dog Happy Menのライブ「OCEANLANEレコ発ツアー」、名古屋APOLLO THEATERにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -2697,15 +2604,6 @@ export const timelineEntries: TimelineEntry[] = [
     title:
       "Good Dog Happy Men - Shinjuku Loft presents The Star Festival at 新宿LOFT",
     description: "Good Dog Happy Men出演、新宿LOFTでのスターフェスティバル",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2007-07-06-good-dog-happy-men",
-    date: "2007-07-06",
-    title: "Shinjuku Loft presents The Star Festival at 新宿LOFT",
-    description:
-      "Good Dog Happy Menのライブ「Shinjuku Loft presents The Star Festival」、新宿LOFTにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -2728,15 +2626,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2007-07-16-good-dog-happy-men",
-    date: "2007-07-16",
-    title: "インストアライブ at TOWER RECORDS 新宿店",
-    description:
-      "Good Dog Happy Menのライブ「インストアライブ」、TOWER RECORDS 新宿店にて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2007-08-03-000000",
     date: "2007-08-03",
     title:
@@ -2746,29 +2635,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2007-08-03-good-dog-happy-men",
-    date: "2007-08-03",
-    title: "ROCK IN JAPAN FESTIVAL 2007 at 国営ひたち海浜公園 (WING TENT)",
-    description:
-      "Good Dog Happy Menのライブ「ROCK IN JAPAN FESTIVAL 2007」、国営ひたち海浜公園 (WING TENT)にて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2007-08-12-000000",
     date: "2007-08-12",
     title:
       "Good Dog Happy Men - SUMMER SONIC 2007 at 幕張メッセ (Sonic Stage [Opening Act])",
     description: "Monden MASAAKI performed at Summer Sonic 2007 opening act.",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2007-08-12-good-dog-happy-men",
-    date: "2007-08-12",
-    title: "SUMMER SONIC 2007 at 幕張メッセ (Sonic Stage [Opening Act])",
-    description:
-      "Good Dog Happy Menのライブ「SUMMER SONIC 2007」、幕張メッセ (Sonic Stage [Opening Act])にて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -2800,30 +2671,12 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2007-09-15-good-dog-happy-men",
-    date: "2007-09-15",
-    title: "インストアライブ at TOWER RECORDS 新宿店",
-    description:
-      "Good Dog Happy Menのライブ「インストアライブ」、TOWER RECORDS 新宿店にて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2007-09-17-000000",
     date: "2007-09-17",
     title:
       "Good Dog Happy Men - Selfishness of Queen vol.1 at 名古屋APOLLO THEATER",
     description:
       "2007年9月17日、名古屋APOLLOTHEATERでSelfishness of Queenライブ開催。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2007-09-17-good-dog-happy-men",
-    date: "2007-09-17",
-    title: "Selfishness of Queen vol.1 at 名古屋APOLLO THEATER",
-    description:
-      "Good Dog Happy Menのライブ「Selfishness of Queen vol.1」、名古屋APOLLO THEATERにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -2844,30 +2697,12 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2007-09-22-good-dog-happy-men",
-    date: "2007-09-22",
-    title: "Selfishness of Queen vol.1 at 神戸VARIT",
-    description:
-      "Good Dog Happy Menのライブ「Selfishness of Queen vol.1」、神戸VARITにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2007-10-12-000000",
     date: "2007-10-12",
     title:
       "Good Dog Happy Men - Good Dog Happy Men独演会 ～Moonlight Medicine～ at 新宿LOFT",
     description:
       "Monden MASAAKI単独ライブ、新宿LOFTで開催。ヒマワリの種が来場者に配られた。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2007-10-12-good-dog-happy-men",
-    date: "2007-10-12",
-    title: "Good Dog Happy Men独演会 ～Moonlight Medicine～ at 新宿LOFT",
-    description:
-      "Good Dog Happy Menのライブ「Good Dog Happy Men独演会 ～Moonlight Medicine～」、新宿LOFTにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -2886,15 +2721,6 @@ export const timelineEntries: TimelineEntry[] = [
       "Good Dog Happy Men - 京都ミューズの激情ホイール!! ～MINAMI WHEEL EDITION～ at 京都MUSE",
     description:
       "Monden MASAAKIが京都ミューズで激情ホイール!MINAMI WHEEL EDITION出演",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2007-10-29-good-dog-happy-men",
-    date: "2007-10-29",
-    title: "京都ミューズの激情ホイール!! ～MINAMI WHEEL EDITION～ at 京都MUSE",
-    description:
-      "Good Dog Happy Menのライブ「京都ミューズの激情ホイール!! ～MINAMI WHEEL EDITION～」、京都MUSEにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -2943,15 +2769,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2007-12-04-good-dog-happy-men",
-    date: "2007-12-04",
-    title: "TRIPLE SCRATCH TOUR 07 EXTR@NAGOYA at 名古屋Heartland Studio",
-    description:
-      "Good Dog Happy Menのライブ「TRIPLE SCRATCH TOUR 07 EXTR@NAGOYA」、名古屋Heartland Studioにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2007-12-08-000000",
     date: "2007-12-08",
     title: "Good Dog Happy Men - インストアライブ at TOWER RECORDS 新宿店",
@@ -2970,15 +2787,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2007-12-09-good-dog-happy-men",
-    date: "2007-12-09",
-    title: "インストアライブ at TOWER RECORDS 福岡店",
-    description:
-      "Good Dog Happy Menのライブ「インストアライブ」、TOWER RECORDS 福岡店にて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2007-12-15-000000",
     date: "2007-12-15",
     title:
@@ -2989,30 +2797,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2007-12-15-good-dog-happy-men",
-    date: "2007-12-15",
-    title:
-      "インストアライブ 「museの楽団と渋谷の音楽塔」 at TOWER RECORDS 渋谷店 STAGE ONE",
-    description:
-      "Good Dog Happy Menのライブ「インストアライブ 「museの楽団と渋谷の音楽塔」」、TOWER RECORDS 渋谷店 STAGE ONEにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2007-12-21-000000",
     date: "2007-12-21",
     title: "Good Dog Happy Men - インストアライブ at 下北沢HIGHLINE RECORDS",
     description:
       "Good Dog Happy Men、下北沢でアコースティックライブ。楽曲は新旧作品から多彩に披露。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2007-12-21-good-dog-happy-men",
-    date: "2007-12-21",
-    title: "インストアライブ at 下北沢HIGHLINE RECORDS",
-    description:
-      "Good Dog Happy Menのライブ「インストアライブ」、下北沢HIGHLINE RECORDSにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -3027,29 +2816,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2007-12-23-good-dog-happy-men",
-    date: "2007-12-23",
-    title: "インストアライブ at TOWER RECORDS 近鉄パッセ店",
-    description:
-      "Good Dog Happy Menのライブ「インストアライブ」、TOWER RECORDS 近鉄パッセ店にて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2007-12-29-000000",
     date: "2007-12-29",
     title:
       "Good Dog Happy Men - COUNTDOWN JAPAN 07/08 at 幕張メッセ (MOON STAGE)",
     description: "2007年COUNTDOWN JAPAN出演、フェスMOON STAGEでライブを披露",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2007-12-29-good-dog-happy-men",
-    date: "2007-12-29",
-    title: "COUNTDOWN JAPAN 07/08 at 幕張メッセ",
-    description:
-      "Good Dog Happy Menのライブ「COUNTDOWN JAPAN 07/08」、幕張メッセにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -3064,28 +2835,10 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2007-12-30-good-dog-happy-men",
-    date: "2007-12-30",
-    title: 'ガレージ年末ショックイベント "さよなら2007" [二部] at 下北沢GARAGE',
-    description:
-      'Good Dog Happy Menのライブ「ガレージ年末ショックイベント "さよなら2007" [二部]」、下北沢GARAGEにて開催',
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2007-12-31-000000",
     date: "2007-12-31",
     title: "Good Dog Happy Men - THE FINAL OF 2007 第一部 at 新宿LOFT",
     description: "Good Dog Happy Men、2007年新宿LOFTで最終公演を行う。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2007-12-31-good-dog-happy-men",
-    date: "2007-12-31",
-    title: "THE FINAL OF 2007 第一部 at 新宿LOFT",
-    description:
-      "Good Dog Happy Menのライブ「THE FINAL OF 2007 第一部」、新宿LOFTにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -3096,16 +2849,6 @@ export const timelineEntries: TimelineEntry[] = [
       "Good Dog Happy Men - Memory of the GOLDENBELLCITY at 名古屋CLUB QUATTRO",
     description:
       "Monden MASAAKIが愛知・名古屋CLUB QUATTROでソロライブを開催。演奏曲目は20曲以上におよぶ。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2008-02-16-000000",
-    date: "2008-02-16",
-    title:
-      "Good Dog Happy Men - Memory of the GOLDENBELLCITY at 心斎橋CLUB QUATTRO",
-    description:
-      'Monden MASAAKI\'s solo live at Club Quattro Osaka, featuring songs from his album "Good Dog Happy Men".',
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -3146,32 +2889,12 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2008-03-11-good-dog-happy-men",
-    date: "2008-03-11",
-    title:
-      'tacica×The Jerryスプリットツアー "Tour First Ballet" 2008 at 新潟CLUB JUNK BOX mini',
-    description:
-      'Good Dog Happy Menのライブ「tacica×The Jerryスプリットツアー "Tour First Ballet" 2008」、新潟CLUB JUNK BOX miniにて開催',
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2008-04-19-000000",
     date: "2008-04-19",
     title:
       "Good Dog Happy Men - SHINJUKU LOFT 9TH ANNIVERSARY ロフトノススメ ～アノセカイ～ at 新宿LOFT",
     description:
       "新宿LOFTで開催された9周年記念イベントにMonden MASAAKIが出演。様々なスタイルの楽曲を披露。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2008-04-19-good-dog-happy-men",
-    date: "2008-04-19",
-    title:
-      "SHINJUKU LOFT 9TH ANNIVERSARY ロフトノススメ ～アノセカイ～ at 新宿LOFT",
-    description:
-      "Good Dog Happy Menのライブ「SHINJUKU LOFT 9TH ANNIVERSARY ロフトノススメ ～アノセカイ～」、新宿LOFTにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -3195,15 +2918,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2008-05-03-good-dog-happy-men",
-    date: "2008-05-03",
-    title: 'THE JETZEJOHNSON "Discoveries" TOUR at 大阪福島2nd LINE',
-    description:
-      'Good Dog Happy Menのライブ「THE JETZEJOHNSON "Discoveries" TOUR」、大阪福島2nd LINEにて開催',
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2008-05-05-000000",
     date: "2008-05-05",
     title:
@@ -3223,18 +2937,9 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2008-05-06-good-dog-happy-men",
-    date: "2008-05-06",
-    title: 'THE JETZEJOHNSON "Discoveries" TOUR at 広島並木ジャンクション',
-    description:
-      'Good Dog Happy Menのライブ「THE JETZEJOHNSON "Discoveries" TOUR」、広島並木ジャンクションにて開催',
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2008-05-16-内田武瑠",
     date: "2008-05-16",
-    title: "ふじたたくみ presents ワクパラ！ at 下北沢GARAGE",
+    title: "内田武瑠 - ふじたたくみ presents ワクパラ！ at 下北沢GARAGE",
     description:
       "内田武瑠のライブ「ふじたたくみ presents ワクパラ！」、下北沢GARAGEにて開催",
     projectCategory: "内田武瑠",
@@ -3247,15 +2952,6 @@ export const timelineEntries: TimelineEntry[] = [
       'Good Dog Happy Men - LIQUIDROOM presents "UNDER THE INFLUENCE" at 恵比寿LIQUIDROOM',
     description:
       "Monden MASAAKI出演 - LIQUIDROOM主催「UNDER THE INFLUENCE」イベント - 東京恵比寿LIQUIDBROOMにて2008年5月22日開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2008-05-22-good-dog-happy-men",
-    date: "2008-05-22",
-    title: 'LIQUIDROOM presents "UNDER THE INFLUENCE" at 恵比寿LIQUIDROOM',
-    description:
-      'Good Dog Happy Menのライブ「LIQUIDROOM presents "UNDER THE INFLUENCE"」、恵比寿LIQUIDROOMにて開催',
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -3279,15 +2975,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2008-06-01-good-dog-happy-men",
-    date: "2008-06-01",
-    title: "LACHIC presents SAKAE SP-RING 2008 at HOLIDAY NAGOYA",
-    description:
-      "Good Dog Happy Menのライブ「LACHIC presents SAKAE SP-RING 2008」、HOLIDAY NAGOYAにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2008-06-14-000000",
     date: "2008-06-14",
     title:
@@ -3297,28 +2984,10 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2008-06-14-good-dog-happy-men",
-    date: "2008-06-14",
-    title:
-      "JUNGLE LIFE 16 ANNIVERSARY ニューロマンティックOSAKA at 大阪アメリカ村 BIGCAT",
-    description:
-      "Good Dog Happy Menのライブ「JUNGLE LIFE 16 ANNIVERSARY ニューロマンティックOSAKA」、大阪アメリカ村 BIGCATにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2008-06-27-000000",
     date: "2008-06-27",
     title: "Good Dog Happy Men - LOCAL at 下北沢GARAGE",
     description: "2008年6月27日、下北沢GARAGE「LOCAL」にて出演",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2008-06-27-good-dog-happy-men",
-    date: "2008-06-27",
-    title: "LOCAL at 下北沢GARAGE",
-    description: "Good Dog Happy Menのライブ「LOCAL」、下北沢GARAGEにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -3339,15 +3008,6 @@ export const timelineEntries: TimelineEntry[] = [
       'Good Dog Happy Men - Good Dog Happy Men presents "Good Time Rolls Vol.1" at 大阪MUSE',
     description:
       "2008年にグッドドッグハッピーメンがGood Time Rolls Vol.1を大阪で開催。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2008-07-03-good-dog-happy-men",
-    date: "2008-07-03",
-    title: 'Good Dog Happy Men presents "Good Time Rolls Vol.1" at 大阪MUSE',
-    description:
-      'Good Dog Happy Menのライブ「Good Dog Happy Men presents "Good Time Rolls Vol.1"」、大阪MUSEにて開催',
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -3376,15 +3036,6 @@ export const timelineEntries: TimelineEntry[] = [
     title:
       "Good Dog Happy Men - Beat Happening! VOL.71 ～SUMMER LUSH3マンLIVE!～ at 渋谷Lush",
     description: "2008年夏、渋谷Lushで3組共演のライブ出演。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2008-08-21-good-dog-happy-men",
-    date: "2008-08-21",
-    title: "Beat Happening! VOL.71 ～SUMMER LUSH3マンLIVE!～ at 渋谷Lush",
-    description:
-      "Good Dog Happy Menのライブ「Beat Happening! VOL.71 ～SUMMER LUSH3マンLIVE!～」、渋谷Lushにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -3427,16 +3078,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2008-09-27-good-dog-happy-men",
-    date: "2008-09-27",
-    title:
-      'Good Dog Happy Men presents "Good Time Rolls Vol.2" -月明りのエレクトリック- at 新宿LOFT',
-    description:
-      'Good Dog Happy Menのライブ「Good Dog Happy Men presents "Good Time Rolls Vol.2" -月明りのエレクトリック-」、新宿LOFTにて開催',
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2008-10-03-門田匡陽",
     date: "2008-10-03",
     title:
@@ -3453,16 +3094,6 @@ export const timelineEntries: TimelineEntry[] = [
       "Good Dog Happy Men - 大ねこ背ロック ～ねこまっしぐら東西バトルロワイヤル～第三幕(東)～ at 新宿LOFT",
     description:
       "Monden MASAAKIが大ねこ背ロックイベントに出演。3曲を伊藤以外のメンバーで演奏。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2008-10-16-good-dog-happy-men",
-    date: "2008-10-16",
-    title:
-      "大ねこ背ロック ～ねこまっしぐら東西バトルロワイヤル～第三幕(東)～ at 新宿LOFT",
-    description:
-      "Good Dog Happy Menのライブ「大ねこ背ロック ～ねこまっしぐら東西バトルロワイヤル～第三幕(東)～」、新宿LOFTにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -3496,30 +3127,12 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2008-11-03-good-dog-happy-men",
-    date: "2008-11-03",
-    title: "shimokita round up at 下北沢440",
-    description:
-      "Good Dog Happy Menのライブ「shimokita round up」、下北沢440にて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2008-11-14-000000",
     date: "2008-11-14",
-    title: "Good Dog Happy Men - 大阪府箕面市立第六中学校 授業",
+    title:
+      "Good Dog Happy Men - 大阪府箕面市立第六中学校吹奏楽部 演奏会 (吹奏楽部とGDHM楽曲を合奏)",
     description:
       "箕面市立第六中学校での一般非公開授業。アコースティック演奏とともに吹奏楽部と共演。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2008-11-14-good-dog-happy-men",
-    date: "2008-11-14",
-    title:
-      "大阪府箕面市立第六中学校吹奏楽部 演奏会 at 吹奏楽部とGDHM楽曲を合奏",
-    description:
-      "Good Dog Happy Menのライブ「大阪府箕面市立第六中学校吹奏楽部 演奏会」、吹奏楽部とGDHM楽曲を合奏にて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -3534,32 +3147,12 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2008-11-16-good-dog-happy-men",
-    date: "2008-11-16",
-    title:
-      'Good Dog Happy Men presents "Good Time Rolls Vol.3" at 大阪福島2nd LINE',
-    description:
-      'Good Dog Happy Menのライブ「Good Dog Happy Men presents "Good Time Rolls Vol.3"」、大阪福島2nd LINEにて開催',
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2008-11-24-000000",
     date: "2008-11-24",
     title:
       'Good Dog Happy Men - Good Dog Happy Men presents "Good Time Rolls Vol.3" at 下北沢GARAGE',
     description:
       "Good Dog Happy Men presents「Good Time Rolls Vol.3」下北沢GARAGEでのライブ",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2008-11-24-good-dog-happy-men",
-    date: "2008-11-24",
-    title:
-      'Good Dog Happy Men presents "Good Time Rolls Vol.3" at 下北沢GARAGE',
-    description:
-      'Good Dog Happy Menのライブ「Good Dog Happy Men presents "Good Time Rolls Vol.3"」、下北沢GARAGEにて開催',
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -3574,30 +3167,12 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2008-11-27-good-dog-happy-men",
-    date: "2008-11-27",
-    title: "ART-SCHOOL ILLMATIC BABY TOUR2008 at 水戸LIGHT HOUSE",
-    description:
-      "Good Dog Happy Menのライブ「ART-SCHOOL ILLMATIC BABY TOUR2008」、水戸LIGHT HOUSEにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2008-12-21-000000",
     date: "2008-12-21",
     title:
       'Good Dog Happy Men - WONDERS PRESENTS "WONDERLAND IN THE WATER vol.7" at 下北沢ERA',
     description:
       "Monden MASAAKI参加の下北沢ERAイベント「WONDERLAND IN THE WATER vol.7」を要約しました。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2008-12-21-good-dog-happy-men",
-    date: "2008-12-21",
-    title: 'WONDERS PRESENTS "WONDERLAND IN THE WATER vol.7" at 下北沢ERA',
-    description:
-      'Good Dog Happy Menのライブ「WONDERS PRESENTS "WONDERLAND IN THE WATER vol.7"」、下北沢ERAにて開催',
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -3657,24 +3232,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2009-04-25-good-dog-happy-men",
-    date: "2009-04-25",
-    title:
-      "2009 Good Dog Happy Men TOUR 「4人のゴブリン大いに躍る」 at 梅田シャングリラ",
-    description:
-      "Good Dog Happy Menのライブ「2009 Good Dog Happy Men TOUR 「4人のゴブリン大いに躍る」」、梅田シャングリラにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2009-04-30-000000",
-    date: "2009-04-30",
-    title: "韮沢雄希・伊藤大地 Good Dog Happy Men 脱退",
-    description: "GDHM脱退、野生生物活動に専念",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "activity",
-  },
-  {
     id: "2009-04-30-000001",
     date: "2009-04-30",
     title:
@@ -3685,14 +3242,12 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2009-04-30-good-dog-happy-men",
+    id: "2009-04-30-000000",
     date: "2009-04-30",
-    title:
-      "2009 Good Dog Happy Men TOUR 「4人のゴブリン大いに躍る」 at 新宿LOFT",
-    description:
-      "Good Dog Happy Menのライブ「2009 Good Dog Happy Men TOUR 「4人のゴブリン大いに躍る」」、新宿LOFTにて開催",
+    title: "韮沢雄希・伊藤大地がGood Dog Happy Menから脱退",
+    description: "GDHM脱退、野生生物活動に専念",
     projectCategory: "Good Dog Happy Men",
-    eventType: "live",
+    eventType: "activity",
   },
   {
     id: "2009-05-27-000000",
@@ -3727,29 +3282,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2009-06-07-good-dog-happy-men",
-    date: "2009-06-07",
-    title: "インストアライブ at TOWER RECORDS 名古屋近鉄パッセ店",
-    description:
-      "Good Dog Happy Menのライブ「インストアライブ」、TOWER RECORDS 名古屋近鉄パッセ店にて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2009-06-19-000000",
     date: "2009-06-19",
     title: "Good Dog Happy Men - MINAMI FREAK 006 at 心斎橋CLUB QUATTRO",
     description:
       "2009年6月、MINAMI FREAK 006にて初ライブ。サポートメンバー加入後の演奏。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2009-06-19-good-dog-happy-men",
-    date: "2009-06-19",
-    title: "MINAMI FREAK 006 at 心斎橋CLUB QUATTRO",
-    description:
-      "Good Dog Happy Menのライブ「MINAMI FREAK 006」、心斎橋CLUB QUATTROにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -3760,15 +3297,6 @@ export const timelineEntries: TimelineEntry[] = [
       "Good Dog Happy Men - インストアライブ at TOWER RECORDS 梅田NU茶屋町店",
     description:
       "Good Dog Happy Men、梅田NU茶屋町店での発売記念インストアライブ",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2009-06-20-good-dog-happy-men",
-    date: "2009-06-20",
-    title: "インストアライブ at TOWER RECORDS 梅田NU茶屋町店",
-    description:
-      "Good Dog Happy Menのライブ「インストアライブ」、TOWER RECORDS 梅田NU茶屋町店にて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -3787,15 +3315,6 @@ export const timelineEntries: TimelineEntry[] = [
     title:
       "Good Dog Happy Men - ROCK IN JAPAN FESTIVAL 2009 at 国営ひたち海浜公園 (Seaside Stage)",
     description: "Good Dog Happy Men、2009年ROCK IN JAPAN FESTIVAL出演",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2009-08-02-good-dog-happy-men",
-    date: "2009-08-02",
-    title: "ROCK IN JAPAN FESTIVAL 2009 at 国営ひたち海浜公園 (Seaside Stage)",
-    description:
-      "Good Dog Happy Menのライブ「ROCK IN JAPAN FESTIVAL 2009」、国営ひたち海浜公園 (Seaside Stage)にて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -3824,29 +3343,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2009-08-19-good-dog-happy-men",
-    date: "2009-08-19",
-    title: "Beat Happening! VOL.200 ～THANK YOU! SMILE & MUSIC! at 渋谷Lush",
-    description:
-      "Good Dog Happy Menのライブ「Beat Happening! VOL.200 ～THANK YOU! SMILE & MUSIC!」、渋谷Lushにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2009-08-30-000000",
     date: "2009-08-30",
     title: "Good Dog Happy Men - Life is a Picnic at 名古屋CLUB QUATTRO",
     description:
       "Good Dog Happy Men ライブ、2009年8月名古屋CLUBQUATTROにて開催。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2009-08-30-good-dog-happy-men",
-    date: "2009-08-30",
-    title: "Life is a Picnic at 名古屋CLUB QUATTRO",
-    description:
-      "Good Dog Happy Menのライブ「Life is a Picnic」、名古屋CLUB QUATTROにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -3891,30 +3392,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2009-10-29-good-dog-happy-men",
-    date: "2009-10-29",
-    title:
-      "Beat Happening! MAX VOL.3 ～WELCOME TO THE BLUES PLANET～ at 渋谷CLUB QUATTRO",
-    description:
-      "Good Dog Happy Menのライブ「Beat Happening! MAX VOL.3 ～WELCOME TO THE BLUES PLANET～」、渋谷CLUB QUATTROにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2009-11-14-000000",
     date: "2009-11-14",
     title: "Good Dog Happy Men - shimokita round up 2 at 下北沢GARAGE",
     description:
       "下北沢GARAGEで開催のサーキットフェスに出演。楽曲を演奏したMonden MASAAKI。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2009-11-14-good-dog-happy-men",
-    date: "2009-11-14",
-    title: "Shimokita round up 2 at 下北沢GARAGE",
-    description:
-      "Good Dog Happy Menのライブ「Shimokita round up 2」、下北沢GARAGEにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -3933,16 +3415,7 @@ export const timelineEntries: TimelineEntry[] = [
     title:
       'Good Dog Happy Men - ガレージ年末ショックイベント "さよなら2009" at 下北沢GARAGE',
     description:
-      "2009年、下北沢GARGAEでMASAAKIがアコースティックライブ。多数のアーティスト共演。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2009-12-29-good-dog-happy-men",
-    date: "2009-12-29",
-    title: "ガレージ年末ショックイベント さよなら2009 at 下北沢GARAGE",
-    description:
-      "Good Dog Happy Menのライブ「ガレージ年末ショックイベント さよなら2009」、下北沢GARAGEにて開催",
+      "2009年、下北沢GARAGEでMASAAKIがアコースティックライブ。多数のアーティスト共演。",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -3963,16 +3436,6 @@ export const timelineEntries: TimelineEntry[] = [
       'Good Dog Happy Men - THE FINAL OF 2009 第一部 ～シンジュクアクション～ "日本のロックの夜明け" at 新宿LOFT',
     description:
       "Good Dog Happy Men最終公演。新宿LOFTで日本ロック界の夜明けを象徴。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2009-12-31-good-dog-happy-men",
-    date: "2009-12-31",
-    title:
-      'THE FINAL OF 2009 第一部 ～シンジュクアクション～ "日本のロックの夜明け" at 新宿LOFT',
-    description:
-      'Good Dog Happy Menのライブ「THE FINAL OF 2009 第一部 ～シンジュクアクション～ "日本のロックの夜明け"」、新宿LOFTにて開催',
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -4018,15 +3481,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2010-02-05-good-dog-happy-men",
-    date: "2010-02-05",
-    title: "インストアライブ at TOWER RECORDS 新宿店",
-    description:
-      "Good Dog Happy Menのライブ「インストアライブ」、TOWER RECORDS 新宿店にて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2010-02-07-good-dog-happy-men",
     date: "2010-02-07",
     title: "インストアライブ at TOWER RECORDS 名古屋近鉄パッセ店",
@@ -4044,28 +3498,10 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2010-02-19-good-dog-happy-men",
-    date: "2010-02-19",
-    title: "The Light TOUR at 大阪MUSE",
-    description:
-      "Good Dog Happy Menのライブ「The Light TOUR」、大阪MUSEにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2010-02-21-000000",
     date: "2010-02-21",
     title: "Good Dog Happy Men - The Light TOUR at 名古屋APOLLO THEATER",
     description: "Monden MASAAKI's solo live at Nagoya APOLLO THEATER in 2010",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2010-02-21-good-dog-happy-men",
-    date: "2010-02-21",
-    title: "The Light TOUR at 名古屋APOLLO THEATER",
-    description:
-      "Good Dog Happy Menのライブ「The Light TOUR」、名古屋APOLLO THEATERにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -4075,15 +3511,6 @@ export const timelineEntries: TimelineEntry[] = [
     title: "Good Dog Happy Men - The Light TOUR at 渋谷O-WEST",
     description:
       "Good Dog Happy Men最後のツアーライブ。メンバー交代期のステージ。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2010-02-28-good-dog-happy-men",
-    date: "2010-02-28",
-    title: "The Light TOUR at 渋谷O-WEST",
-    description:
-      "Good Dog Happy Menのライブ「The Light TOUR」、渋谷O-WESTにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -4098,15 +3525,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2010-04-25-門田匡陽-and-his-funny-friends",
-    date: "2010-04-25",
-    title: "Don't Trust Over 30 -門田匡陽 and GARAGE presents- at 下北沢GARAGE",
-    description:
-      "門田匡陽 and His Funny Friendsのライブ「Don't Trust Over 30 -門田匡陽 and GARAGE presents-」、下北沢GARAGEにて開催",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
     id: "2010-05-29-000000",
     date: "2010-05-29",
     title: "門田匡陽 - hooligan's disco vol.2 at 下北沢CLUB Que (DJ)",
@@ -4116,18 +3534,9 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2010-05-29-門田匡陽",
-    date: "2010-05-29",
-    title: "hooligan's disco vol.2 at 下北沢CLUB Que",
-    description:
-      "門田匡陽のライブ「hooligan's disco vol.2」、下北沢CLUB Queにて開催",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
     id: "2010-06-01-000000",
     date: "2010-06-01",
-    title: "内田武瑠 Good Dog Happy Men脱退",
+    title: "内田武瑠がGood Dog Happy Menから脱退",
     description:
       "Good Dog Happy Men脱退、門田匡陽ソロ活動開始、新体制で再開予定",
     projectCategory: "Good Dog Happy Men",
@@ -4143,14 +3552,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2010-06-19-good-dog-happy-men",
-    date: "2010-06-19",
-    title: "Live at 水戸LIGHT HOUSE",
-    description: "Good Dog Happy Menのライブ「Live」、水戸LIGHT HOUSEにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2010-06-24-000000",
     date: "2010-06-24",
     title:
@@ -4160,30 +3561,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2010-06-24-good-dog-happy-men",
-    date: "2010-06-24",
-    title: "viBirth × CINRA presents 『exPoP!!!!! volume39』 at 渋谷O-Nest",
-    description:
-      "Good Dog Happy Menのライブ「viBirth × CINRA presents 『exPoP!!!!! volume39』」、渋谷O-Nestにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2010-06-28-000000",
     date: "2010-06-28",
     title:
       "Good Dog Happy Men - Thank you! 5th ANNIVERSARY ピーターパン・シンドローム at 名古屋CLUB UPSET",
     description: "5周年記念イベントにて、Mondenらが地元愛知で熱演。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2010-06-28-good-dog-happy-men",
-    date: "2010-06-28",
-    title:
-      "Thank you! 5th ANNIVERSARY ピーターパン・シンドローム at 名古屋CLUB UPSET",
-    description:
-      "Good Dog Happy Menのライブ「Thank you! 5th ANNIVERSARY ピーターパン・シンドローム」、名古屋CLUB UPSETにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -4206,15 +3588,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2010-06-29-good-dog-happy-men",
-    date: "2010-06-29",
-    title: "Rock On Enough at 大阪MUSE",
-    description:
-      "Good Dog Happy Menのライブ「Rock On Enough」、大阪MUSEにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2010-07-25-000000_1",
     date: "2010-07-25",
     title: "門田匡陽 - Dear My Teacher (CD-R)",
@@ -4233,31 +3606,12 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2010-07-25-門田匡陽--his-band-",
-    date: "2010-07-25",
-    title: "Don't Trust Over 30 ～episode2～ at 下北沢GARAGE",
-    description:
-      "門田匡陽 -His Band-のライブ「Don't Trust Over 30 ～episode2～」、下北沢GARAGEにて開催",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
     id: "2010-08-18-000000",
     date: "2010-08-18",
     title:
       "門田匡陽 -His Band- - シンジュクアクション 新宿ロフトの夏祭り ～夏休みダヨ！全員集合2010～ ～kocorono夕べ～ at 新宿LOFT",
     description:
       "新宿LOFTでのMonden MASAAKI出演イベント。シンジュクアクション、kocorono夕べなど。",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
-    id: "2010-08-18-門田匡陽--his-band-",
-    date: "2010-08-18",
-    title:
-      "シンジュクアクション 新宿ロフトの夏祭り～夏休みダヨ！全員集合2010～ ～kocorono夕べ～ at 新宿LOFT",
-    description:
-      "門田匡陽 -His Band-のライブ「シンジュクアクション 新宿ロフトの夏祭り～夏休みダヨ！全員集合2010～ ～kocorono夕べ～」、新宿LOFTにて開催",
     projectCategory: "門田匡陽",
     eventType: "live",
   },
@@ -4303,17 +3657,8 @@ export const timelineEntries: TimelineEntry[] = [
     id: "2010-10-11-000000",
     date: "2010-10-11",
     title:
-      "門田匡陽 -His Band- - the LIVE Music Magazine presents the LIVE Vol.1 at 下北沢GARAGE",
+      '門田匡陽 -His Band- - the LIVE Music Magazine presents "the LIVE Vol.1" at 下北沢GARAGE',
     description: "2010年下北沢GARAGE LIVEに出演。ロックバンドとして活動。",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
-    id: "2010-10-11-門田匡陽--his-band-",
-    date: "2010-10-11",
-    title: 'the LIVE Music Magazine presents "the LIVE Vol.1" at 下北沢GARAGE',
-    description:
-      '門田匡陽 -His Band-のライブ「the LIVE Music Magazine presents "the LIVE Vol.1"」、下北沢GARAGEにて開催',
     projectCategory: "門田匡陽",
     eventType: "live",
   },
@@ -4337,15 +3682,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2010-10-23-門田匡陽--his-band-",
-    date: "2010-10-23",
-    title: "Don't Trust Over 30 ～episode3～ at 下北沢GARAGE",
-    description:
-      "門田匡陽 -His Band-のライブ「Don't Trust Over 30 ～episode3～」、下北沢GARAGEにて開催",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
     id: "2010-11-03-門田匡陽",
     date: "2010-11-03",
     title: "shimokita round up3 at 下北沢GARAGE",
@@ -4360,15 +3696,6 @@ export const timelineEntries: TimelineEntry[] = [
     title: "門田匡陽 -His Band- - Beat Happening! VOL.417 at 渋谷Lush",
     description:
       "2010年、渋谷Lushで開催されたライブ出演。様々なジャンルのアーティストと共演。",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
-    id: "2010-11-20-門田匡陽--his-band-",
-    date: "2010-11-20",
-    title: "Beat Happening! VOL.417 at 渋谷Lush",
-    description:
-      "門田匡陽 -His Band-のライブ「Beat Happening! VOL.417」、渋谷Lushにて開催",
     projectCategory: "門田匡陽",
     eventType: "live",
   },
@@ -4397,16 +3724,7 @@ export const timelineEntries: TimelineEntry[] = [
       '猪八戒と沙悟浄 (featuring 門田匡陽) - ガレージ年末ショックイベント "さよなら2010" at 下北沢GARAGE',
     description:
       "Monden MASAAKI、2010年下北沢GARAGEでの年末ライブ出演。楽曲はリアレンジ披露。",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
-    id: "2010-12-30-猪八戒と沙悟浄-(featuring-門田匡陽)",
-    date: "2010-12-30",
-    title: 'ガレージ年末ショックイベント "さよなら2010" at 下北沢GARAGE',
-    description:
-      '猪八戒と沙悟浄 (featuring 門田匡陽)のライブ「ガレージ年末ショックイベント "さよなら2010"」、下北沢GARAGEにて開催',
-    projectCategory: "門田匡陽",
+    projectCategory: "その他",
     eventType: "live",
   },
   {
@@ -4419,30 +3737,12 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2011-02-02-門田匡陽",
-    date: "2011-02-02",
-    title: "朝露は夜の口惜しさ at 下北沢CLUB Que",
-    description:
-      "門田匡陽のライブ「朝露は夜の口惜しさ」、下北沢CLUB Queにて開催",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
     id: "2011-03-18-000000",
     date: "2011-03-18",
     title:
       "門田匡陽 -His Band- - Beat Happening! Vol.493 at 下北沢BASEMENT BAR",
     description:
       "門田匡陽、2011年3月に下北沢のライブで、「Blue Moon Shadow」などを演奏。",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
-    id: "2011-03-18-門田匡陽--his-band-",
-    date: "2011-03-18",
-    title: "Beat Happening! Vol.493 at 下北沢BASEMENT BAR",
-    description:
-      "門田匡陽 -His Band-のライブ「Beat Happening! Vol.493」、下北沢BASEMENT BARにて開催",
     projectCategory: "門田匡陽",
     eventType: "live",
   },
@@ -4465,15 +3765,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2011-04-20-門田匡陽",
-    date: "2011-04-20",
-    title: "不定期弦奏会 at 名古屋APOLLO THEATER",
-    description:
-      "門田匡陽のライブ「不定期弦奏会」、名古屋APOLLO THEATERにて開催",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
     id: "2011-04-30-000000",
     date: "2011-04-30",
     title:
@@ -4483,11 +3774,12 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2011-04-30-門田匡陽--his-band-",
-    date: "2011-04-30",
-    title: "Beat Happening! VOL.520 at 下北沢BASEMENT BAR",
+    id: "2011-05-08-門田匡陽",
+    date: "2011-05-08",
+    title:
+      "門田匡陽 - ソロアルバム発売イベント おまけライブ at 世田谷ものづくり学校",
     description:
-      "門田匡陽 -His Band-のライブ「Beat Happening! VOL.520」、下北沢BASEMENT BARにて開催",
+      "門田匡陽のライブ「ソロアルバム発売イベント おまけライブ」、世田谷ものづくり学校にて開催",
     projectCategory: "門田匡陽",
     eventType: "live",
   },
@@ -4502,38 +3794,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2011-05-08-門田匡陽",
-    date: "2011-05-08",
-    title: "ソロアルバム発売イベント おまけライブ at 世田谷ものづくり学校",
-    description:
-      "門田匡陽のライブ「ソロアルバム発売イベント おまけライブ」、世田谷ものづくり学校にて開催",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
-    id: "2011-05-08-門田匡陽-with-タクヤ",
-    date: "2011-05-08",
-    title: '明日、照らす presents "今日の音楽" at 新宿スモーキンブギ',
-    description:
-      '門田匡陽 with タクヤのライブ「明日、照らす presents "今日の音楽"」、新宿スモーキンブギにて開催',
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
     id: "2011-05-12-000000",
     date: "2011-05-12",
     title: "門田匡陽 -His Band- - Sounds like a Light at 心斎橋JANUS",
     description:
       "門田匡陽-Sounds like a Lightライブ、大阪心斎橋JANUSで共演多数",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
-    id: "2011-05-12-門田匡陽--his-band-",
-    date: "2011-05-12",
-    title: "Sounds like a Light at 心斎橋JANUS",
-    description:
-      "門田匡陽 -His Band-のライブ「Sounds like a Light」、心斎橋JANUSにて開催",
     projectCategory: "門田匡陽",
     eventType: "live",
   },
@@ -4548,30 +3813,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2011-05-28-門田匡陽--his-band-",
-    date: "2011-05-28",
-    title:
-      "NEW TOWER GENERATION vol.2 (インストアライブ) at TOWER RECORDS 渋谷店 STAGE ONE",
-    description:
-      "門田匡陽 -His Band-のライブ「NEW TOWER GENERATION vol.2 (インストアライブ)」、TOWER RECORDS 渋谷店 STAGE ONEにて開催",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
     id: "2011-06-01-000000",
     date: "2011-06-01",
     title: "門田匡陽 -His Band- - Evolution type at 名古屋CLUB UPSET",
     description:
       "Monden MASAAKIがバンドと共に名古屋CLUBUPSETで行ったライブの活動記録。",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
-    id: "2011-06-01-門田匡陽--his-band-",
-    date: "2011-06-01",
-    title: "Evolution type at 名古屋CLUB UPSET",
-    description:
-      "門田匡陽 -His Band-のライブ「Evolution type」、名古屋CLUB UPSETにて開催",
     projectCategory: "門田匡陽",
     eventType: "live",
   },
@@ -4598,29 +3844,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2011-06-12-門田匡陽",
-    date: "2011-06-12",
-    title: "インストアライブ at TOWER RECORDS 新宿店",
-    description:
-      "門田匡陽のライブ「インストアライブ」、TOWER RECORDS 新宿店にて開催",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
     id: "2011-06-17-000000",
     date: "2011-06-17",
     title:
       "門田匡陽 -His Band- - FEVER presents [NOT BORED TYO] at 新代田FEVER",
     description: "2011年6月、FEVER主催イベントに出演。バンド編成で8曲を披露。",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
-    id: "2011-06-17-門田匡陽--his-band-",
-    date: "2011-06-17",
-    title: "FEVER presents [NOT BORED TYO] at 新代田FEVER",
-    description:
-      "門田匡陽 -His Band-のライブ「FEVER presents [NOT BORED TYO]」、新代田FEVERにて開催",
     projectCategory: "門田匡陽",
     eventType: "live",
   },
@@ -4634,29 +3862,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2011-07-02-門田匡陽--his-band-",
-    date: "2011-07-02",
-    title: "Nobody Knows My Name at 新代田FEVER",
-    description:
-      "門田匡陽 -His Band-のライブ「Nobody Knows My Name」、新代田FEVERにて開催",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
     id: "2011-07-15-000000",
     date: "2011-07-15",
     title:
       "門田匡陽 with タクヤ - ap bank fes '11 前夜祭 at つま恋 koti market",
     description: "アコースティックライブ、ap bank fes '11前夜祭でソロ活動",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
-    id: "2011-07-15-門田匡陽-with-タクヤ",
-    date: "2011-07-15",
-    title: "ap bank fes '11 前夜祭 at つま恋 koti market",
-    description:
-      "門田匡陽 with タクヤのライブ「ap bank fes '11 前夜祭」、つま恋 koti marketにて開催",
     projectCategory: "門田匡陽",
     eventType: "live",
   },
@@ -4670,29 +3880,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2011-08-04-門田匡陽--his-band-",
-    date: "2011-08-04",
-    title: "Beat Happening! VOL.583 at 渋谷Lush",
-    description:
-      "門田匡陽 -His Band-のライブ「Beat Happening! VOL.583」、渋谷Lushにて開催",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
     id: "2011-08-11-000000",
     date: "2011-08-11",
     title:
       "門田匡陽 -His Band- - GREENS&JANUS presents となりのバンドマン9 at 心斎橋JANUS",
     description: "大阪でのバンド出演。サポートメンバーと共に7曲演奏。",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
-    id: "2011-08-11-門田匡陽--his-band-",
-    date: "2011-08-11",
-    title: "GREENS&JANUS presents となりのバンドマン9 at 心斎橋JANUS",
-    description:
-      "門田匡陽 -His Band-のライブ「GREENS&JANUS presents となりのバンドマン9」、心斎橋JANUSにて開催",
     projectCategory: "門田匡陽",
     eventType: "live",
   },
@@ -4709,8 +3901,7 @@ export const timelineEntries: TimelineEntry[] = [
   {
     id: "2011-10-15-門田匡陽",
     date: "2011-10-15",
-    title:
-      "New Acoustic Camp 2011 (フェス) at 山梨県道志の森キャンプ場 (Stage Here)",
+    title: "New Acoustic Camp 2011 at 山梨県道志の森キャンプ場 (Stage Here)",
     description:
       "門田匡陽のライブ「New Acoustic Camp 2011 (フェス)」、山梨県道志の森キャンプ場 (Stage Here)にて開催",
     projectCategory: "門田匡陽",
@@ -4756,16 +3947,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2011-11-22-門田匡陽--his-band-",
-    date: "2011-11-22",
-    title:
-      "yumeiroecho「定点観測」リリースパーティー ～Point vol.Vega～ at 新代田FEVER",
-    description:
-      "門田匡陽 -His Band-のライブ「yumeiroecho「定点観測」リリースパーティー ～Point vol.Vega～」、新代田FEVERにて開催",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
     id: "2011-11-24-門田匡陽--his-band-",
     date: "2011-11-24",
     title: "Beat Happening! VOL.656 at 下北沢BASEMENT BAR",
@@ -4780,15 +3961,6 @@ export const timelineEntries: TimelineEntry[] = [
     title: "門田匡陽 - 線の上の子供たち at 心斎橋club☆jungle",
     description:
       "門田匡陽、心斎橋club☆jungleでの弾き語りライブ。共演多数、サポートメンバーも出演。",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
-    id: "2011-12-03-門田匡陽",
-    date: "2011-12-03",
-    title: "線の上の子供たち at 心斎橋club☆jungle",
-    description:
-      "門田匡陽のライブ「線の上の子供たち」、心斎橋club☆jungleにて開催",
     projectCategory: "門田匡陽",
     eventType: "live",
   },
@@ -4849,6 +4021,15 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
+    id: "2012-04-14-門田匡陽",
+    date: "2012-04-14",
+    title: "CalmCalm vol.2 at IID 世田谷ものづくり学校",
+    description:
+      "門田匡陽のライブ「CalmCalm vol.2」、IID 世田谷ものづくり学校にて開催",
+    projectCategory: "門田匡陽",
+    eventType: "live",
+  },
+  {
     id: "2012-04-14-000001",
     date: "2012-04-14",
     title: "門田匡陽 - Misty ep1 (CD-R)",
@@ -4863,30 +4044,11 @@ export const timelineEntries: TimelineEntry[] = [
     },
   },
   {
-    id: "2012-04-14-門田匡陽",
-    date: "2012-04-14",
-    title: "CalmCalm vol.2 at IID 世田谷ものづくり学校",
-    description:
-      "門田匡陽のライブ「CalmCalm vol.2」、IID 世田谷ものづくり学校にて開催",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
     id: "2012-04-28-000000",
     date: "2012-04-28",
     title:
       "門田匡陽 with CalmCalm - SHINJUKU LOFT 12TH ANNIVERSARY 「新宿ロフト春の大感謝祭２ ～世代融合の夜～」 at 新宿LOFT",
     description: "門田匡陽 with CalmCalmによる新宿ロフト12周年記念祭出演",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
-    id: "2012-04-28-門田匡陽-with-calmcalm",
-    date: "2012-04-28",
-    title:
-      "SHINJUKU LOFT 12TH ANNIVERSARY 「新宿ロフト春の大感謝祭２ ～世代融合の夜～」 at 新宿LOFT",
-    description:
-      "門田匡陽 with CalmCalmのライブ「SHINJUKU LOFT 12TH ANNIVERSARY 「新宿ロフト春の大感謝祭２ ～世代融合の夜～」」、新宿LOFTにて開催",
     projectCategory: "門田匡陽",
     eventType: "live",
   },
@@ -4924,16 +4086,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2012-05-22-門田匡陽-with-calmcalm",
-    date: "2012-05-22",
-    title:
-      'POPTOP/binyl records presents "ROCK BUM" in 大阪 at 大阪福島2nd LINE',
-    description:
-      '門田匡陽 with CalmCalmのライブ「POPTOP/binyl records presents "ROCK BUM" in 大阪」、大阪福島2nd LINEにて開催',
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
     id: "2012-05-23-門田匡陽-with-calmcalm",
     date: "2012-05-23",
     title:
@@ -4963,31 +4115,12 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2012-05-27-門田匡陽-with-calmcalm",
-    date: "2012-05-27",
-    title:
-      "門田匡陽 with CalmCalm企画 「楽園(utopia)の追放者たち vol.1 」 at 下北沢SHELTER",
-    description:
-      "門田匡陽 with CalmCalmのライブ「門田匡陽 with CalmCalm企画 「楽園(utopia)の追放者たち vol.1 」」、下北沢SHELTERにて開催",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
     id: "2012-09-02-000000",
     date: "2012-09-02",
     title:
       '門田匡陽 with CalmCalm - Any presents "take me HOME vol.3" at 渋谷Lush',
     description:
       "Monden MASAAKI 渋谷LushでAnyのライブサポート。ギター、ベース、ドラムなどで参加。",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
-    id: "2012-09-02-門田匡陽-with-calmcalm",
-    date: "2012-09-02",
-    title: 'Any presents "take me HOME vol.3" at 渋谷Lush',
-    description:
-      '門田匡陽 with CalmCalmのライブ「Any presents "take me HOME vol.3"」、渋谷Lushにて開催',
     projectCategory: "門田匡陽",
     eventType: "live",
   },
@@ -5003,9 +4136,9 @@ export const timelineEntries: TimelineEntry[] = [
   {
     id: "2012-10-01-門田匡陽-with-calmcalm",
     date: "2012-10-01",
-    title: "MINAMI WHEEL2012 at -",
+    title: "MINAMI WHEEL2012 出演キャンセル",
     description:
-      "門田匡陽 with CalmCalmのライブ「MINAMI WHEEL2012」、-にて開催",
+      "門田匡陽 with CalmCalmのライブ「MINAMI WHEEL2012」出演キャンセル",
     projectCategory: "門田匡陽",
     eventType: "live",
   },
@@ -5143,28 +4276,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2013-10-12-poet-type.m",
-    date: "2013-10-12",
-    title: "インストアライブ at TOWER RECORDS 新宿店",
-    description:
-      "Poet-type.Mのライブ「インストアライブ」、TOWER RECORDS 新宿店にて開催",
-    projectCategory: "Poet-type.M",
-    eventType: "live",
-  },
-  {
     id: "2013-10-13-000000",
     date: "2013-10-13",
     title: "Poet-type.M - MINAMI WHEEL 2013 at 心斎橋soma",
     description:
       "2013年大阪で行われたサーキットライブでのMonden MASAAKIのパフォーマンス。",
-    projectCategory: "Poet-type.M",
-    eventType: "live",
-  },
-  {
-    id: "2013-10-13-poet-type.m",
-    date: "2013-10-13",
-    title: "MINAMI WHEEL 2013 at 心斎橋soma",
-    description: "Poet-type.Mのライブ「MINAMI WHEEL 2013」、心斎橋somaにて開催",
     projectCategory: "Poet-type.M",
     eventType: "live",
   },
@@ -5204,15 +4320,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2013-10-20-poet-type.m",
-    date: "2013-10-20",
-    title: "インストアライブ at TOWER RECORDS 仙台パルコ店",
-    description:
-      "Poet-type.Mのライブ「インストアライブ」、TOWER RECORDS 仙台パルコ店にて開催",
-    projectCategory: "Poet-type.M",
-    eventType: "live",
-  },
-  {
     id: "2013-10-26-poet-type.m",
     date: "2013-10-26",
     title: "インストアライブ at TOWER RECORDS 名古屋近鉄パッセ店",
@@ -5238,7 +4345,7 @@ export const timelineEntries: TimelineEntry[] = [
     description:
       "2013年にMonden MASAAKIが発表したライブアルバム。ジャンルを超えた楽曲で構成された。",
     projectCategory: "Poet-type.M",
-    eventType: "live",
+    eventType: "release",
   },
   {
     id: "2013-11-29-000002",
@@ -5258,15 +4365,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2013-11-30-poet-type.m",
-    date: "2013-11-30",
-    title: "White White White TOUR at 大阪 阿倍野 ROCKTOWN",
-    description:
-      "Poet-type.Mのライブ「White White White TOUR」、大阪 阿倍野 ROCKTOWNにて開催",
-    projectCategory: "Poet-type.M",
-    eventType: "live",
-  },
-  {
     id: "2013-12-08-000000",
     date: "2013-12-08",
     title: "Poet-type.M - White White White TOUR at 新代田FEVER",
@@ -5276,28 +4374,10 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2013-12-08-poet-type.m",
-    date: "2013-12-08",
-    title: "White White White TOUR at 新代田FEVER",
-    description:
-      "Poet-type.Mのライブ「White White White TOUR」、新代田FEVERにて開催",
-    projectCategory: "Poet-type.M",
-    eventType: "live",
-  },
-  {
     id: "2013-12-30-000000",
     date: "2013-12-30",
     title: "Poet-type.M - LIVE DI:GA JUDGEMENT 2013 at 渋谷TAKE OFF 7",
     description: "2013年12月にLIVE DI:GA JUDGEMENT参加。6曲を熱演した。",
-    projectCategory: "Poet-type.M",
-    eventType: "live",
-  },
-  {
-    id: "2013-12-30-poet-type.m",
-    date: "2013-12-30",
-    title: "LIVE DI:GA JUDGEMENT 2013 at 渋谷TAKE OFF 7",
-    description:
-      "Poet-type.Mのライブ「LIVE DI:GA JUDGEMENT 2013」、渋谷TAKE OFF 7にて開催",
     projectCategory: "Poet-type.M",
     eventType: "live",
   },
@@ -5311,28 +4391,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2014-01-31-poet-type.m",
-    date: "2014-01-31",
-    title: "Good Vibrations at 新代田FEVER",
-    description: "Poet-type.Mのライブ「Good Vibrations」、新代田FEVERにて開催",
-    projectCategory: "Poet-type.M",
-    eventType: "live",
-  },
-  {
     id: "2014-02-23-000000",
     date: "2014-02-23",
     title:
       "Poet-type.M - DISK GARAGE MUSIC MONSTERS -2014 winter- at 渋谷O-Crest",
     description: "2014年冬、渋谷O-Crestでの単独ライブ",
-    projectCategory: "Poet-type.M",
-    eventType: "live",
-  },
-  {
-    id: "2014-02-23-poet-type.m",
-    date: "2014-02-23",
-    title: "DISK GARAGE MUSIC MONSTERS -2014 winter- at 渋谷O-Crest",
-    description:
-      "Poet-type.Mのライブ「DISK GARAGE MUSIC MONSTERS -2014 winter-」、渋谷O-Crestにて開催",
     projectCategory: "Poet-type.M",
     eventType: "live",
   },
@@ -5374,15 +4437,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2014-05-04-poet-type.m",
-    date: "2014-05-04",
-    title: "Niigata Rainbow ROCK Market 2014 at 新潟ジョイアミーア",
-    description:
-      "Poet-type.Mのライブ「Niigata Rainbow ROCK Market 2014」、新潟ジョイアミーアにて開催",
-    projectCategory: "Poet-type.M",
-    eventType: "live",
-  },
-  {
     id: "2014-05-25-000000",
     date: "2014-05-25",
     title: "Poet-type.M - GARAGE 20th Anniversary at 下北沢GARAGE",
@@ -5392,28 +4446,10 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2014-05-25-poet-type.m",
-    date: "2014-05-25",
-    title: "GARAGE 20th Anniversary at 下北沢GARAGE",
-    description:
-      "Poet-type.Mのライブ「GARAGE 20th Anniversary」、下北沢GARAGEにて開催",
-    projectCategory: "Poet-type.M",
-    eventType: "live",
-  },
-  {
     id: "2014-06-21-000000",
     date: "2014-06-21",
-    title: "BURGER NUDS - Live at LIQUIDROOM ebisu",
+    title: "BURGER NUDS - Live at LIQUIDROOM ebisu (再結成ライブ)",
     description: "10年ぶりの復活ライブ。新曲を披露し、会場限定Tシャツも販売。",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2014-06-21-burger-nuds",
-    date: "2014-06-21",
-    title: "恵比寿LIQUIDROOM at 再結成ライブ",
-    description:
-      "BURGER NUDSのライブ「恵比寿LIQUIDROOM」、再結成ライブにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -5423,15 +4459,6 @@ export const timelineEntries: TimelineEntry[] = [
     title: "Poet-type.M - THE JETZEJOHNSON × Poet-type.M at 下北沢CLUB251",
     description:
       "Poet-type.Mが下北沢CLUB251で行ったTHE JETZEJOHNSON共演ライブの記録",
-    projectCategory: "Poet-type.M",
-    eventType: "live",
-  },
-  {
-    id: "2014-06-29-poet-type.m",
-    date: "2014-06-29",
-    title: "THE JETZEJOHNSON × Poet-type.M at 下北沢CLUB251",
-    description:
-      "Poet-type.Mのライブ「THE JETZEJOHNSON × Poet-type.M」、下北沢CLUB251にて開催",
     projectCategory: "Poet-type.M",
     eventType: "live",
   },
@@ -5455,27 +4482,10 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2014-09-12-poet-type.m",
-    date: "2014-09-12",
-    title: "The Heat of Late Summer at 新代田FEVER",
-    description:
-      "Poet-type.Mのライブ「The Heat of Late Summer」、新代田FEVERにて開催",
-    projectCategory: "Poet-type.M",
-    eventType: "live",
-  },
-  {
     id: "2014-10-25-000000",
     date: "2014-10-25",
     title: "BURGER NUDS - ボロフェスタ 2014 at 京都KBSホール",
     description: "BURGER NUDSが2014年のボロフェスタに出演。新曲2曲を披露した。",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2014-10-25-burger-nuds",
-    date: "2014-10-25",
-    title: "BOROFESTA2014 at 京都KBSホール",
-    description: "BURGER NUDSのライブ「BOROFESTA2014」、京都KBSホールにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -5489,28 +4499,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2014-11-02-poet-type.m",
-    date: "2014-11-02",
-    title: "ZEKKEI Acoustic at 下北沢GARAGE",
-    description: "Poet-type.Mのライブ「ZEKKEI Acoustic」、下北沢GARAGEにて開催",
-    projectCategory: "Poet-type.M",
-    eventType: "live",
-  },
-  {
     id: "2014-11-14-000000",
     date: "2014-11-14",
     title: "BURGER NUDS - LIQUIDROOM 10th ANNIVERSARY at 恵比寿LIQUIDROOM",
     description:
       "LIQUIDROOM 10周年イベントでBURGER NUDSが出演、14曲を披露した。",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2014-11-14-burger-nuds",
-    date: "2014-11-14",
-    title: "LIQUIDROOM 10th ANNIVERSARY at 恵比寿LIQUIDROOM",
-    description:
-      "BURGER NUDSのライブ「LIQUIDROOM 10th ANNIVERSARY」、恵比寿LIQUIDROOMにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -5521,27 +4514,6 @@ export const timelineEntries: TimelineEntry[] = [
     description: "2014年GMCイベントに出演。5曲を演奏。ライブレポートあり。",
     projectCategory: "Poet-type.M",
     eventType: "live",
-  },
-  {
-    id: "2014-12-06-poet-type.m",
-    date: "2014-12-06",
-    title: "GMC2014 at 下北沢GARDEN",
-    description: "Poet-type.Mのライブ「GMC2014」、下北沢GARDENにて開催",
-    projectCategory: "Poet-type.M",
-    eventType: "live",
-  },
-  {
-    id: "2015-01-31-000000",
-    date: "2015-01-31",
-    title: "Poet-type.M - Souvenir from Dark & Dark (CD-R)",
-    description: "2016年CD-R発売、A Place, Dark & Darkプロモ用曲を収録",
-    projectCategory: "Poet-type.M",
-    eventType: "release",
-    media: {
-      type: "youtube",
-      url: "https://www.youtube.com/watch?v=wMZvLuVxfRU",
-      caption: "",
-    },
   },
   {
     id: "2015-01-31-000001",
@@ -5559,18 +4531,22 @@ export const timelineEntries: TimelineEntry[] = [
     },
   },
   {
-    id: "2015-01-31-poet-type.m",
+    id: "2015-01-31-000000",
     date: "2015-01-31",
-    title: "A Place, Dark & Dark -prologue- at 県民共済みらいホール",
-    description:
-      "Poet-type.Mのライブ「A Place, Dark & Dark -prologue-」、県民共済みらいホールにて開催",
+    title: "Poet-type.M - Souvenir from Dark & Dark (CD-R)",
+    description: "2016年CD-R発売、A Place, Dark & Darkプロモ用曲を収録",
     projectCategory: "Poet-type.M",
-    eventType: "live",
+    eventType: "release",
+    media: {
+      type: "youtube",
+      url: "https://www.youtube.com/watch?v=wMZvLuVxfRU",
+      caption: "",
+    },
   },
   {
     id: "2015-02-report-d-d",
     date: "2015-02-01",
-    title: "「Report From D & D」連載開始",
+    title: "Luckastにて「Report From D & D」連載開始",
     description: "「Luckast」にて連載開始",
     projectCategory: "門田匡陽",
     eventType: "activity",
@@ -5600,15 +4576,6 @@ export const timelineEntries: TimelineEntry[] = [
     title: "Poet-type.M - インストアライブ at TOWER RECORDS 秋葉原店",
     description:
       "Monden MASAAKI、TOWER RECORDS秋葉原で弾き語りライブ。楽譜とポストカードも配布。",
-    projectCategory: "Poet-type.M",
-    eventType: "live",
-  },
-  {
-    id: "2015-04-18-poet-type.m",
-    date: "2015-04-18",
-    title: "インストアライブ at TOWER RECORDS 秋葉原店",
-    description:
-      "Poet-type.Mのライブ「インストアライブ」、TOWER RECORDS 秋葉原店にて開催",
     projectCategory: "Poet-type.M",
     eventType: "live",
   },
@@ -5651,15 +4618,6 @@ export const timelineEntries: TimelineEntry[] = [
     description:
       "2015年7月4日、新宿TOWERでMonden MASAAKIによる弾き語りライブ。楽曲や制作背景などを紹介。",
     projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2015-07-04-poet-type.m",
-    date: "2015-07-04",
-    title: "インストアライブ at TOWER RECORDS 新宿店",
-    description:
-      "Poet-type.Mのライブ「インストアライブ」、TOWER RECORDS 新宿店にて開催",
-    projectCategory: "Poet-type.M",
     eventType: "live",
   },
   {
@@ -5720,29 +4678,20 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2015-09-07-000000",
-    date: "2015-09-07",
-    title: "MUSIC ON! TV サキドリ!～ZOOM UP～ 週間Poet-type.M",
-    description:
-      "MUSIC ON! TVでのMASAAKIのレコーディング映像と新作への想いを紹介した5日連続特集番組",
-    projectCategory: "Poet-type.M",
-    eventType: "media",
-  },
-  {
     id: "2015-09-26-000000",
     date: "2015-09-26",
-    title: "festival M.O.N -美学の勝利- at 名古屋アポロベイス",
+    title: "festival M.O.N -美学の勝利- at 名古屋APOLLO BASE",
     description:
       "Monden MASAAKI's live performance at Nagoya Apollo Base, showcasing his eclectic musical style.",
-    projectCategory: "BURGER NUDS",
+    projectCategory: "BN/GDHM/PtM",
     eventType: "live",
   },
   {
     id: "2015-09-26-000000_1",
     date: "2015-09-26",
-    title: "VA - 3 Way Spirit festival M.O.N -美学の勝利-",
-    description: "Monden MASAAKI的活动历程:独立发行专辑展现多元音乐风格。",
-    projectCategory: "BURGER NUDS",
+    title: "3 Way Spirit festival M.O.N -美学の勝利-",
+    description: "",
+    projectCategory: "BN/GDHM/PtM",
     eventType: "release",
   },
   {
@@ -5761,29 +4710,11 @@ export const timelineEntries: TimelineEntry[] = [
     },
   },
   {
-    id: "2015-09-26-bn/gdhm/ptm",
-    date: "2015-09-26",
-    title: "festival M.O.N -美学の勝利- at 名古屋APOLLO BASE",
-    description:
-      "BN/GDHM/PtMのライブ「festival M.O.N -美学の勝利-」、名古屋APOLLO BASEにて開催",
-    projectCategory: "BN/GDHM/PtM",
-    eventType: "live",
-  },
-  {
     id: "2015-10-03-000000",
     date: "2015-10-03",
     title: "festival M.O.N -美学の勝利- at 心斎橋MUSIC CLUB JANUS",
     description:
       "Monden MASAAKI's solo live event at Osaka's MUSIC CLUB JANUS.",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2015-10-03-bn/gdhm/ptm",
-    date: "2015-10-03",
-    title: "festival M.O.N -美学の勝利- at 心斎橋JANUS",
-    description:
-      "BN/GDHM/PtMのライブ「festival M.O.N -美学の勝利-」、心斎橋JANUSにて開催",
     projectCategory: "BN/GDHM/PtM",
     eventType: "live",
   },
@@ -5802,7 +4733,7 @@ export const timelineEntries: TimelineEntry[] = [
     title: "festival M.O.N -美学の勝利- at 恵比寿LIQUIDROOM",
     description:
       "Monden MASAAKI live concert at Ebisu LIQUIDROOM, featuring collaborative performances.",
-    projectCategory: "BURGER NUDS",
+    projectCategory: "BN/GDHM/PtM",
     eventType: "live",
   },
   {
@@ -5815,29 +4746,12 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2015-11-02-poet-type.m",
-    date: "2015-11-02",
-    title: "インストアライブ at TOWER RECORDS 渋谷店",
-    description:
-      "Poet-type.Mのライブ「インストアライブ」、TOWER RECORDS 渋谷店にて開催",
-    projectCategory: "Poet-type.M",
-    eventType: "live",
-  },
-  {
     id: "2015-11-29-000000",
     date: "2015-11-29",
     title: "門田匡陽 - ヒトトナリ at 名古屋sunset BLUE",
     description:
       '門田匡陽、2015年11月に名古屋sunset BLUEでのライブ"ヒトトナリ"を開催。共演者も出演。',
     projectCategory: "Poet-type.M",
-    eventType: "live",
-  },
-  {
-    id: "2015-11-29-門田匡陽",
-    date: "2015-11-29",
-    title: "ヒトトナリ at 名古屋sunset BLUE",
-    description: "門田匡陽のライブ「ヒトトナリ」、名古屋sunset BLUEにて開催",
-    projectCategory: "門田匡陽",
     eventType: "live",
   },
   {
@@ -5855,7 +4769,7 @@ export const timelineEntries: TimelineEntry[] = [
     description:
       "MUSIC ON! TV特別番組。Poet-type.Mとモンデンのライブ映像を収録。",
     projectCategory: "BN/GDHM/PtM",
-    eventType: "live",
+    eventType: "media",
   },
   {
     id: "2016-02-17-000000",
@@ -5879,29 +4793,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2016-02-29-poet-type.m",
-    date: "2016-02-29",
-    title: "The Elwins & Rah Rah Japan Tour 2016 at 新代田FEVER",
-    description:
-      "Poet-type.Mのライブ「The Elwins & Rah Rah Japan Tour 2016」、新代田FEVERにて開催",
-    projectCategory: "Poet-type.M",
-    eventType: "live",
-  },
-  {
     id: "2016-03-20-000000",
     date: "2016-03-20",
     title: "門田匡陽 - ハ・ル・ウ・ラ・ラ at 名古屋sunset BLUE",
     description:
       "門田匡陽、名古屋sunset BLUEで弾き語りライブ「ハ・ル・ウ・ラ・ラ」を実施。オフィシャルサイトでレポート公開。",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
-    id: "2016-03-20-門田匡陽",
-    date: "2016-03-20",
-    title: "ハ・ル・ウ・ラ・ラ at 名古屋sunset BLUE",
-    description:
-      "門田匡陽のライブ「ハ・ル・ウ・ラ・ラ」、名古屋sunset BLUEにて開催",
     projectCategory: "門田匡陽",
     eventType: "live",
   },
@@ -5915,17 +4811,9 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2016-03-31-門田匡陽",
-    date: "2016-03-31",
-    title: "LIVE LIFE at 下北沢GARAGE",
-    description: "門田匡陽のライブ「LIVE LIFE」、下北沢GARAGEにて開催",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
     id: "2016-04-report-d-d-end",
     date: "2016-04-01",
-    title: "「Report From D & D」連載完結",
+    title: "Luckast「Report From D & D」連載完結",
     description: "「Luckast」での連載が完結",
     projectCategory: "門田匡陽",
     eventType: "activity",
@@ -5940,24 +4828,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2016-04-11-門田匡陽",
-    date: "2016-04-11",
-    title: "弾き語る。 at 下北沢GARAGE",
-    description: "門田匡陽のライブ「弾き語る。」、下北沢GARAGEにて開催",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
-    id: "2016-04-17-000001",
-    date: "2016-04-17",
-    title:
-      "festival M.O.N. -勝利の美学- 2015.10.24 at LIQUIDROOM ebisu (Live DVD)",
-    description:
-      "Monden MASAAKI ライブDVD「festival M.O.N. -勝利の美学-」発売、多彩なアーティストが参加",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2016-04-17-poet-type.m",
     date: "2016-04-17",
     title:
@@ -5968,19 +4838,21 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
+    id: "2016-04-17-000001",
+    date: "2016-04-17",
+    title:
+      "festival M.O.N. -勝利の美学- 2015.10.24 at LIQUIDROOM ebisu (Live DVD)",
+    description:
+      "Monden MASAAKI ライブDVD「festival M.O.N. -勝利の美学-」発売、多彩なアーティストが参加",
+    projectCategory: "BN/GDHM/PtM",
+    eventType: "live",
+  },
+  {
     id: "2016-05-03-000000",
     date: "2016-05-03",
     title: "門田匡陽 - 弾き語る。 at 下北沢GARAGE",
     description:
       "門田匡陽の2016年5月3日の下北沢GARAGEでの弾き語りライブの概要。",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
-    id: "2016-05-03-門田匡陽",
-    date: "2016-05-03",
-    title: "弾き語る。 at 下北沢GARAGE",
-    description: "門田匡陽のライブ「弾き語る。」、下北沢GARAGEにて開催",
     projectCategory: "門田匡陽",
     eventType: "live",
   },
@@ -5994,28 +4866,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2016-05-14-burger-nuds",
-    date: "2016-05-14",
-    title: "comrade vol.7 at 新代田FEVER",
-    description: "BURGER NUDSのライブ「comrade vol.7」、新代田FEVERにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2016-05-24-000000",
     date: "2016-05-24",
     title: "Poet-type.M - Well-Better-Best 2016 at 新代田FEVER",
     description:
       "Poet-type.Mが2016年5月に新代田FEVERで開催したライブ「Well-Better-Best 2016」の詳細。",
-    projectCategory: "Poet-type.M",
-    eventType: "live",
-  },
-  {
-    id: "2016-05-24-poet-type.m",
-    date: "2016-05-24",
-    title: "Well-Better-Best 2016 at 新代田FEVER",
-    description:
-      "Poet-type.Mのライブ「Well-Better-Best 2016」、新代田FEVERにて開催",
     projectCategory: "Poet-type.M",
     eventType: "live",
   },
@@ -6026,15 +4881,6 @@ export const timelineEntries: TimelineEntry[] = [
       "BURGER NUDS - GARAGE 22 Anniversary EVENT 〜For your summer〜 at 下北沢GARAGE",
     description:
       "Monden MASAAKI performed at GARAGE 22 Anniversary EVENT in Shimokitazawa, Tokyo.",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2016-08-07-burger-nuds",
-    date: "2016-08-07",
-    title: "GARAGE 22 Anniversary EVENT ～For your summer～ at 下北沢GARAGE",
-    description:
-      "BURGER NUDSのライブ「GARAGE 22 Anniversary EVENT ～For your summer～」、下北沢GARAGEにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -6104,30 +4950,12 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2017-07-29-burger-nuds",
-    date: "2017-07-29",
-    title: "tour 2017 「Act 2 或いは Act 3」 at 阿倍野ROCKTOWN",
-    description:
-      "BURGER NUDSのライブ「tour 2017 「Act 2 或いは Act 3」」、阿倍野ROCKTOWNにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2017-08-05-000000",
     date: "2017-08-05",
     title:
       "BURGER NUDS - BURGER NUDS tour 2017 「Act 2 或いは Act 3」 at 新代田FEVER",
     description:
       "BURGER NUDS単独ライブ「Act 2or3」、新代田FEVERで東名阪ツアー完走。",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2017-08-05-burger-nuds",
-    date: "2017-08-05",
-    title: "tour 2017 「Act 2 或いは Act 3」 at 新代田FEVER",
-    description:
-      "BURGER NUDSのライブ「tour 2017 「Act 2 或いは Act 3」」、新代田FEVERにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -6169,18 +4997,8 @@ export const timelineEntries: TimelineEntry[] = [
     id: "2017-12-10-000000",
     date: "2017-12-10",
     title:
-      "BURGER NUDS - （或いは）展 アコースティックライブ at 原宿LUCKAND -Gallery Cafe&Bar-",
+      "BURGER NUDS - （或いは）展 アコースティックライブ at 原宿LUCKAND -Gallery Cafe&Bar- 昼・夜公演",
     description: "BURGER NUDS×蓑輪朋和 アコースティックライブ at 原宿LUCKAND",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2017-12-10-burger-nuds",
-    date: "2017-12-10",
-    title:
-      "（或いは）展 アコースティックライブ at 原宿LUCKAND -Gallery Cafe&Bar-",
-    description:
-      "BURGER NUDSのライブ「（或いは）展 アコースティックライブ」、原宿LUCKAND -Gallery Cafe&Bar-にて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -6199,15 +5017,6 @@ export const timelineEntries: TimelineEntry[] = [
     },
   },
   {
-    id: "2017-12-24-poet-type.m-with-楢原英介",
-    date: "2017-12-24",
-    title: "Pocketful of stardust -2 at 神楽坂・神楽音",
-    description:
-      "Poet-type.M with 楢原英介のライブ「Pocketful of stardust -2」、神楽坂・神楽音にて開催",
-    projectCategory: "Poet-type.M",
-    eventType: "live",
-  },
-  {
     id: "2018-02-18-000000",
     date: "2018-02-18",
     title:
@@ -6223,28 +5032,11 @@ export const timelineEntries: TimelineEntry[] = [
     },
   },
   {
-    id: "2018-02-18-poet-type.m-with-楢原英介",
-    date: "2018-02-18",
-    title: "Pocketful of stardust -1 at 神楽坂・神楽音",
-    description:
-      "Poet-type.M with 楢原英介のライブ「Pocketful of stardust -1」、神楽坂・神楽音にて開催",
-    projectCategory: "Poet-type.M",
-    eventType: "live",
-  },
-  {
     id: "2018-02-25-000000",
     date: "2018-02-25",
     title: "BURGER NUDS - Pure vol.2 at 代官山UNIT",
     description:
       "BURGER NUDSが主催する「Pure vol.2」に出演。THE NOVEMBERSらと共演。",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2018-02-25-burger-nuds",
-    date: "2018-02-25",
-    title: "Pure vol.2 at 代官山UNIT",
-    description: "BURGER NUDSのライブ「Pure vol.2」、代官山UNITにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -6281,28 +5073,11 @@ export const timelineEntries: TimelineEntry[] = [
     },
   },
   {
-    id: "2018-04-01-poet-type.m",
-    date: "2018-04-01",
-    title: "Pocketful of stardust ±0 at 新代田FEVER",
-    description:
-      "Poet-type.Mのライブ「Pocketful of stardust ±0」、新代田FEVERにて開催",
-    projectCategory: "Poet-type.M",
-    eventType: "live",
-  },
-  {
     id: "2018-05-12-000000",
     date: "2018-05-12",
     title: "BURGER NUDS - Pure vol.3 at 新代田FEVER",
     description:
       "BURGER NUDSのライブイベント「Pure vol.3」at 新代田FEVER、Poet-type.Mがレポート",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2018-05-12-burger-nuds",
-    date: "2018-05-12",
-    title: "Pure vol.3 at 新代田FEVER",
-    description: "BURGER NUDSのライブ「Pure vol.3」、新代田FEVERにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -6364,15 +5139,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2019-02-04-poet-type.m",
-    date: "2019-02-04",
-    title: "独演会「Pocketful of stardust」 at 渋谷La.mama",
-    description:
-      "Poet-type.Mのライブ「独演会「Pocketful of stardust」」、渋谷La.mamaにて開催",
-    projectCategory: "Poet-type.M",
-    eventType: "live",
-  },
-  {
     id: "2019-03-06-digital",
     date: "2019-03-06",
     title: "Poet-type.M - 光の言語 (Absolute Blue)",
@@ -6405,15 +5171,6 @@ export const timelineEntries: TimelineEntry[] = [
     title: "Poet-type.M×CLOW - Gift",
     description:
       "Poet-type.M×CLOW、2019年5月ライブ会場で無料配布されたCD-R『Gift』リリース。",
-    projectCategory: "Poet-type.M",
-    eventType: "live",
-  },
-  {
-    id: "2019-05-06-poet-type.m",
-    date: "2019-05-06",
-    title: "GARAGE 25th Anniversary at 下北沢GARAGE",
-    description:
-      "Poet-type.Mのライブ「GARAGE 25th Anniversary」、下北沢GARAGEにて開催",
     projectCategory: "Poet-type.M",
     eventType: "live",
   },
@@ -6461,14 +5218,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2019-10-08-poet-type.m",
-    date: "2019-10-08",
-    title: "Ergonomic(s) at 渋谷La.mama",
-    description: "Poet-type.Mのライブ「Ergonomic(s)」、渋谷La.mamaにて開催",
-    projectCategory: "Poet-type.M",
-    eventType: "live",
-  },
-  {
     id: "2020-02-11-門田匡陽",
     date: "2020-02-11",
     title: "新代田で会おうよ。 at 新代田Live bar crossing",
@@ -6483,15 +5232,6 @@ export const timelineEntries: TimelineEntry[] = [
     title: "Poet-type.M - Black and Blue vol.2 at 下北沢CLUB Que",
     description:
       "Poeta-type.M、下北沢CLUBQueでのBlack and Blueライブ開催。共演メンバー出演。",
-    projectCategory: "Poet-type.M",
-    eventType: "live",
-  },
-  {
-    id: "2020-02-23-poet-type.m",
-    date: "2020-02-23",
-    title: "Black and Blue vol.2 at 下北沢CLUB Que",
-    description:
-      "Poet-type.Mのライブ「Black and Blue vol.2」、下北沢CLUB Queにて開催",
     projectCategory: "Poet-type.M",
     eventType: "live",
   },
@@ -6562,15 +5302,6 @@ export const timelineEntries: TimelineEntry[] = [
     },
   },
   {
-    id: "2021-12-15-monden-masaaki",
-    date: "2021-12-15",
-    title: "ethics 2021 at 羽田空港TIAT SKY HALL",
-    description:
-      "Monden Masaakiのライブ「ethics 2021」、羽田空港TIAT SKY HALLにて開催",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
     id: "2022-12-18-radio-family",
     date: "2022-12-18",
     title: "ラジオ「いいね！情報局」に実母と出演",
@@ -6590,7 +5321,7 @@ export const timelineEntries: TimelineEntry[] = [
   {
     id: "2023-03-31-highway",
     date: "2023-03-31",
-    title: "HIGHWAY STAR 業務委託契約終了",
+    title: "HIGHWAY STARとの業務委託契約を終了、フリーとなる",
     description: "HIGHWAY STARとの業務委託契約の終了が発表される",
     projectCategory: "門田匡陽",
     eventType: "activity",
@@ -6619,16 +5350,6 @@ export const timelineEntries: TimelineEntry[] = [
     title:
       '2023-06-09: 門田匡陽 - "PERFECT MOMENT" performing by MONDEN MASAAKI (BAND SET) at 新代田LIVE HOUSE FEVER',
     description: "門田匡陽が新代田FEVERで「PERFECT MOMENT」を熱演",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
-    id: "2023-06-09-門田匡陽",
-    date: "2023-06-09",
-    title:
-      "PERFECT MOMENT performing by MONDEN MASAAKI (BAND SET) at 新代田LIVE HOUSE FEVER",
-    description:
-      "門田匡陽のライブ「PERFECT MOMENT performing by MONDEN MASAAKI (BAND SET)」、新代田LIVE HOUSE FEVERにて開催",
     projectCategory: "門田匡陽",
     eventType: "live",
   },
@@ -6664,30 +5385,12 @@ export const timelineEntries: TimelineEntry[] = [
     },
   },
   {
-    id: "2023-08-27-門田匡陽-×-nao-yanagawa",
-    date: "2023-08-27",
-    title: "hmc studio live CORE at 梅ヶ丘hmc coffee & sake",
-    description:
-      "門田匡陽 × NAO YANAGAWAのライブ「hmc studio live CORE」、梅ヶ丘hmc coffee & sakeにて開催",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
     id: "2023-11-19-000000",
     date: "2023-11-19",
     title:
       '門田匡陽 + Nao Yanagawa - "パンと音楽とアンティーク 2023" at 東京オーヴァル京王閣',
     description:
       'Monden MASAAKI、門田匡陽とNao Yanagawaによる"パンと音楽とアンティーク2023"東京公演。',
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
-    id: "2023-11-19-門田匡陽-+-nao-yanagawa",
-    date: "2023-11-19",
-    title: "パンと音楽とアンティーク 2023 at 東京オーヴァル京王閣",
-    description:
-      "門田匡陽 + Nao Yanagawaのライブ「パンと音楽とアンティーク 2023」、東京オーヴァル京王閣にて開催",
     projectCategory: "門田匡陽",
     eventType: "live",
   },
@@ -6702,28 +5405,10 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2023-12-25-monden-masaaki-(band-set)",
-    date: "2023-12-25",
-    title: "chant de Noël at 新代田FEVER",
-    description:
-      "MONDEN MASAAKI (BAND SET)のライブ「chant de Noël」、新代田FEVERにて開催",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
     id: "2024-03-08-000000",
     date: "2024-03-08",
     title: '門田匡陽 - "Once-in-a-lifetime 2024" at 新代田FEVER',
     description: '門田匡陽、新代田FEVERで"Once-in-a-lifetime 2024"開催',
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
-    id: "2024-03-08-門田匡陽",
-    date: "2024-03-08",
-    title: "Once-in-a-lifetime 2024 at 新代田FEVER",
-    description:
-      "門田匡陽のライブ「Once-in-a-lifetime 2024」、新代田FEVERにて開催",
     projectCategory: "門田匡陽",
     eventType: "live",
   },
@@ -6769,15 +5454,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2024-04-19-monden-masaaki",
-    date: "2024-04-19",
-    title: "プレ環七フェス 2024 at 新代田FEVER",
-    description:
-      "MONDEN MASAAKIのライブ「プレ環七フェス 2024」、新代田FEVERにて開催",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
     id: "2024-04-20-000000",
     date: "2024-04-20",
     title: "門田匡陽 Instagram Live",
@@ -6805,29 +5481,12 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2024-04-26-monden-masaaki",
-    date: "2024-04-26",
-    title: "KISS at 福島2nd LINE",
-    description: "MONDEN MASAAKIのライブ「KISS」、福島2nd LINEにて開催",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
     id: "2024-05-12-000000_1",
     date: "2024-05-12",
     title:
       'MONDEN MASAAKI - "新代田環七フェスティバル 2024" at 新代田Live bar crossing',
     description:
       "MONDEN MASAAKIによる新代田環七フェスティバル2024出演。アコースティックギター弾き語りを披露。",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
-    id: "2024-05-12-monden-masaaki",
-    date: "2024-05-12",
-    title: "新代田環七フェスティバル 2024 at 新代田Live bar crossing",
-    description:
-      "MONDEN MASAAKIのライブ「新代田環七フェスティバル 2024」、新代田Live bar crossingにて開催",
     projectCategory: "門田匡陽",
     eventType: "live",
   },
@@ -6841,28 +5500,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2024-05-18-monden-masaaki",
-    date: "2024-05-18",
-    title: "KISS at 新代田FEVER",
-    description: "MONDEN MASAAKIのライブ「KISS」、新代田FEVERにて開催",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
     id: "2024-05-21-000000",
     date: "2024-05-21",
     title: 'MONDEN MASAAKI - "新代田で会おうよ。" at 新代田Live bar crossing',
     description:
       "新代田LIVEで開催されたソロアコギライブ。猪狩翔一、渡辺諒が共演。",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
-    id: "2024-05-21-monden-masaaki",
-    date: "2024-05-21",
-    title: "新代田で会おうよ。 at 新代田Live bar crossing",
-    description:
-      "MONDEN MASAAKIのライブ「新代田で会おうよ。」、新代田Live bar crossingにて開催",
     projectCategory: "門田匡陽",
     eventType: "live",
   },
@@ -6890,14 +5532,6 @@ export const timelineEntries: TimelineEntry[] = [
     title: '門田匡陽 - "599LIVE" at 高尾599ミュージアム',
     description:
       "Monden MASAAKI 門田匡陽のフリーライブ「599LIVE」高尾599ミュージアムにて開催。アコギ弾き語りで多彩な楽曲を披露。",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
-    id: "2024-08-11-門田匡陽",
-    date: "2024-08-11",
-    title: "599LIVE at 高尾599ミュージアム",
-    description: "門田匡陽のライブ「599LIVE」、高尾599ミュージアムにて開催",
     projectCategory: "門田匡陽",
     eventType: "live",
   },
@@ -6930,15 +5564,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2024-12-25-monden-masaaki-(band-set)",
-    date: "2024-12-25",
-    title: "chant de Noël 2024 at 新代田FEVER",
-    description:
-      "MONDEN MASAAKI (BAND SET)のライブ「chant de Noël 2024」、新代田FEVERにて開催",
-    projectCategory: "門田匡陽",
-    eventType: "live",
-  },
-  {
     id: "2024-12-29-000000",
     date: "2024-12-29",
     title: "門田匡陽 Instagram Live",
@@ -6957,15 +5582,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2025-01-19-burger-nuds",
-    date: "2025-01-19",
-    title: "Now 2 -近道2周年記念公演- at 下北沢近道",
-    description:
-      "BURGER NUDSのライブ「Now 2 -近道2周年記念公演-」、下北沢近道にて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2025-02-08-000000",
     date: "2025-02-08",
     title: "BURGER NUDS - “ドガの都 Vol.1“ at 下北沢QLUB Que",
@@ -6975,28 +5591,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2025-02-08-burger-nuds",
-    date: "2025-02-08",
-    title: "ドガの都 Vol.1 at 下北沢QLUB Que",
-    description:
-      "BURGER NUDSのライブ「ドガの都 Vol.1」、下北沢QLUB Queにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2025-04-25-000000",
     date: "2025-04-25",
     title: 'BURGER NUDS - "tabuz twelve" at 新代田FEVER',
     description:
       "BURGER NUDS、tabuz twelveライブ\n新代田FEVERにて、paioniaメンバー参加",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2025-04-25-burger-nuds",
-    date: "2025-04-25",
-    title: "tabuz twelve at 新代田FEVER",
-    description: "BURGER NUDSのライブ「tabuz twelve」、新代田FEVERにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -7011,28 +5610,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2025-05-23-burger-nuds",
-    date: "2025-05-23",
-    title: "内山結愛 presents「tie in reaction vol.8」 at 新宿MARZ",
-    description:
-      "BURGER NUDSのライブ「内山結愛 presents「tie in reaction vol.8」」、新宿MARZにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2025-06-01-000000",
     date: "2025-06-01",
     title: "BURGER NUDS - “Now 2“ at 下北沢近道",
     description:
       "BURGER NUDSソロイベント「Now 2」下北沢近道で開催。多彩なゲストアーティストが出演。",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2025-06-01-burger-nuds",
-    date: "2025-06-01",
-    title: "Now 2 at 下北沢近道",
-    description: "BURGER NUDSのライブ「Now 2」、下北沢近道にて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
