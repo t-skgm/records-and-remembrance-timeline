@@ -222,7 +222,7 @@ async function convertArticlesToTimeline() {
         const rawTitle = frontmatter.title || "タイトルなし";
         const title = cleanTitle(rawTitle);
         const date = frontmatter.date
-          ? new Date(frontmatter.date).toISOString().split("T")[0]
+          ? new Date(frontmatter.date).toLocaleString().split("T")[0]
           : extractDateFromFilename(file);
 
         if (!date) {
