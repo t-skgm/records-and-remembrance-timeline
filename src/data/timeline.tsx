@@ -385,26 +385,10 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2000-11-12-burger-nuds",
-    date: "2000-11-12",
-    title: "HASHIRIYA at 下北沢GARAGE",
-    description: "BURGER NUDSのライブ「HASHIRIYA」、下北沢GARAGEにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2000-11-24-000000",
     date: "2000-11-24",
     title: "BURGER NUDS - 奥二重 Vol.5 at 下北沢GARAGE",
     description: "Monden MASAAKI、下北沢GARAGEで「奥二重 Vol.5」に出演。",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2000-11-24-burger-nuds",
-    date: "2000-11-24",
-    title: "奥二重 Vol.5 at 下北沢GARAGE",
-    description: "BURGER NUDSのライブ「奥二重 Vol.5」、下北沢GARAGEにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -428,30 +412,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2000-12-14-burger-nuds",
-    date: "2000-12-14",
-    title:
-      "ロボスコッププレゼンツ vol.9 「1214 ハッピーターン」 at 下北沢GARAGE",
-    description:
-      "BURGER NUDSのライブ「ロボスコッププレゼンツ vol.9 「1214 ハッピーターン」」、下北沢GARAGEにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2000-12-27-000000",
     date: "2000-12-27",
-    title: "BURGER NUDS - Live at 大宮アルシェ [incomplete]",
+    title: "BURGER NUDS - Live at 大宮アルシェ (路上ライブ)",
     description:
       "BURGER NUDSのライブ演奏、大宮アルシェにて開催。曲目はMARCHとCOLD BURN。",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2000-12-27-burger-nuds",
-    date: "2000-12-27",
-    title: "大宮アルシェ (?) at (路上ライブ?)",
-    description:
-      "BURGER NUDSのライブ「大宮アルシェ (?)」、(路上ライブ?)にて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -467,18 +432,9 @@ export const timelineEntries: TimelineEntry[] = [
   {
     id: "2000-12-31-000000",
     date: "2000-12-31",
-    title: "BURGER NUDS - Live at 大宮アルシェ [incomplete]",
+    title: "BURGER NUDS - Live at 大宮アルシェ (路上ライブ)",
     description:
       "BURGER NUDS - Live at 大宮アルシェ [incomplete]: 2000年の大宮アルシェでの演奏活動の記録",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2000-12-31-burger-nuds",
-    date: "2000-12-31",
-    title: "大宮アルシェ (?) at (路上ライブ?)",
-    description:
-      "BURGER NUDSのライブ「大宮アルシェ (?)」、(路上ライブ?)にて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -491,27 +447,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2001-01-12-burger-nuds",
-    date: "2001-01-12",
-    title: "HASHIRIYA at 下北沢GARAGE",
-    description: "BURGER NUDSのライブ「HASHIRIYA」、下北沢GARAGEにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2001-01-28-000000",
     date: "2001-01-28",
     title: "BURGER NUDS - 無印良音 #7 at 下北沢GARAGE",
     description:
       "下北沢GARAGE主催イベントに出演。バンド「BURGER NUDS」が演奏。",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2001-01-28-burger-nuds",
-    date: "2001-01-28",
-    title: "無印良音#7 at 下北沢GARAGE",
-    description: "BURGER NUDSのライブ「無印良音#7」、下北沢GARAGEにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -541,28 +481,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2001-02-25-burger-nuds",
-    date: "2001-02-25",
-    title: "無印良音#7 at 下北沢GARAGE",
-    description: "BURGER NUDSのライブ「無印良音#7」、下北沢GARAGEにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2001-03-08-000000",
     date: "2001-03-08",
     title: 'BURGER NUDS - "東京ジェネラルズ vol.3" at 下北沢GARAGE',
     description:
       "Monden MASAAKI出演のイベント「東京ジェネラルズ vol.3」下北沢GARAGEで開催。",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2001-03-08-burger-nuds",
-    date: "2001-03-08",
-    title: "東京ジェネラルズ vol.3 at 下北沢CLUB Que",
-    description:
-      "BURGER NUDSのライブ「東京ジェネラルズ vol.3」、下北沢CLUB Queにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -599,15 +522,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2001-04-03-burger-nuds",
-    date: "2001-04-03",
-    title: "ロックキャンディー at 渋谷CLUB QUATTRO",
-    description:
-      "BURGER NUDSのライブ「ロックキャンディー」、渋谷CLUB QUATTROにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2001-04-14-000000",
     date: "2001-04-14",
     title: "VA - TELESCOPE COMPILATION 01 (TELESCOPE-LABEL)",
@@ -627,27 +541,10 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2001-04-14-burger-nuds",
-    date: "2001-04-14",
-    title: "無印良音#9 TELESCOPE COMPILATION 01発売記念ライブ at 下北沢GARAGE",
-    description:
-      "BURGER NUDSのライブ「無印良音#9 TELESCOPE COMPILATION 01発売記念ライブ」、下北沢GARAGEにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2001-04-19-000000",
     date: "2001-04-19",
     title: "BURGER NUDS - 奥二重 at 新宿JAM",
     description: "BURGER NUDS新宿JAMライブ、共演多数、2001年4月19日開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2001-04-19-burger-nuds",
-    date: "2001-04-19",
-    title: "奥二重 at 新宿JAM",
-    description: "BURGER NUDSのライブ「奥二重」、新宿JAMにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -687,19 +584,10 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2001-05-26-burger-nuds",
-    date: "2001-05-26",
-    title: "KINOSHITA NIGHT at 下北沢GARAGE",
-    description: "BURGER NUDSのライブ「KINOSHITA NIGHT」、下北沢GARAGEにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2001-05-27-burger-nuds",
     date: "2001-05-27",
-    title: "路上ライブ at 路上ライブ。雨天のため中止",
-    description:
-      "BURGER NUDSのライブ「路上ライブ」、路上ライブ。雨天のため中止にて開催",
+    title: "路上ライブ (雨天のため中止)",
+    description: "路上ライブ。雨天のため中止にて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -708,24 +596,6 @@ export const timelineEntries: TimelineEntry[] = [
     date: "2001-06-03",
     title: "BURGER NUDS - ROCK CANDY at 下北沢GARAGE",
     description: "BURGER NUDSが下北沢GARAGEでROCK CANDYイベントに出演。",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2001-06-03-burger-nuds",
-    date: "2001-06-03",
-    title: "ロックキャンディー at 下北沢GARAGE",
-    description:
-      "BURGER NUDSのライブ「ロックキャンディー」、下北沢GARAGEにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2001-06-08-000000",
-    date: "2001-06-08",
-    title: "BURGER NUDS - sound puzzle Vol.1 at 新宿LOFT",
-    description:
-      "2001年、新宿LOFTでのイベントに出演。BURGER NUDSのTシャツデザインが販売された。",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -741,7 +611,7 @@ export const timelineEntries: TimelineEntry[] = [
   {
     id: "2001-06-22-burger-nuds",
     date: "2001-06-22",
-    title: "七割七分party! vol.3 at 高円寺サロンｂｙマーブルトロン",
+    title: "七割七分party! vol.3 at 高円寺サロンbyマーブルトロン",
     description:
       "BURGER NUDSのライブ「七割七分party! vol.3」、高円寺サロンｂｙマーブルトロンにて開催",
     projectCategory: "BURGER NUDS",
@@ -756,29 +626,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2001-06-24-burger-nuds",
-    date: "2001-06-24",
-    title: "東京ジェネラルズ vol.5 at 新宿JAM",
-    description:
-      "BURGER NUDSのライブ「東京ジェネラルズ vol.5」、新宿JAMにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2001-06-26-000000",
     date: "2001-06-26",
     title: "BURGER NUDS - 無印良音#12 ～テレスコープパーティー～ at 渋谷club乙",
     description:
       "ミュージシャンMonden MASAAKIがBURGER NUDSとしてイベントに出演",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2001-06-26-burger-nuds",
-    date: "2001-06-26",
-    title: "無印良音#12 ～テレスコープパーティー～ at 渋谷club乙",
-    description:
-      "BURGER NUDSのライブ「無印良音#12 ～テレスコープパーティー～」、渋谷club乙にて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -801,15 +653,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2001-07-14-burger-nuds",
-    date: "2001-07-14",
-    title: "Live at 専門学校九州ビジュアルアーツ内 エスペランサホール",
-    description:
-      "BURGER NUDS、専門学校九州ビジュアルアーツ内 エスペランサホールにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2001-07-21-000000",
     date: "2001-07-21",
     title: "BURGER NUDS - LOW NAME",
@@ -823,15 +666,6 @@ export const timelineEntries: TimelineEntry[] = [
     date: "2001-07-29",
     title: "BURGER NUDS - さよならHASHIRIYA3 at 下北沢GARAGE",
     description: "BURGER NUDSがHASHIRIYA3を引退する下北沢ライブ出演。",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2001-07-29-burger-nuds",
-    date: "2001-07-29",
-    title: "さよならHASHIRIYA 3 at 下北沢GARAGE",
-    description:
-      "BURGER NUDSのライブ「さよならHASHIRIYA 3」、下北沢GARAGEにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -859,15 +693,6 @@ export const timelineEntries: TimelineEntry[] = [
     title: "BURGER NUDS - 百人一首企画 ～仏恥義理★ナイト～ at 下北沢SHELTER",
     description:
       "Mondon MASAAKI参加のバーガーナッツ企画イベントを下北沢SHELTERで開催。",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2001-08-16-burger-nuds",
-    date: "2001-08-16",
-    title: "百人一首主催「仏恥義理★ナイト」 at 下北沢SHELTER",
-    description:
-      "BURGER NUDSのライブ「百人一首主催「仏恥義理★ナイト」」、下北沢SHELTERにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -923,15 +748,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2001-09-02-burger-nuds",
-    date: "2001-09-02",
-    title: "無印良音#11～LOW NAME レコ発ツアーファイナル～ at 下北沢GARAGE",
-    description:
-      "BURGER NUDSのライブ「無印良音#11～LOW NAME レコ発ツアーファイナル～」、下北沢GARAGEにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2001-10-07-80枚",
     date: "2001-10-07",
     title:
@@ -947,15 +763,6 @@ export const timelineEntries: TimelineEntry[] = [
     title: "BURGER NUDS - LOFT presents Get a chance! VOL.4 at 新宿LOFT",
     description:
       "2001年10月、新宿LOFTで行われたイベントに参加しミニアルバム「線」のリリースツアーを行った。",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2001-10-16-burger-nuds",
-    date: "2001-10-16",
-    title: "LOFT presents Get a chance! VOL.4 at 新宿LOFT",
-    description:
-      "BURGER NUDSのライブ「LOFT presents Get a chance! VOL.4」、新宿LOFTにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -998,7 +805,7 @@ export const timelineEntries: TimelineEntry[] = [
   {
     id: "2001-11-03-burger-nuds",
     date: "2001-11-03",
-    title: "線ツアーファイナル at 下北沢GARAGE",
+    title: "Live at 下北沢GARAGE (線ツアーファイナル)",
     description:
       "BURGER NUDSのライブ「線ツアーファイナル」、下北沢GARAGEにて開催",
     projectCategory: "BURGER NUDS",
@@ -1023,29 +830,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2001-11-25-burger-nuds",
-    date: "2001-11-25",
-    title: "CLUB DI:GA 1500 at 新宿LOFT",
-    description: "BURGER NUDSのライブ「CLUB DI:GA 1500」、新宿LOFTにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2001-12-02-000000",
     date: "2001-12-02",
     title:
       "BURGER NUDS - 無印良音 #13 ～テレスコープパーティーVol.2＋東京と大阪Vol.2～ at 新宿MARZ",
     description: "Monden MASAAKI出演の2001年12月2日イベントの概要。",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2001-12-02-burger-nuds",
-    date: "2001-12-02",
-    title:
-      "無印良音#13 ～テレスコープパーティーVol.2＋東京と大阪Vol.2～ at 新宿MARZ",
-    description:
-      "BURGER NUDSのライブ「無印良音#13 ～テレスコープパーティーVol.2＋東京と大阪Vol.2～」、新宿MARZにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -1118,14 +907,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2001-12-31-burger-nuds",
-    date: "2001-12-31",
-    title: "GARAGE年末EVENT at 下北沢GARAGE",
-    description: "BURGER NUDSのライブ「GARAGE年末EVENT」、下北沢GARAGEにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2001-12-31-burger-nuds-the-final-of-2001",
     date: "2001-12-31",
     title: "THE FINAL OF 2001 presented by SHINJUKU LOFT ～第1部～ at 新宿LOFT",
@@ -1147,14 +928,6 @@ export const timelineEntries: TimelineEntry[] = [
     date: "2002-01-25",
     title: "BURGER NUDS - Live Linx Vol.6 at 新宿LOFT",
     description: "BURGER NUDS新宿LOFT公演、ライブイベントに出演",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2002-01-25-burger-nuds",
-    date: "2002-01-25",
-    title: "Live Linx Vol.6 at 新宿LOFT",
-    description: "BURGER NUDSのライブ「Live Linx Vol.6」、新宿LOFTにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -1185,15 +958,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2002-03-05-burger-nuds",
-    date: "2002-03-05",
-    title: "BRAND NEW ENGIN at 渋谷ON AIR EAST",
-    description:
-      "BURGER NUDSのライブ「BRAND NEW ENGIN」、渋谷ON AIR EASTにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2002-03-08-000000",
     date: "2002-03-08",
     title:
@@ -1214,7 +978,7 @@ export const timelineEntries: TimelineEntry[] = [
   {
     id: "2002-03-15-graduation",
     date: "2002-03-15",
-    title: "門田匡陽・内田武瑠 大学卒業",
+    title: "門田匡陽・内田武瑠が大学卒業",
     description: "門田匡陽と内田武瑠が大学を卒業",
     eventType: "activity",
   },
@@ -1264,16 +1028,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2002-04-13-burger-nuds",
-    date: "2002-04-13",
-    title:
-      "レコ発インストアライブ ～テレスコープパーティーVol.3～ at TOWER RECORDS 渋谷店",
-    description:
-      "BURGER NUDSのライブ「レコ発インストアライブ ～テレスコープパーティーVol.3～」、TOWER RECORDS 渋谷店にて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2002-04-20-burger-nuds",
     date: "2002-04-20",
     title: "Live at 熊谷VOGUE",
@@ -1308,30 +1062,12 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2002-05-04-burger-nuds",
-    date: "2002-05-04",
-    title: "大阪と東京Vol.3 at 心斎橋SUNHALL",
-    description:
-      "BURGER NUDSのライブ「大阪と東京Vol.3」、心斎橋SUNHALLにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2002-05-15-000000",
     date: "2002-05-15",
     title:
       'BURGER NUDS - Live "パルナス「夜明ケ前」発売記念!!" at 下北沢Club Que',
     description:
       "パルナス「夜明ケ前」発売記念ライブ(2002年5月15日、下北沢Club Que)",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2002-05-15-burger-nuds",
-    date: "2002-05-15",
-    title: "パルナス「夜明ケ前」発売記念!! at 下北沢CLUB Que",
-    description:
-      "BURGER NUDSのライブ「パルナス「夜明ケ前」発売記念!!」、下北沢CLUB Queにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -1344,19 +1080,9 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2002-05-19-burger-nuds",
-    date: "2002-05-19",
-    title: "rookie 2 nights at LAFORET MUSEUM 原宿",
-    description:
-      "BURGER NUDSのライブ「rookie 2 nights」、LAFORET MUSEUM 原宿にて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2002-05-20-charging",
     date: "2002-05-20",
-    title: "BURGER NUDS - 充電期間開始",
-    description:
+    title:
       "「充電期間」として、5月20日〜8月2日までライブ活動を休止。門田と丸山の音楽性の不一致が表面化",
     projectCategory: "BURGER NUDS",
     eventType: "live",
@@ -1392,15 +1118,6 @@ export const timelineEntries: TimelineEntry[] = [
     title: 'BURGER NUDS - MACANA presents "Lick One\'s Lips" at 仙台enn',
     description:
       "BURGER NUDS - MACANA「Lick One's Lips」2002年8月8日仙台ennでのライブ",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2002-08-08-burger-nuds",
-    date: "2002-08-08",
-    title: 'MACANA presents "Lick One\'s Lips" at 仙台enn',
-    description:
-      'BURGER NUDSのライブ「MACANA presents "Lick One\'s Lips"」、仙台ennにて開催',
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -1457,15 +1174,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "release",
   },
   {
-    id: "2002-08-21-burger-nuds",
-    date: "2002-08-21",
-    title: 'B.O.C presents "BAUXiTE page1" at 川崎CLUB CITTA\'',
-    description:
-      'BURGER NUDSのライブ「B.O.C presents "BAUXiTE page1"」、川崎CLUB CITTA\'にて開催',
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2002-08-23-000000",
     date: "2002-08-23",
     title: 'BURGER NUDS - B.O.C presents "BAUXiTE page1" at 高知BAY5 SQUARE',
@@ -1474,28 +1182,10 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2002-08-23-burger-nuds",
-    date: "2002-08-23",
-    title: 'B.O.C presents "BAUXiTE page1" at 高知BAY5 SQUARE',
-    description:
-      'BURGER NUDSのライブ「B.O.C presents "BAUXiTE page1"」、高知BAY5 SQUAREにて開催',
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2002-08-31-000000",
     date: "2002-08-31",
     title: "BURGER NUDS - CLUB DI:GA SUMMER SERIES 2002 at 渋谷CLUB QUATTRO",
     description: "2002年、渋谷CLUB QUATTROでのサマーイベントに出演。",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2002-08-31-burger-nuds",
-    date: "2002-08-31",
-    title: "CLUB DI:GA SUMMER SERIES 2002 at 渋谷CLUB QUATTRO",
-    description:
-      "BURGER NUDSのライブ「CLUB DI:GA SUMMER SERIES 2002」、渋谷CLUB QUATTROにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -1543,26 +1233,10 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2002-11-07-burger-nuds",
-    date: "2002-11-07",
-    title: "CAMP! at 新宿LOFT",
-    description: "BURGER NUDSのライブ「CAMP!」、新宿LOFTにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2002-11-17-000000",
     date: "2002-11-17",
     title: "BURGER NUDS - SOLO LIVE at 新宿LOFT",
     description: "BURGER NUDS初のワンマンライブ、新宿LOFTで熱演、グッズ販売も",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2002-11-17-burger-nuds",
-    date: "2002-11-17",
-    title: "SOLO LIVE at 新宿LOFT",
-    description: "BURGER NUDSのライブ「SOLO LIVE」、新宿LOFTにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -1580,15 +1254,6 @@ export const timelineEntries: TimelineEntry[] = [
     date: "2002-12-05",
     title: "BURGER NUDS - TELESCOPE MEETING TOUR IN KYOTO at 京都磔磔",
     description: "2002年、京都でTELESCOPE MEETING TOURを行った。",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2002-12-05-burger-nuds",
-    date: "2002-12-05",
-    title: "TELESCOPE MEETING TOUR IN KYOTO at 京都磔磔",
-    description:
-      "BURGER NUDSのライブ「TELESCOPE MEETING TOUR IN KYOTO」、京都磔磔にて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -1619,29 +1284,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2002-12-23-burger-nuds",
-    date: "2002-12-23",
-    title: "ELVIS Jr. –HARAJUKU BURNING at LAFORET MUSEUM 原宿",
-    description:
-      "BURGER NUDSのライブ「ELVIS Jr. –HARAJUKU BURNING」、LAFORET MUSEUM 原宿にて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2002-12-28-000000",
     date: "2002-12-28",
     title: "BURGER NUDS - HIGH LINE NIGHT vol.5 at 下北沢CLUB Que",
     description:
       "BURGER NUDSがHIGH LINE NIGHT vol.5に出演。BUMP OF CHICKENがシークレットゲストとして登場。",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2002-12-28-burger-nuds",
-    date: "2002-12-28",
-    title: "ハイラインナイト at 下北沢CLUB Que",
-    description:
-      "BURGER NUDSのライブ「ハイラインナイト」、下北沢CLUB Queにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -1654,41 +1301,21 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2002-12-31-burger-nuds",
-    date: "2002-12-31",
-    title: "CLUB DI:GA GO GO 2003 at 渋谷CLUB QUATTRO",
-    description:
-      "BURGER NUDSのライブ「CLUB DI:GA GO GO 2003」、渋谷CLUB QUATTROにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2003-02-08-000000",
     date: "2003-02-08",
-    title: "BURGER NUDS - SATURDAY NIGHT R&R SHOW 2003 vol.2 at 新宿LOFT",
+    title:
+      "BURGER NUDS - SATURDAY NIGHT R&R SHOW 2003 Vol.2 supported by PIA Music Foundation at 新宿LOFT",
     description:
       "2003年2月8日、新宿LOFTで開催のイベントに出演。草の花など自作曲を披露。",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
   {
-    id: "2003-02-08-burger-nuds",
-    date: "2003-02-08",
-    title:
-      "SATURDAY NIGHT R&R SHOW 2003 Vol.2 supported by PIA Music Foundation at 新宿LOFT",
-    description:
-      "BURGER NUDSのライブ「SATURDAY NIGHT R&R SHOW 2003 Vol.2 supported by PIA Music Foundation」、新宿LOFTにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2003-02-09-burger-nuds",
     date: "2003-02-09",
-    title: "門田の体調不良により関西ツアーキャンセル)",
-    description:
-      "BURGER NUDSのライブ「(門田の体調不良により関西ツアーキャンセル)」、-にて開催",
+    title: "門田の体調不良により関西ツアーキャンセル",
     projectCategory: "BURGER NUDS",
-    eventType: "live",
+    eventType: "activity",
   },
   {
     id: "2003-05-02-000000",
@@ -1696,14 +1323,6 @@ export const timelineEntries: TimelineEntry[] = [
     title: "BURGER NUDS - TELESCOPE CARNIVAL at 新宿MARZ",
     description:
       "2003年5月2日、新宿MARZで「TELESCOPE CARNIVAL」開催。BURGER NUDSが出演。",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2003-05-02-burger-nuds",
-    date: "2003-05-02",
-    title: "TELESCOPE CARNIVAL at 新宿MARZ",
-    description: "BURGER NUDSのライブ「TELESCOPE CARNIVAL」、新宿MARZにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -1717,26 +1336,10 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2003-05-12-burger-nuds",
-    date: "2003-05-12",
-    title: "CAMP! at 新宿LOFT",
-    description: "BURGER NUDSのライブ「CAMP!」、新宿LOFTにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2003-06-06-000000",
     date: "2003-06-06",
     title: "BURGER NUDS - LIVE kanaderu at 新宿MARZ",
     description: "Monden MASAAKIによる2003年6月の新宿MARZ LIVEパフォーマンス。",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2003-06-06-burger-nuds",
-    date: "2003-06-06",
-    title: "LIVE kanaderu at 新宿MARZ",
-    description: "BURGER NUDSのライブ「LIVE kanaderu」、新宿MARZにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -1746,14 +1349,6 @@ export const timelineEntries: TimelineEntry[] = [
     title: "BURGER NUDS - TELESCOPE MEETING at 新宿LOFT",
     description:
       "2003年6月、新宿LOFTで「TELESCOPE MEETING」イベントに出演。共演者多数、機材トラブルあり。",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2003-06-15-burger-nuds",
-    date: "2003-06-15",
-    title: "TELESCOPE MEETING at 新宿LOFT",
-    description: "BURGER NUDSのライブ「TELESCOPE MEETING」、新宿LOFTにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -1795,7 +1390,7 @@ export const timelineEntries: TimelineEntry[] = [
   {
     id: "2003-08-26-000000",
     date: "2003-08-26",
-    title: "BURGER NUDS - Live at 渋谷PLUG (シークレットライブ)",
+    title: "BURGER NUDS - Live at 渋谷PLUG",
     description:
       "2003年限定100人ライブ。アコースティック編成で6曲演奏。共演に吉田直生らが出演。",
     projectCategory: "BURGER NUDS",
@@ -1823,17 +1418,9 @@ export const timelineEntries: TimelineEntry[] = [
   {
     id: "2003-08-31-000000",
     date: "2003-08-31",
-    title: "BURGER NUDS - SUGAR BOWL at 渋谷CLUB QUATTRO [incomplete]",
+    title: "BURGER NUDS - SUGAR BOWL at 渋谷CLUB QUATTRO",
     description:
       "2003年、渋谷QUATTROでライブ。ASIAN KUNG-FU GENERATIONなどと共演。Viewsicによりテレビ放映された。",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2003-08-31-burger-nuds",
-    date: "2003-08-31",
-    title: "SUGAR BOWL at 渋谷CLUB QUATTRO",
-    description: "BURGER NUDSのライブ「SUGAR BOWL」、渋谷CLUB QUATTROにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -1863,15 +1450,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2003-09-07-burger-nuds",
-    date: "2003-09-07",
-    title: "ロックのいいなり VOL.22 at 神戸スタークラブ",
-    description:
-      "BURGER NUDSのライブ「ロックのいいなり VOL.22」、神戸スタークラブにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2003-09-14-000000",
     date: "2003-09-14",
     title: "BURGER NUDS - インストアライブ at TOWER RECORDS 渋谷店 STAGE ONE",
@@ -1881,31 +1459,12 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2003-09-14-burger-nuds",
-    date: "2003-09-14",
-    title: "レコ発LIVE at TOWER RECORDS 渋谷店 STAGE ONE",
-    description:
-      "BURGER NUDSのライブ「レコ発LIVE」、TOWER RECORDS 渋谷店 STAGE ONEにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2003-09-17-000000",
     date: "2003-09-17",
     title:
-      'BURGER NUDS - ゴッホ魂 vol.2 "doorknob!! livefactory.272ch" at 新宿LOFT [imcomplete]',
+      'BURGER NUDS - ゴッホ魂 vol.2 "doorknob!! livefactory.272ch" at 新宿LOFT',
     description:
-      "BURGER NUDSのライブ「ゴッホ魂vol.2」、新宿LOFTにて2003年9月17日開催。",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2003-09-17-burger-nuds",
-    date: "2003-09-17",
-    title:
-      "～ゴッホ魂 vol.2～ 《doorknob!! livefactory.272ch》(LIVE FACTORY番組収録LIVE) at 新宿LOFT",
-    description:
-      "BURGER NUDSのライブ「～ゴッホ魂 vol.2～ 《doorknob!! livefactory.272ch》(LIVE FACTORY番組収録LIVE)」、新宿LOFTにて開催",
+      "BURGER NUDSのライブ「ゴッホ魂vol.2」、新宿LOFTにて2003年9月17日開催。(LIVE FACTORY番組収録LIVE)",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -1914,14 +1473,6 @@ export const timelineEntries: TimelineEntry[] = [
     date: "2003-09-20",
     title: "Live at 仙台JUNK BOX",
     description: "BURGER NUDS、仙台JUNK BOXにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2003-09-21-burger-nuds",
-    date: "2003-09-21",
-    title: "Live at 宇都宮VOGUE",
-    description: "BURGER NUDS、宇都宮VOGUEにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -1942,28 +1493,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2003-10-03-burger-nuds",
-    date: "2003-10-03",
-    title: "LOFT POWER PUSH! at 新宿LOFT",
-    description: "BURGER NUDSのライブ「LOFT POWER PUSH!」、新宿LOFTにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2003-10-18-000000",
     date: "2003-10-18",
     title: "BURGER NUDS - MINAMI WHEEL 2003 at 心斎橋BAHAMAHALL",
     description:
       "BURGER NUDS、MINAMI WHEEL 2003でライブ。大阪・心斎橋BAHAMAHALLにて開催。",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2003-10-18-burger-nuds",
-    date: "2003-10-18",
-    title: "MINAMI WHEEL 2003 at 心斎橋BAHAMAHALL",
-    description:
-      "BURGER NUDSのライブ「MINAMI WHEEL 2003」、心斎橋BAHAMAHALLにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -1977,28 +1511,10 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2003-11-04-burger-nuds",
-    date: "2003-11-04",
-    title: "かっとばせ!BIRTH!! at 心斎橋CLUB QUATTRO",
-    description:
-      "BURGER NUDSのライブ「かっとばせ!BIRTH!!」、心斎橋CLUB QUATTROにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2003-11-06-000000",
     date: "2003-11-06",
     title: "BURGER NUDS - かっとばせ!BIRTH!! at 渋谷CLUB QUATTRO",
     description: "2003年に渋谷CLUB QUATTROでBIRTH vol.1コンピイベントに出演。",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2003-11-06-burger-nuds",
-    date: "2003-11-06",
-    title: "かっとばせ!BIRTH!! at 渋谷CLUB QUATTRO",
-    description:
-      "BURGER NUDSのライブ「かっとばせ!BIRTH!!」、渋谷CLUB QUATTROにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -2012,28 +1528,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2003-11-11-burger-nuds",
-    date: "2003-11-11",
-    title: "GSGP PROJECT SPECIAL at 心斎橋BIG CAT",
-    description:
-      "BURGER NUDSのライブ「GSGP PROJECT SPECIAL」、心斎橋BIG CATにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
     id: "2003-12-07-000000",
     date: "2003-12-07",
     title: "BURGER NUDS - SOLO LIVE at 新宿LIQUIDROOM",
     description:
       "BURGER NUDS SOLO LIVE、新宿LIQUIDROMで開催。ライブ映像と物販Tシャツが注目を集める。",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2003-12-07-burger-nuds",
-    date: "2003-12-07",
-    title: "SOLO LIVE at 新宿LIQUIDROOM",
-    description: "BURGER NUDSのライブ「SOLO LIVE」、新宿LIQUIDROOMにて開催",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -2052,15 +1551,6 @@ export const timelineEntries: TimelineEntry[] = [
     date: "2003-12-31",
     title: "Live at 新宿LOFT",
     description: "BURGER NUDS、新宿LOFTにて開催",
-    projectCategory: "BURGER NUDS",
-    eventType: "live",
-  },
-  {
-    id: "2004-01-11-000000",
-    date: "2004-01-11",
-    title: "BURGER NUDS - Live at 渋谷O-EAST",
-    description:
-      "2004年1月11日、渋谷O-EASTでのライブ。BURGER NUDSがメインアクト。",
     projectCategory: "BURGER NUDS",
     eventType: "live",
   },
@@ -2121,7 +1611,8 @@ export const timelineEntries: TimelineEntry[] = [
   {
     id: "2004-07-10-000000",
     date: "2004-07-10",
-    title: "Good Dog Happy Men - 北沢音楽祭～LOCAL～ at 下北沢GARAGE",
+    title:
+      "Good Dog Happy Men - 北沢音楽祭～LOCAL～ at 下北沢GARAGE (GDHM初ライブ)",
     description:
       "Good Dog Happy Menとしての初ライブ。北沢音楽祭にて下北沢GARAGEで演奏。",
     projectCategory: "Good Dog Happy Men",
@@ -2233,15 +1724,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2004-12-12-good-dog-happy-men",
-    date: "2004-12-12",
-    title: "Moon light Medicine at 下北沢GARAGE",
-    description:
-      "Good Dog Happy Menのライブ「Moon light Medicine」、下北沢GARAGEにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2004-12-23-000000",
     date: "2004-12-23",
     title:
@@ -2324,15 +1806,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2005-05-07-good-dog-happy-men",
-    date: "2005-05-07",
-    title: "Moonlight Medicine 「4人のゴブリン大いに躍る夜」 at 下北沢GARAGE",
-    description:
-      "Good Dog Happy Menのライブ「Moonlight Medicine 「4人のゴブリン大いに躍る夜」」、下北沢GARAGEにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2005-05-10-門田匡陽",
     date: "2005-05-10",
     title:
@@ -2398,30 +1871,12 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2005-07-10-good-dog-happy-men",
-    date: "2005-07-10",
-    title: "北沢音楽祭 at 北沢タウンホール",
-    description:
-      "Good Dog Happy Menのライブ「北沢音楽祭」、北沢タウンホールにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2005-08-18-000000",
     date: "2005-08-18",
     title:
       'Good Dog Happy Men - LOFT presents "UNDER THE INFLUENCE" at 新宿LOFT',
     description:
       "Monden MASAAKIが2005年8月新宿LOFTで開催された「UNDER THE INFLUENCE」に出演。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2005-08-18-good-dog-happy-men",
-    date: "2005-08-18",
-    title: 'loft presents "UNDER THE INFLUENCE" at 新宿LOFT',
-    description:
-      'Good Dog Happy Menのライブ「loft presents "UNDER THE INFLUENCE"」、新宿LOFTにて開催',
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -2436,30 +1891,12 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2005-09-24-good-dog-happy-men",
-    date: "2005-09-24",
-    title: 'chill blue presents "Free Style" at 大阪福島2nd LINE',
-    description:
-      'Good Dog Happy Menのライブ「chill blue presents "Free Style"」、大阪福島2nd LINEにて開催',
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2005-09-30-000000",
     date: "2005-09-30",
     title:
       "Good Dog Happy Men - HIGH LINE NIGHT vol.autumn at 高円寺CLUB LINER",
     description:
       "Monden MASAAKI演奏、2005年9月30日高円寺CLUB LINERでのイベント出演",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2005-09-30-good-dog-happy-men",
-    date: "2005-09-30",
-    title: "HIGH LINE NIGHT vol.autumn at 高円寺CLUB LINER",
-    description:
-      "Good Dog Happy Menのライブ「HIGH LINE NIGHT vol.autumn」、高円寺CLUB LINERにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -2487,15 +1924,6 @@ export const timelineEntries: TimelineEntry[] = [
     title: "Good Dog Happy Men - Moonlight Medicine Vol.3 at 下北沢GARAGE",
     description:
       "Monden MASAAKIの下北沢GARAGEライブ。クロッカスの球根が来場者に配られた。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2005-11-19-good-dog-happy-men",
-    date: "2005-11-19",
-    title: "Moonlight Medicine Vol.3 at 下北沢GARAGE",
-    description:
-      "Good Dog Happy Menのライブ「Moonlight Medicine Vol.3」、下北沢GARAGEにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -2548,7 +1976,7 @@ export const timelineEntries: TimelineEntry[] = [
   {
     id: "2006-01-26-内田武瑠",
     date: "2006-01-26",
-    title: "神田川 at 下北沢GARAGE",
+    title: "内田武瑠 - 神田川 at 下北沢GARAGE",
     description: "内田武瑠のライブ「神田川」、下北沢GARAGEにて開催",
     projectCategory: "内田武瑠",
     eventType: "live",
@@ -2563,28 +1991,10 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2006-02-25-good-dog-happy-men",
-    date: "2006-02-25",
-    title: "Make Me Mad!!! 04 at 大阪福島2nd LINE",
-    description:
-      "Good Dog Happy Menのライブ「Make Me Mad!!! 04」、大阪福島2nd LINEにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2006-02-27-000000",
     date: "2006-02-27",
     title: "Good Dog Happy Men - Live at 名古屋APOLLO THEATER",
     description: "2006年2月27日、名古屋のライブでMASAAKIが出演。共演者も紹介。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2006-02-27-good-dog-happy-men",
-    date: "2006-02-27",
-    title: "Live at 名古屋APOLLO THEATER",
-    description:
-      "Good Dog Happy Menのライブ「Live」、名古屋APOLLO THEATERにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -2601,17 +2011,8 @@ export const timelineEntries: TimelineEntry[] = [
     id: "2006-04-14-000000",
     date: "2006-04-14",
     title:
-      "Good Dog Happy Men - HEAVEN'S ROCK VJ-1 PRESENTS  at 熊谷HEVEN'S ROCK kumagaya VJ-1",
+      "Good Dog Happy Men - HEAVEN'S ROCK VJ-1 PRESENTS at 熊谷HEVEN'S ROCK kumagaya VJ-1",
     description: "2006年4月、熊谷VJ-1でライブ。Good Dog Happy Menが出演。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2006-04-14-good-dog-happy-men",
-    date: "2006-04-14",
-    title: "HEAVEN'S ROCK VJ-1 PRESENTS at 熊谷HEVEN'S ROCK kumagaya VJ-1",
-    description:
-      "Good Dog Happy Menのライブ「HEAVEN'S ROCK VJ-1 PRESENTS」、熊谷HEVEN'S ROCK kumagaya VJ-1にて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -2670,15 +2071,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2006-05-25-good-dog-happy-men",
-    date: "2006-05-25",
-    title: "GRAMROUS GUITAR Vol.3 at 川崎CLUB CITTA'",
-    description:
-      "Good Dog Happy Menのライブ「GRAMROUS GUITAR Vol.3」、川崎CLUB CITTA'にて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2006-05-27-good-dog-happy-men",
     date: "2006-05-27",
     title: "トアロード交差点 -イレギュラーバウンド戦- at 神戸VARIT",
@@ -2707,30 +2099,12 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2006-05-28-good-dog-happy-men",
-    date: "2006-05-28",
-    title: "Most beautiful in the world Tour 2006 at 名古屋CLUB UPSET",
-    description:
-      "Good Dog Happy Menのライブ「Most beautiful in the world Tour 2006」、名古屋CLUB UPSETにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2006-06-10-000000",
     date: "2006-06-10",
     title:
       "Good Dog Happy Men - Most beautiful in the world tour 2006 at 水戸LIGHT HOUSE",
     description:
       "2006年6月、水戸LIGHTHOUSEでのツアー公演。7曲を熱演したMonden MASAAKIのライブ",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2006-06-10-good-dog-happy-men",
-    date: "2006-06-10",
-    title: "Most beautiful in the world tour 2006 at 水戸LIGHT HOUSE",
-    description:
-      "Good Dog Happy Menのライブ「Most beautiful in the world tour 2006」、水戸LIGHT HOUSEにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -2750,15 +2124,6 @@ export const timelineEntries: TimelineEntry[] = [
       "Good Dog Happy Men - Most beautiful in the world tour 2006 at 札幌COLONY",
     description:
       "Good Dog Happy Men の札幌COLONYツアー公演。monobright、tacica など共演。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2006-06-13-good-dog-happy-men",
-    date: "2006-06-13",
-    title: "Most beautiful in the world tour 2006 at 札幌COLONY",
-    description:
-      "Good Dog Happy Menのライブ「Most beautiful in the world tour 2006」、札幌COLONYにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -2793,15 +2158,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2006-06-18-good-dog-happy-men",
-    date: "2006-06-18",
-    title: "Most beautiful in the world tour 2006 at 高崎club FLEEZ",
-    description:
-      "Good Dog Happy Menのライブ「Most beautiful in the world tour 2006」、高崎club FLEEZにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2006-07-06-good-dog-happy-men",
     date: "2006-07-06",
     title:
@@ -2822,30 +2178,12 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2006-07-07-good-dog-happy-men",
-    date: "2006-07-07",
-    title: "Most beautiful in the world tour 2006 at 名古屋APOLLO THEATER",
-    description:
-      "Good Dog Happy Menのライブ「Most beautiful in the world tour 2006」、名古屋APOLLO THEATERにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2006-07-09-000000",
     date: "2006-07-09",
     title:
       "Good Dog Happy Men - Most beautiful in the world tour 2006 at 京都磔磔",
     description:
       'Monden MASAAKI\'s 2006 "Most beautiful in the world" tour at Kyoto Takigi-za.',
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2006-07-09-good-dog-happy-men",
-    date: "2006-07-09",
-    title: "Most beautiful in the world tour 2006 at 京都磔磔",
-    description:
-      "Good Dog Happy Menのライブ「Most beautiful in the world tour 2006」、京都磔磔にて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -2904,30 +2242,12 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2006-07-27-good-dog-happy-men",
-    date: "2006-07-27",
-    title: "DROP 3rd Anniversary at 心斎橋DROP",
-    description:
-      "Good Dog Happy Menのライブ「DROP 3rd Anniversary」、心斎橋DROPにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2006-07-31-000000",
     date: "2006-07-31",
     title:
       "Good Dog Happy Men - au presents bayfm MUSIC DAYz Vol.2 at 千葉LOOK",
     description:
       "Mond en MASAAKI、バンド「Good Dog Happy Men」として2006年7月に千葉LOOKで開催されたライブイベントに出演。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2006-07-31-good-dog-happy-men",
-    date: "2006-07-31",
-    title: "au presents bayfm MUSIC DAYz Vol.2 at 千葉LOOK",
-    description:
-      "Good Dog Happy Menのライブ「au presents bayfm MUSIC DAYz Vol.2」、千葉LOOKにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -2951,29 +2271,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2006-08-10-good-dog-happy-men",
-    date: "2006-08-10",
-    title: "くるり対バンツアー2006 ～毎日が地蔵盆～ at 豊橋LAHAINA",
-    description:
-      "Good Dog Happy Menのライブ「くるり対バンツアー2006 ～毎日が地蔵盆～」、豊橋LAHAINAにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2006-08-27-000000",
     date: "2006-08-27",
     title: "Good Dog Happy Men - excope at 長野LIVE HOUSE J",
     description:
       "2006年8月27日、長野LIVE HOUSE Jで開催されたexcopeイベントに出演。多彩な楽曲を披露した。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2006-08-27-good-dog-happy-men",
-    date: "2006-08-27",
-    title: "excope at 長野LIVE HOUSE J",
-    description:
-      "Good Dog Happy Menのライブ「excope」、長野LIVE HOUSE Jにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -2988,30 +2290,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2006-09-11-good-dog-happy-men",
-    date: "2006-09-11",
-    title:
-      'SHINJUKU LOFT 30TH ANNIVERSARY "ROCK OF AGES 2006" 「UNDER THE INFLUENCE」 at 新宿LOFT',
-    description:
-      'Good Dog Happy Menのライブ「SHINJUKU LOFT 30TH ANNIVERSARY "ROCK OF AGES 2006" 「UNDER THE INFLUENCE」」、新宿LOFTにて開催',
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2006-09-22-000000",
     date: "2006-09-22",
     title: "Good Dog Happy Men - NEW HORIZON at 名古屋CLUB UPSET",
     description:
       "Monden MASAAKI participates in NEW HORIZON event at Nagoya CLUB UPSET, featuring diverse music performances.",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2006-09-22-good-dog-happy-men",
-    date: "2006-09-22",
-    title: "NEW HORIZON at 名古屋CLUB UPSET",
-    description:
-      "Good Dog Happy Menのライブ「NEW HORIZON」、名古屋CLUB UPSETにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -3029,15 +2312,6 @@ export const timelineEntries: TimelineEntry[] = [
     date: "2006-10-08",
     title: "Good Dog Happy Men - インストアライブ at 下北沢HIGHLINE RECORDS",
     description: "Monden MASAAKI:下北沢HLRCでアコースティックインストアライブ",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2006-10-08-good-dog-happy-men",
-    date: "2006-10-08",
-    title: "インストアライブ at 下北沢HIGHLINE RECORDS",
-    description:
-      "Good Dog Happy Menのライブ「インストアライブ」、下北沢HIGHLINE RECORDSにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -3069,29 +2343,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2006-10-30-good-dog-happy-men",
-    date: "2006-10-30",
-    title: "インストアライブ at TOWER RECORDS 吉祥寺店",
-    description:
-      "Good Dog Happy Menのライブ「インストアライブ」、TOWER RECORDS 吉祥寺店にて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2006-11-04-000000",
     date: "2006-11-04",
     title: "Good Dog Happy Men - インストアライブ at TOWER RECORDS 京都店",
     description:
       "Monden MASAAKI、2006年11月、TOWER RECORDS京都店でアコースティックインストアライブ",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2006-11-04-good-dog-happy-men",
-    date: "2006-11-04",
-    title: "インストアライブ at TOWER RECORDS 京都店",
-    description:
-      "Good Dog Happy Menのライブ「インストアライブ」、TOWER RECORDS 京都店にて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -3125,16 +2381,6 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2006-11-24-good-dog-happy-men",
-    date: "2006-11-24",
-    title:
-      "Moonlight Medicine ～Most beautiful in the world～ at 十三ファンダンゴ",
-    description:
-      "Good Dog Happy Menのライブ「Moonlight Medicine ～Most beautiful in the world～」、十三ファンダンゴにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2006-11-26-000000",
     date: "2006-11-26",
     title:
@@ -3150,15 +2396,6 @@ export const timelineEntries: TimelineEntry[] = [
     },
   },
   {
-    id: "2006-11-26-good-dog-happy-men",
-    date: "2006-11-26",
-    title: "Moonlight Medicine ～Most beautiful in the world～ at 新宿LOFT",
-    description:
-      "Good Dog Happy Menのライブ「Moonlight Medicine ～Most beautiful in the world～」、新宿LOFTにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2006-12-09-000000",
     date: "2006-12-09",
     title: "Good Dog Happy Men - SCJB ROCK NIGHT at 仙台JUNK BOX",
@@ -3168,29 +2405,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2006-12-09-good-dog-happy-men",
-    date: "2006-12-09",
-    title: "SCJB ROCK NIGHT at 仙台JUNK BOX",
-    description:
-      "Good Dog Happy Menのライブ「SCJB ROCK NIGHT」、仙台JUNK BOXにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2006-12-10-000000",
     date: "2006-12-10",
     title:
       'Good Dog Happy Men - Syrup16g presents "UP TO THE WORLD #3" at 渋谷AX',
     description: "Good Dog Happy Mens出演、Syrup16g主催イベントでのライブ",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2006-12-10-good-dog-happy-men",
-    date: "2006-12-10",
-    title: 'Syrup16g presents "UP TO THE WORLD #3" at 渋谷AX',
-    description:
-      'Good Dog Happy Menのライブ「Syrup16g presents "UP TO THE WORLD #3"」、渋谷AXにて開催',
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -3205,30 +2424,12 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2006-12-17-good-dog-happy-men",
-    date: "2006-12-17",
-    title: "インストアライブ at TOWER RECORDS 名古屋近鉄パッセ店",
-    description:
-      "Good Dog Happy Menのライブ「インストアライブ」、TOWER RECORDS 名古屋近鉄パッセ店にて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2006-12-30-000000",
     date: "2006-12-30",
     title:
       'Good Dog Happy Men - GARAGE年末イベント "さよなら2006" (2部) at 下北沢GARAGE',
     description:
       "Monden MASAAKI出演、GARAGE年末イベント「さよなら2006」(2部)での演奏。共演バンドも紹介。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2006-12-30-good-dog-happy-men",
-    date: "2006-12-30",
-    title: 'GARAGE年末イベント"さよなら2006" [2部] at 下北沢GARAGE',
-    description:
-      'Good Dog Happy Menのライブ「GARAGE年末イベント"さよなら2006" [2部]」、下北沢GARAGEにて開催',
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -3243,29 +2444,11 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2006-12-31-good-dog-happy-men",
-    date: "2006-12-31",
-    title: "COUNTDOWN JAPAN 06/07 at 幕張メッセ MOON STAGE",
-    description:
-      "Good Dog Happy Menのライブ「COUNTDOWN JAPAN 06/07」、幕張メッセ MOON STAGEにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2007-02-14-000000",
     date: "2007-02-14",
     title: "Good Dog Happy Men - comes a live vol.3 at 渋谷CLUB QUATTRO",
     description:
       "Good Dog Happy Men、渋谷CLUBQUATTROでcomes a live vol.3開催。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2007-02-14-good-dog-happy-men",
-    date: "2007-02-14",
-    title: "comes a live vol.3 at 渋谷CLUB QUATTRO",
-    description:
-      "Good Dog Happy Menのライブ「comes a live vol.3」、渋谷CLUB QUATTROにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
@@ -3279,31 +2462,12 @@ export const timelineEntries: TimelineEntry[] = [
     eventType: "live",
   },
   {
-    id: "2007-03-18-good-dog-happy-men",
-    date: "2007-03-18",
-    title: "JAPAN CIRCUIT Vol.41 at 渋谷AX",
-    description:
-      "Good Dog Happy Menのライブ「JAPAN CIRCUIT Vol.41」、渋谷AXにて開催",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
     id: "2007-03-24-000000",
     date: "2007-03-24",
     title:
       "Good Dog Happy Men - LOFT presents SATURDAY NIGHT R&R SHOW 2007 Vol.2 supported by Weeklyぴあ at 新宿LOFT",
     description:
       "2007年、新宿LOFTで開催のイベントに出演。ロックンロールショーで歌唱パフォーマンス。",
-    projectCategory: "Good Dog Happy Men",
-    eventType: "live",
-  },
-  {
-    id: "2007-03-24-good-dog-happy-men",
-    date: "2007-03-24",
-    title:
-      "LOFT presents SATURDAY NIGHT R&R SHOW 2007 Vol.2 supported by Weeklyぴあ at 新宿LOFT",
-    description:
-      "Good Dog Happy Menのライブ「LOFT presents SATURDAY NIGHT R&R SHOW 2007 Vol.2 supported by Weeklyぴあ」、新宿LOFTにて開催",
     projectCategory: "Good Dog Happy Men",
     eventType: "live",
   },
