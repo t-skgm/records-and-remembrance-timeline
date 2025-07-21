@@ -3,6 +3,7 @@ import { clsx } from "clsx";
 import { MediaEmbed } from "./MediaEmbed";
 import Link from "next/link";
 import { eventTypeDisplayNames } from "@/utils/timelineData";
+import { parseNumber } from "@/utils/parseNumber";
 
 interface EventItemProps {
   event: TimelineEntry;
@@ -11,7 +12,7 @@ interface EventItemProps {
 const formatDate = (dateString: string) => {
   // タイムゾーンの影響を避けるため、直接パースする
   const [, , day] = dateString.split("-");
-  return `${Number.parseInt(day, 10)}日`;
+  return `${parseNumber(day)}日`;
 };
 
 export function EventItem({ event }: EventItemProps) {

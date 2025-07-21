@@ -22,6 +22,7 @@ export function TableOfContents({
   onNavigate,
 }: TableOfContentsProps) {
   const [tocItems, setTocItems] = useState<TOCItem[]>([]);
+  console.log(tocItems);
   const [isCollapsed, setIsCollapsed] = useState(true);
 
   useEffect(() => {
@@ -31,7 +32,9 @@ export function TableOfContents({
     const items: TOCItem[] = [];
 
     yearSections.forEach((yearSection) => {
-      const yearTitle = yearSection.querySelector(".year-title")?.textContent;
+      const yearTitle = yearSection
+        .querySelector(".year-title")
+        ?.attributes.getNamedItem("data-year")?.value;
       if (!yearTitle) return;
 
       const monthSections = yearSection.querySelectorAll(".month-section");
@@ -40,7 +43,7 @@ export function TableOfContents({
       monthSections.forEach((monthSection) => {
         const monthTitle = monthSection
           .querySelector(".month-title")
-          ?.textContent?.replace("月", "");
+          ?.attributes.getNamedItem("data-month")?.value;
         if (monthTitle) {
           months.push(monthTitle);
         }

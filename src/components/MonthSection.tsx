@@ -1,5 +1,6 @@
 import { TimelineEntry } from "@/types/timeline";
 import { EventItem } from "./EventItem";
+import { parseNumber } from "@/utils/parseNumber";
 
 interface MonthSectionProps {
   year: string;
@@ -13,8 +14,9 @@ export function MonthSection({ year, month, events }: MonthSectionProps) {
       <h3
         id={`month-${year}-${month}`}
         className="month-title text-xl font-medium text-timeline-text-secondary mb-4 tracking-wider"
+        data-month={parseNumber(month)}
       >
-        {month}月
+        {parseNumber(month)}月
       </h3>
 
       <div className="events-container pl-4">

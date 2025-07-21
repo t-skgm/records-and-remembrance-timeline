@@ -1,5 +1,6 @@
 import { TimelineEntry } from "@/types/timeline";
 import { MonthSection } from "./MonthSection";
+import { parseNumber } from "@/utils/parseNumber";
 
 interface YearSectionProps {
   year: string;
@@ -17,8 +18,9 @@ export function YearSection({ year, monthsData }: YearSectionProps) {
       <h2
         id={`year-${year}`}
         className="year-title text-3xl font-normal text-timeline-text-primary mb-8 tracking-widest"
+        data-year={parseNumber(year)}
       >
-        {year}
+        {parseNumber(year)}年
       </h2>
 
       <div className="months-container">
