@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { clsx } from "clsx";
-import { EventType } from "@/types/timeline";
+import { EventType } from "@/domain/timeline";
 import { eventTypeDisplayNames } from "@/utils/timelineData";
 
 interface TimelineFilterProps {

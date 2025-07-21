@@ -1,4 +1,4 @@
-import { TimelineEntry } from "@/types/timeline";
+import { TimelineEntry } from "@/domain/timeline";
 import { EventItem } from "./EventItem";
 import { parseNumber } from "@/utils/parseNumber";
 

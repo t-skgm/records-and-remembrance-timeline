@@ -1,4 +1,4 @@
-import { TimelineEntry } from "@/types/timeline";
+import { TimelineEntry } from "@/domain/timeline";
 import { getYouTubeEmbedUrl } from "@/utils/helpers";
 
 interface MediaEmbedProps {

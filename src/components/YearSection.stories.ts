@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from "@storybook/nextjs";
 import { YearSection } from "./YearSection";
-import { TimelineEntry } from "../types/timeline";
+import { TimelineEntry } from "../domain/timeline";
 import { groupTimelineByYearMonth } from "@/utils/timelineData";
 
 // サンプルデータ

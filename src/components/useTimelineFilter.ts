@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useMemo } from "react";
-import { EventType, TimelineEntry } from "@/types/timeline";
+import { EventType, TimelineEntry } from "@/domain/timeline";
 import {
   getUniqueEventTypes,
   getUniqueProjectCategories,

@@ -3,7 +3,7 @@ import {
   TimelineEntry,
   GroupedTimeline,
   EventType,
-} from "@/types/timeline";
+} from "@/domain/timeline";
 import { timelineEntries } from "../data/timeline";
 
 export function loadTimelineData(): TimelineData {
@@ -58,7 +58,7 @@ export function groupTimelineByYearMonth(
 ): GroupedTimeline {
   const grouped = entries.reduce<GroupedTimeline>((acc, entry) => {
     // タイムゾーンの影響を避けるため、直接パースする
-    const [year, month] = entry.date.split('-');
+    const [year, month] = entry.date.split("-");
 
     if (!acc[year]) {
       acc[year] = {};

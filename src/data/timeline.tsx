@@ -1,4 +1,4 @@
-import { TimelineEntry } from "@/types/timeline";
+import { TimelineEntry } from "@/domain/timeline";
 
 export const timelineEntries: TimelineEntry[] = [
   {

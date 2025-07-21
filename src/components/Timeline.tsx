@@ -1,4 +1,4 @@
-import { GroupedTimeline } from "@/types/timeline";
+import { GroupedTimeline } from "@/domain/timeline";
 import { YearSection } from "./YearSection";
 import { ScrollTracker } from "./ScrollTracker";
 

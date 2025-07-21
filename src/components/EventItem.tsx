@@ -1,4 +1,4 @@
-import { TimelineEntry } from "@/types/timeline";
+import { TimelineEntry } from "@/domain/timeline";
 import { clsx } from "clsx";
 import { MediaEmbed } from "./MediaEmbed";
 import Link from "next/link";

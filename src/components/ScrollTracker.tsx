@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect, useRef } from "react";
-import { TableOfContents } from "./TableOfContents";
+import { TableOfContents } from "./TableOfContents/TableOfContents";
 import { clsx } from "clsx";
 
 interface ScrollTrackerProps {
@@ -161,7 +161,7 @@ export function ScrollTracker({ children }: ScrollTrackerProps) {
           if (foundDate && foundMonth && foundYear) {
             // Extract just the day number from foundDate (e.g., "20日" -> "20")
             const dayNumber = foundDate.replace("日", "");
-            newHash = `#date-${foundYear}-${foundMonth.padStart(2, '0')}-${dayNumber.padStart(2, '0')}`;
+            newHash = `#date-${foundYear}-${foundMonth.padStart(2, "0")}-${dayNumber.padStart(2, "0")}`;
           } else if (foundMonth) {
             newHash = `#month-${foundYear}-${foundMonth}`;
           } else if (foundYear) {

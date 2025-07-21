@@ -1,4 +1,4 @@
-import { TimelineEntry } from "@/types/timeline";
+import { TimelineEntry } from "@/domain/timeline";
 import { MonthSection } from "./MonthSection";
 import { parseNumber } from "@/utils/parseNumber";
 
